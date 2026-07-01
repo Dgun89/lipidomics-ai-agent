@@ -1,0 +1,23 @@
+# 논문/데이터 (저작권·용량 문제로 비공개)
+*.pdf
+stage1_rag_basics/data/*
+!stage1_rag_basics/data/.gitkeep
+
+# 벡터DB·인덱스 산출물
+*.index
+chroma_db/
+qdrant_data/
+storage/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
