@@ -23,6 +23,7 @@ stage1_rag_basics/
     step3_query.py              VectorStoreIndex -> 질의응답 (LLM: HuggingFace Inference API, Qwen2.5-7B-Instruct)
     step4_strict_grounding.py   그라운딩 강제 프롬프트 실험 (PromptTemplate)
     step5_balanced_grounding.py 프롬프트 완화 + 청크 재분할 실험 (SentenceSplitter, top_k)
+    step6_reranking.py           검색 안정화(재순위화) + 그라운딩 프롬프트 완화 실험
   data/                         PDF 원본 (gitignore 처리, 커밋 안 됨)
 stage2_graphrag/
 stage3_agentic/
@@ -44,6 +45,10 @@ stage4_phd_research/
   - 청크를 256토큰 단위로 재분할, top_k=5로 확대 → 부분 개선되었으나 완전한 안정화는 아님
   - 결론: 프롬프트 조정 전에 검색 결과(source_nodes)부터 확인하는 진단 순서가 중요함을 확인
 - [x] 연구노트 작성: step4_research_note.md, step5_research_note.md (stage4_phd_research/)
+- [x] step6: 재순위화(reranking)로 검색 안정화 + 그라운딩 프롬프트 3단계 완화(STRICT→BALANCED→LOOSE) 실험
+  - 검색 안정화: SentenceTransformerRerank로 top_k=10 → 재순위화 후 top_n=3, 지질 클래스 질문 검색 성공
+  - 프롬프트 완화: 3단계 모두 시도했으나 지질 클래스 질문은 계속 거부됨, 프랑스 수도 질문은 3단계 모두 정상 거부(성공)
+  - 결론: 검색 문제와 프롬프트 엄격도 문제는 해결됐으나, "예시 등장 vs 논문 주제로 다룸"을 구분하는 질문 자체의 일반화 요구 수준은 프롬프트만으로 해결 안 됨 — 질문 설계의 문제로 별도 확인 필요
 - [ ] 다음: 2단계(GraphRAG) 착수
 
 ## 참고 논문
