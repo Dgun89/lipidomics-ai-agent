@@ -24,6 +24,7 @@ stage1_rag_basics/
     step4_strict_grounding.py   그라운딩 강제 프롬프트 실험 (PromptTemplate)
     step5_balanced_grounding.py 프롬프트 완화 + 청크 재분할 실험 (SentenceSplitter, top_k)
     step6_reranking.py           검색 안정화(재순위화) + 그라운딩 프롬프트 완화 실험
+    step7_question_framing.py    질문 일반화 수준 가설 검증 (가설 반박, 원인 미확정으로 이월)
   data/                         PDF 원본 (gitignore 처리, 커밋 안 됨)
 stage2_graphrag/
 stage3_agentic/
@@ -49,6 +50,8 @@ stage4_phd_research/
   - 검색 안정화: SentenceTransformerRerank로 top_k=10 → 재순위화 후 top_n=3, 지질 클래스 질문 검색 성공
   - 프롬프트 완화: 3단계 모두 시도했으나 지질 클래스 질문은 계속 거부됨, 프랑스 수도 질문은 3단계 모두 정상 거부(성공)
   - 결론: 검색 문제와 프롬프트 엄격도 문제는 해결됐으나, "예시 등장 vs 논문 주제로 다룸"을 구분하는 질문 자체의 일반화 요구 수준은 프롬프트만으로 해결 안 됨 — 질문 설계의 문제로 별도 확인 필요
+- [x] step7: 질문 일반화 수준 가설 검증 → 가설 반박, 원인 미확정으로 이월
+- [x] 1단계 마무리: RAG 골격(로드-인덱싱-검색-답변) 및 3대 실패 유형(그라운딩 실패, 과잉차단, 검색 불안정성) 확인 완료
 - [ ] 다음: 2단계(GraphRAG) 착수
 
 ## 참고 논문
