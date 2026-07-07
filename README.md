@@ -27,6 +27,8 @@ stage1_rag_basics/
     step7_question_framing.py    질문 일반화 수준 가설 검증 (가설 반박, 원인 미확정으로 이월)
   data/                         PDF 원본 (gitignore 처리, 커밋 안 됨)
 stage2_graphrag/
+  step1_load_to_neo4j.py     CSV -> Neo4j Aura 적재 (Metabolite, Enzyme 노드 + INTERACTS_TO 관계)
+  .env.example                Aura 접속 정보 템플릿 (.env는 gitignore 처리, 커밋 안 됨)
 stage3_agentic/
 stage4_phd_research/
 ```
@@ -52,7 +54,22 @@ stage4_phd_research/
   - 결론: 검색 문제와 프롬프트 엄격도 문제는 해결됐으나, "예시 등장 vs 논문 주제로 다룸"을 구분하는 질문 자체의 일반화 요구 수준은 프롬프트만으로 해결 안 됨 — 질문 설계의 문제로 별도 확인 필요
 - [x] step7: 질문 일반화 수준 가설 검증 → 가설 반박, 원인 미확정으로 이월
 - [x] 1단계 마무리: RAG 골격(로드-인덱싱-검색-답변) 및 3대 실패 유형(그라운딩 실패, 과잉차단, 검색 불안정성) 확인 완료
-- [ ] 다음: 2단계(GraphRAG) 착수
+
+## 2단계 진행 로그
+
+- [x] 환경 설정: Neo4j Desktop 설치, Neo4j Aura Free 인스턴스 생성, neo4j, pandas, python-dotenv
+- [x] Neo4j Aura 접속 확인: 기본 노드(Lipid)·관계(BELONGS_TO) 생성으로 연결 테스트 성공
+- [x] 대사체 DB 변환: metabolites.csv(902개), metabolite_enzyme_rels.csv(3,491개) 정제 완료
+- [x] step1: CSV -> Neo4j Aura 적재 스크립트(step1_load_to_neo4j.py) 작성 및 실행
+  - Metabolite 노드(id, name, inchikey, smiles, pubchem, kegg, hmdb, chebi, classification) 902개 생성
+  - Enzyme 노드 자동 생성 + INTERACTS_WITH 관계(source: KEGG/HMDB/BRENDA/Reactome)로 연결
+  - MERGE + 유니크 제약조건으로 중복 방지, UNWIND 배치(500개 단위)로 적재
+  - 접속 정보는 .env로 분리 관리(python-dotenv)하여 git 노출 방지
+- [x] 트러블슈팅: DNS 미해결(.env 값 미반영, override=True로 해결), 인증 실패(비밀번호 분실 -> 인스턴스 재생성으로 해결)
+- [x] 적재 검증: MATCH (m:Metabolite) RETURN count(m) -> 902, MATCH ()-[r:INTERACTS_WITH]->() RETURN count(r) -> 3491 확인
+- [ ] step2: Cypher 쿼리 실습 (그래프 탐색, 경로 탐색 등 GraphRAG 기초)
+- [ ] 엑셀 파워쿼리로 CSV -> 그래프 구조 변환 직접 연습 (선택)
+- [ ] Stage1에서 미해결로 남은 "지질 클래스" 질문, 그래프 구조 활용해 재검토
 
 ## 참고 논문
 

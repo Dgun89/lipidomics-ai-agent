@@ -1,0 +1,903 @@
+id,name,inchikey,smiles,pubchem,kegg,hmdb,chebi,classification
+CNP0333612.0,Kynurenic acid,HCZHHEIFKROPDY-UHFFFAOYSA-N,OC(=O)C1=CC(=O)C2=CC=CC=C2N1,3845.0,C01717,HMDB0000715,18344,endogenous
+CNP0564599.0,Xanthurenic acid,FBZONXHGGPHHIY-UHFFFAOYSA-N,OC(=O)C1=NC2=C(O)C=CC=C2C(O)=C1,5699.0,C02470,HMDB0000881,10072,endogenous
+CNP0339833.0,"Benzoic acid, 2,2'-[1,4-phenylenebis(carbonylimino)]bis[5-hydroxy-",UATVVINGVDGCFD-UHFFFAOYSA-N,C1=CC(=CC=C1C(=O)NC2=C(C=C(C=C2)O)C(=O)O)C(=O)NC3=C(C=C(C=C3)O)C(=O)O,4610424.0,,,,unverified
+CNP0558845.0,"4,5-Dimethoxy-2-(2-m-tolyloxy-acetylamino)-benzoic acid",VEBGIFDKNOHANY-UHFFFAOYSA-N,CC1=CC(=CC=C1)OCC(=O)NC2=CC(=C(C=C2C(=O)O)OC)OC,563227.0,,,,unverified
+CNP0081958.0,"1,4,10,10a-Tetrahydrophenazine-1-carboxylic acid",RMSOWPIMGWWPCR-UHFFFAOYSA-N,C1C=CC(C2C1=NC3=CC=CC=C3N2)C(=O)O,162821689.0,,,,exogenous
+CNP0587736.0,Oxindole,JYGFTBXVXVMTGB-UHFFFAOYSA-N,C1C2=CC=CC=C2NC1=O,321710.0,C12312,HMDB0061918,31697,exogenous
+CNP0215355.0,6-Hydroxyindolin-2-one,ZOJZYAPVVOLQQB-UHFFFAOYSA-N,C1C2=C(C=C(C=C2)O)NC1=O,2784139.0,,,,exogenous
+CNP0250438.0,Lobendazole,OKOVSTKGUBOSTB-UHFFFAOYSA-N,CCOC(=O)NC1=NC2=CC=CC=C2N1,22752.0,D04754,,92287,unverified
+CNP0190125.1,"1-[4-(4-oxo-1,2,3-benzotriazin-3(4H)-yl)butanoyl]-L-prolinamide",FOHNLVAPFOFXNC-ZDUSSCGKSA-N,C1C[C@H](N(C1)C(=O)CCCN2C(=O)C3=CC=CC=C3N=N2)C(=O)N,39377967.0,,,,unverified
+CNP0268872.0,4-{[(4-methoxy-1H-indol-1-yl)acetyl]amino}butanoic acid,BFSMJKPOYZLERR-UHFFFAOYSA-N,COC1=CC=CC2=C1C=CN2CC(=O)NCCCC(=O)O,49652437.0,,,,unverified
+CNP0397398.0,4-{[3-(1H-indol-1-yl)propanoyl]amino}butanoic acid,KFCBNRAPTYECSY-UHFFFAOYSA-N,C1=CC=C2C(=C1)C=CN2CCC(=O)NCCCC(=O)O,49652384.0,,,,unverified
+CNP0292578.1,Spinacine,YCFJXOFFQLPCHD-YFKPBYRVSA-N,C1[C@H](NCC2=C1N=CN2)C(=O)O,162899.0,,,177618,exogenous
+CNP0216614.0,"1-Methyl-4,5,6,7-tetrahydroimidazo[4,5-c]pyridine-6-carboxylic acid",MLKPHKBKTKXXAX-UHFFFAOYSA-N,CN1C=NC2=C1CC(NC2)C(=O)O,14457599.0,,,,unverified
+CNP0154077.1,(4R)-2-amino-4-ethoxy-3-methyl-4H-imidazol-5-one,MLNRHRIWCYGLEK-RXMQYKEDSA-N,CCO[C@@H]1C(=O)N=C(N1C)N,97303073.0,,,,unverified
+CNP0556788.1,Ergothioneine,SSISHJJTAXXQAX-ZETCQYMHSA-N,C[N+](C)(C)[C@@H](CC1=CNC(=S)N1)C(=O)[O-],5351619.0,C05570,HMDB0003045,4828,exogenous
+CNP0174424.0,Creatol,SMQPRZPBBUJEGU-UHFFFAOYSA-N,CN1C(C(=O)N=C1N)O,124266.0,,HMDB0244988,,unverified
+CNP0591741.0,Histamine,NTYJJOPFIAHURM-UHFFFAOYSA-N,NCCC1=CNC=N1,774.0,D08040,HMDB0000870,18295,endogenous
+CNP0152195.0,Cytosine,OPTASPLRGRRNAP-UHFFFAOYSA-N,NC1=CC=NC(=O)N1,597.0,C00380,HMDB0000630,16040,endogenous
+CNP0033258.0,2-(1-methyl-1H-imidazol-4-yl)acetic acid,ZHCKPJGJQOPTLB-UHFFFAOYSA-N,CN1C=NC(CC(O)=O)=C1,75810.0,C05828,HMDB0002820,1606,endogenous
+CNP0580440.0,Aminozooanemonin,UZHLDXPPXNMSFH-UHFFFAOYSA-N,CN1C(=C[N+](=C1N)C)CC(=O)[O-],10080783.0,,,,unverified
+CNP0397085.1,Pilocarpine,QCHFTSOMWOSFHM-WPRPVWTQSA-N,CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C,5910.0,D00525,HMDB0015217,8207,exogenous
+CNP0052023.0,1-Methyl-5-imidazoleacetic acid,UJCGYTCAMOHYCG-UHFFFAOYSA-N,CN1C=NC=C1CC(O)=O,6451814.0,,HMDB0004988,70966,endogenous
+CNP0497661.0,N-Acetylhistamine,XJWPISBUKWZALE-UHFFFAOYSA-N,CC(=O)NCCC1=CN=CN1,69602.0,C05135,HMDB0013253,28483,endogenous
+CNP0397085.0,"2(3H)-Furanone, 3-ethyldihydro-4-[(1-methyl-1H-imidazol-5-yl)methyl]-, (3S-cis)-",QCHFTSOMWOSFHM-UHFFFAOYSA-N,CCC1C(COC1=O)CC2=CN=CN2C,4819.0,,HMDB0243539,39460,unverified
+CNP0583143.0,4-(1H-imidazol-4-ylmethylamino)-5-[[4-(methoxymethyl)triazol-1-yl]methyl]oxolan-3-ol,,,,,,,unverified
+CNP0561864.0,Nocarimidazole D,HAKNUQAHUMNIOA-UHFFFAOYSA-N,CCCCCCCCCC(=O)C1=C(N=CN1)N,170989008.0,,,,exogenous
+CNP0140352.2,Pinidinol,DVJHWTLBEYCZJZ-IWSPIJDZSA-N,C[C@@H]1CCC[C@@H](N1)C[C@@H](C)O,182960.0,,,,exogenous
+CNP0275241.2,Hyacinthacine A1,STFSMGASTIYWRS-OOJXKGFFSA-N,C1C[C@@H]2[C@@H]([C@@H]([C@H](N2C1)CO)O)O,10080851.0,,,,exogenous
+CNP0583916.1,Afegostat,QPYJXFZUIJOGNX-HSUXUTPPSA-N,C1[C@@H]([C@H]([C@@H](CN1)O)O)CO,447607.0,D09576,,194390,unverified
+CNP0347538.6,Hyacinthacine A5,AGLLYYHKZWZSKX-OKNNCHMLSA-N,C[C@@H]1CC[C@H]2N1[C@@H]([C@@H]([C@@H]2O)O)CO,11041480.0,,,,exogenous
+CNP0563930.0,"1-(2-methoxyethyl)-7-(oxetan-3-yl)-3,4,5a,6,8,8a-hexahydropyrrolo[3,4-f][1,4,5]oxathiazepine 2,2-dioxide",,,,,,,unverified
+CNP0603109.1,Cis-procuramine,JPMVQRXQOWORBJ-VXNVDRBHSA-N,C[C@@H]1[C@@H](CC(=O)C2=CC=C(N12)C)O,170990524.0,,,,exogenous
+CNP0187310.2,(+)-5-Deoxyadeenophorine,QWEWPBRDYZVGBR-NGJRWZKOSA-N,CC[C@@H]1C[C@@H]([C@H]([C@H](N1)CO)O)O,10559165.0,,,,exogenous
+CNP0009851.0,2-(Piperidin-2-yl)acetamide,RNGRYWXHDOJTFX-UHFFFAOYSA-N,C1CCNC(C1)CC(=O)N,5295256.0,,,,unverified
+CNP0251447.0,"Pyridine, 1-acetyl-5-(1-formyl-2-piperidinyl)-1,2,3,4-tetrahydro-",IDRBUUNZHYXUPN-UHFFFAOYSA-N,CC(=O)N1CCCC(=C1)C2CCCCN2C=O,612613.0,,,,exogenous
+CNP0082007.0,4-(2-methoxyacetyl)-N-(2-oxopiperidin-3-yl)piperazine-2-carboxamide,RKWWSBMMYOKJIN-UHFFFAOYSA-N,COCC(=O)N1CCNC(C1)C(=O)NC2CCCNC2=O,85006621.0,,,,unverified
+CNP0130976.0,2-[3-[2-(4-Acetylpiperazin-1-yl)ethyl]-1-(cyclopentanecarbonyl)piperidin-4-yl]acetic acid,UOLNKUZYDYFQME-UHFFFAOYSA-N,CC(=O)N1CCN(CC1)CCC2CN(CCC2CC(=O)O)C(=O)C3CCCC3,74576912.0,,,,unverified
+CNP0267083.0,1-(4-(2-Hydroxy-3-(piperidin-1-yl)propoxy)-3-methoxyphenyl)propan-1-ol,WGYOXLHUEHBVOF-UHFFFAOYSA-N,CCC(C1=CC(=C(C=C1)OCC(CN2CCCCC2)O)OC)O,3718545.0,,,,unverified
+CNP0130710.0,"2,2,6,6-Tetramethyl-4-piperidone oxime",FFUVOHCLAIYVTL-UHFFFAOYSA-N,CC1(CC(=NO)CC(N1)(C)C)C,77832.0,,,,unverified
+CNP0362669.0,"1,4-Diaza-9-oxaspiro[5.5]undecane, 8-ethyl-8-methyl-",ROHPOJQPAAMVIN-UHFFFAOYSA-N,CCC1(CC2(CCO1)CNCCN2)C,598001.0,,,,unverified
+CNP0584430.0,"4-(cyclopropylmethyl)-6-phenoxy-1,4-oxazepane",,,,,,,unverified
+CNP0587668.1,"(1S,9R)-5-nitro-7,11-diazatricyclo[7.3.1.02,7]trideca-2,4-dien-6-one",TYIJTKJEBUZNGQ-SFYZADRCSA-N,C1[C@@H]2CNC[C@H]1C3=CC=C(C(=O)N3C2)[N+](=O)[O-],122170052.0,,,,unverified
+CNP0005766.0,"1'-Methyl-8-methylsulfonylspiro[1,3,4,7,9,9a-hexahydropyrazino[2,1-c][1,4]oxazine-6,3'-azetidine]",DXLOXNAUQBOLQW-UHFFFAOYSA-N,CN1CC2(C1)CN(CC3N2CCOC3)S(=O)(=O)C,162790499.0,,,,unverified
+CNP0359933.0,"[1-(hydroxymethyl)-2,3,4,6,7,8,9,9a-octahydro-1H-quinolizin-2-yl] 1H-pyrrole-2-carboxylate",RVWTUSYTKKQYFP-UHFFFAOYSA-N,C1CCN2CCC(C(C2C1)CO)OC(=O)C3=CC=CN3,163068195.0,,,,exogenous
+CNP0539139.0,"2-(oxan-4-yl)-7-(1,2-oxazole-5-carbonyl)-5,6,8,8a-tetrahydro-1H-imidazo[1,5-a]pyrazin-3-one",,,,,,,unverified
+CNP0011413.0,"2-(Cyclopropylmethylamino)-4-piperidin-1-yl-6,8-dioxabicyclo[3.2.1]octan-3-ol",PHRFVNFUYDVNGR-UHFFFAOYSA-N,C1CCN(CC1)C2C(C(C3COC2O3)NCC4CC4)O,74442604.0,,,,unverified
+CNP0334248.1,Ammothamnine,XVPBINOPNYFXID-LHDUFFHYSA-N,C1C[C@@H]2[C@H]3CCC[N+]4([C@H]3[C@@H](CCC4)CN2C(=O)C1)[O-],114850.0,C10749,,2672,exogenous
+CNP0475542.0,Methyl 4-(cyclopentanecarbonyl)piperazine-2-carboxylate,YDAPOAWHXFCUSH-UHFFFAOYSA-N,COC(=O)C1CN(CCN1)C(=O)C2CCCC2,78454877.0,,,,unverified
+CNP0451228.0,"3-(6-cyclohexyl-1-methyl-5-oxo-3,4,5a,7,8,8a-hexahydro-2H-pyrrolo[3,2-e][1,4]diazepin-2-yl)-N,N-diethylpropanamide",JFCSGLDCVXAZCF-UHFFFAOYSA-N,CCN(CC)C(=O)CCC1CNC(=O)C2C(N1C)CCN2C3CCCCC3,75111890.0,,,,unverified
+CNP0206039.0,Ethyl pyrrolidine-3-carboxylate,MPEUOPWWEODARH-UHFFFAOYSA-N,CCOC(=O)C1CCNC1,12896002.0,,,,unverified
+CNP0572990.0,Pyrrolidine,RWRDLPDLKQPQOW-UHFFFAOYSA-N,C1CCNC1,31268.0,,HMDB0031641,33135,endogenous
+CNP0475717.0,"2-(Morpholine-4-carbonyl)-1,3,4,7,8,9a-hexahydropyrazino[1,2-a]pyrazine-6,9-dione",YFZHDNXQIHVDDC-UHFFFAOYSA-N,C1CN2C(CN1C(=O)N3CCOCC3)C(=O)NCC2=O,78454314.0,,,,unverified
+CNP0560760.2,3-(1-Morpholinyl)-L-Ala-OMe,LEEBLTYUTNSMLI-ZETCQYMHSA-N,COC(=O)[C@H](CN1CCOCC1)N,94048623.0,,,,unverified
+CNP0585950.1,(S)-3-Methyl-2-morpholinobutanoic acid,OPLWEDUAHFKFOR-QMMMGPOBSA-N,CC(C)[C@@H](C(=O)O)N1CCOCC1,29300003.0,,,,unverified
+CNP0117324.0,4-Acetylpiperazine-2-carboxamide,OECGZMWGQAUMTA-UHFFFAOYSA-N,CC(=O)N1CCNC(C1)C(=O)N,17892605.0,,,,unverified
+CNP0246712.0,"1-(3-Hydroxy-4-pyrrolidin-1-yl-6,8-dioxabicyclo[3.2.1]octan-2-yl)-3-prop-2-enylurea",NODCTNPTYKGART-UHFFFAOYSA-N,C=CCNC(=O)NC1C2COC(O2)C(C1O)N3CCCC3,74442658.0,,,,unverified
+CNP0033120.0,"2-[7-(Cyclohexanecarbonyl)-1,3-dioxo-5,6,8,8a-tetrahydroimidazo[1,5-a]pyrazin-2-yl]acetamide",ASRKSWKSVGEZKN-UHFFFAOYSA-N,C1CCC(CC1)C(=O)N2CCN3C(C2)C(=O)N(C3=O)CC(=O)N,74700547.0,,,,unverified
+CNP0033160.0,2-[2-[(5-Ethynyl-1-azabicyclo[2.2.2]octan-2-yl)methylamino]-2-oxoethoxy]acetic acid,BFNDAJDAKFHOKF-UHFFFAOYSA-N,C#CC1C[NH+]2CCC1CC2CNC(=O)COCC(=O)[O-],73149529.0,,,,unverified
+CNP0165535.0,"8,8-Dimethyl-9-oxa-1,4-diazaspiro[5.5]undecane",SRORHJOLXOKEPW-UHFFFAOYSA-N,CC1(CC2(CCO1)CNCCN2)C,3837774.0,,,,unverified
+CNP0363662.0,"Ethyl (1,5-dimethyl-9-oxo-3,7-diazabicyclo[3.3.1]non-3-yl)(oxo)acetate",VBLKVIXPCSFIQI-UHFFFAOYSA-N,CCOC(=O)C(=O)N1CC2(CNCC(C1)(C2=O)C)C,2836696.0,,,,unverified
+CNP0158415.0,"3-(4-Methyl-piperazin-1-ylmethylene)-pentane-2,4-dione",MHMHZLMKXUGQCT-UHFFFAOYSA-N,CC(=O)C(=CN1CCN(CC1)C)C(=O)C,2751177.0,,,,unverified
+CNP0417987.3,"N-{[(3R,5S)-3,5-dimethylpiperidin-1-yl]carbonyl}-L-phenylalanine",BXFWZVGFFUOJQF-GUTXKFCHSA-N,C[C@@H]1C[C@@H](CN(C1)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)O)C,7096809.0,,,,unverified
+CNP0337775.0,Trigonelline,WWNNZCOKKKDOPX-UHFFFAOYSA-N,C[N+]1=CC=CC(=C1)C([O-])=O,5570.0,C01004,HMDB0000875,18123,endogenous
+CNP0506261.0,Nicorandil,LBHIOVVIQHSOQN-UHFFFAOYSA-N,C1=CC(=CN=C1)C(=O)NCCO[N+](=O)[O-],47528.0,C13280,HMDB0255584,31905,exogenous
+CNP0150794.0,Niacinamide,DFPAKSUCGFBDDF-UHFFFAOYSA-N,NC(=O)C1=CC=CN=C1,936.0,D00036,HMDB0001406,17154,endogenous
+CNP0112549.0,3-[(5-Hydroxy-pyridine-3-carbonyl)-amino]-propionic acid,FHPYYJWFQPMLGL-UHFFFAOYSA-N,C1=C(C=NC=C1O)C(=O)NCCC(=O)O,770225.0,,,,unverified
+CNP0546504.0,2-(1-hydroxyethyl)-6-methylpyridine-4-carboxylic acid,,,,,,,unverified
+CNP0195117.0,Pyridoxamine,NHZMQXZHNVQTQA-UHFFFAOYSA-N,CC1=C(O)C(CN)=C(CO)C=N1,1052.0,C00534,HMDB0001431,16410,endogenous
+CNP0263904.0,3-Ethoxypyridine,URMFHFVYCDGDEC-UHFFFAOYSA-N,CCOC1=CN=CC=C1,4419117.0,,,,unverified
+CNP0346238.0,4-Deoxypyridoxine,KKOWAYISKWGDBG-UHFFFAOYSA-N,CC1=C(C(=NC=C1CO)C)O,6094.0,,HMDB0246408,65083,exogenous
+CNP0319168.0,Nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,OC(=O)C1=CN=CC=C1,938.0,D00049,HMDB0001488,15940,endogenous
+CNP0119632.0,Pyridoxal,RADKZDMFGJYCBB-UHFFFAOYSA-N,CC1=NC=C(CO)C(C=O)=C1O,1050.0,C00250,HMDB0001545,17310,endogenous
+CNP0297581.0,Pyridoxine,LXNHXLLTXMVWPM-UHFFFAOYSA-N,CC1=C(O)C(CO)=C(CO)C=N1,1054.0,D08454,HMDB0000239,16709,endogenous
+CNP0244996.0,4-Pyridoxic acid,HXACOUQIXZGNBF-UHFFFAOYSA-N,CC1=NC=C(CO)C(C(O)=O)=C1O,6723.0,C00847,HMDB0000017,17405,endogenous
+CNP0506055.0,2-(1-aminocyclobutyl)-1H-imidazole-4-carboxylic acid,NBNOGOBDFVJJDQ-UHFFFAOYSA-N,C1CC(C1)(C2=NC=C(N2)C(=O)O)N,39870347.0,,,,unverified
+CNP0415718.0,"2-(1-hydroxy-1-methoxy-3-methylbutyl)-6-methyl-5H-[1,3]dioxolo[4,5-c]pyridin-4-one",VVLWYFUJJAWYBP-UHFFFAOYSA-N,CC1=CC2=C(C(=O)N1)OC(O2)C(CC(C)C)(O)OC,45782813.0,,,182660,unverified
+CNP0357345.0,2-Hydroxy-6-(2-methylpropyl)pyridine-4-carboxylic acid,QQAKUTQSHWHIMV-UHFFFAOYSA-N,CC(C)CC1=CC(=CC(=O)N1)C(=O)O,71668602.0,,,,unverified
+CNP0393403.0,"N-[2-(1H-Indol-3-YL)ethyl]-3-[3-(pyridin-3-YL)-1,2,4-oxadiazol-5-YL]propanamide",VLBIOGIVXVTBME-UHFFFAOYSA-N,C1=CC=C2C(=C1)C(=CN2)CCNC(=O)CCC3=NC(=NO3)C4=CN=CC=C4,16408971.0,,,,unverified
+CNP0164960.0,"4-hydroxy-7-(2-hydroxy-2-methylpropyl)-1H-azepine-2,5-dione",XIZXAOCEYPTCMX-UHFFFAOYSA-N,CC(C)(CC1=CC(=O)C(=CC(=O)N1)O)O,54749584.0,,,202102,exogenous
+CNP0015673.0,"6-(6-Methylpyridin-2-yl)oxy-4-methylsulfonyl-1,4-oxazepane",WZFXSRDVZMSOMU-UHFFFAOYSA-N,CC1=NC(=CC=C1)OC2CN(CCOC2)S(=O)(=O)C,162799077.0,,,,unverified
+CNP0181264.0,"7-methyl-6,7-dihydro-5H-cyclopenta[c]pyridine-4-carboxylic acid",RLNQBGQGMYNOCX-UHFFFAOYSA-N,CC1CCC2=C(C=NC=C12)C(=O)O,12300211.0,,HMDB0033482,,exogenous
+CNP0310794.0,"4-[carboxy(hydroxy)methyl]-5-pyridin-2-yl-3,4-dihydro-2H-pyrrole-2-carboxylic acid",CZCDICWUDPJAPK-UHFFFAOYSA-N,C1C(C(=NC1C(=O)O)C2=CC=CC=N2)C(C(=O)O)O,162885117.0,,,,unverified
+CNP0505923.1,amphikuemin,SWQPGYZKINUDMG-AWEZNQCLSA-N,CC1=C(C=[N+](C=C1)C)CCC(=O)NCCCC[C@@H](C(=O)[O-])[NH3+],171119266.0,,,,exogenous
+CNP0011496.0,"4-[(Cyclopropylmethylamino)methyl]-4-(pyridin-3-yloxymethyl)cyclopentane-1,2-diol",QQYHRRULOXIXBH-UHFFFAOYSA-N,C1CC1CNCC2(CC(C(C2)O)O)COC3=CN=CC=C3,118747693.0,,,,unverified
+CNP0291133.0,Ciclopirox,SCKYRAXSEDYPSA-UHFFFAOYSA-N,CC1=CC(=O)N(C(=C1)C2CCCCC2)O,2749.0,D03488,HMDB0015319,453011,exogenous
+CNP0169783.0,"N-[[3,4-dihydroxy-1-(pyrazin-2-yloxymethyl)cyclopentyl]methyl]-5-methyl-1,2-oxazole-3-carboxamide",SMVPYHRLZULVDD-UHFFFAOYSA-N,CC1=CC(=NO1)C(=O)NCC2(CC(C(C2)O)O)COC3=NC=CN=C3,162901628.0,,,,unverified
+CNP0139947.1,Oxysporidinone dimethyl ketal,OKLOELQSMKXXGE-HBPQRMMKSA-N,CCC(C)CC(C)/C=C(\C)/[C@H]1[C@@H](CC[C@H](O1)C2=C(C(=CN(C2=O)C)[C@]3(CCC(C[C@@H]3O)(OC)OC)O)O)C,54706522.0,,,202042,exogenous
+CNP0526577.1,1'-Methoxy-6'-epi-oxysporidinone,LKZUYFZSYWKSJY-KNUCWPBSSA-N,CCC(C)CC(C)/C=C(\C)/[C@H]1[C@@H](CC[C@H](O1)C2=C(C(=CN(C2=O)C)[C@]3(CCC(=O)C[C@H]3O)OC)O)C,170989463.0,,,,exogenous
+CNP0288391.0,Deoxy-PF-1140,ZAIJLHHXEHKKNH-UHFFFAOYSA-N,CC1CC(C2C3=C(C=CNC3=O)OC(C2(C1)C)C)C,56680936.0,,,182198,exogenous
+CNP0345589.0,"Ethyl 7-chloro-5-methylimidazo[1,2-c]pyrimidine-2-carboxylate",ZVBMRKANAWJTSO-UHFFFAOYSA-N,CCOC(=O)C1=CN2C(=NC(=CC2=N1)Cl)C,89042374.0,,,,unverified
+CNP0557631.0,3-Methyluracil,VPLZGVOSFFCKFC-UHFFFAOYSA-N,CN1C(=O)C=CNC1=O,79066.0,,,74732,exogenous
+CNP0348342.0,N-(5-acetamidopentyl)acetamide,FQKKPLXFGDCBJT-UHFFFAOYSA-N,CC(=O)NCCCCCNC(=O)C,100784.0,,,181585,unverified
+CNP0348437.0,N8-Acetylspermidine,FONIWJIDLJEJTL-UHFFFAOYSA-N,CC(=O)NCCCCNCCCN,123689.0,C01029,HMDB0002189,27911,endogenous
+CNP0366211.0,n-(5-Aminopentyl)acetamide,RMOIHHAKNOFHOE-UHFFFAOYSA-N,CC(=O)NCCCCCN,189087.0,,HMDB0002284,88824,endogenous
+CNP0480211.0,"N1,N8-Diacetylspermidine",BKCVMAZDKFQPHB-UHFFFAOYSA-N,CC(=O)NCCCCNCCCNC(C)=O,389613.0,,HMDB0041947,139328,endogenous
+CNP0113027.0,Benzyl (3-aminopropyl)carbamate,JXWABCYGGVHAHB-UHFFFAOYSA-N,C1=CC=C(C=C1)COC(=O)NCCCN,417669.0,,,,unverified
+CNP0131043.0,Benzyl N-(5-aminopentyl)carbamate,ZZRXQSABHQZWCC-UHFFFAOYSA-N,C1=CC=C(C=C1)COC(=O)NCCCCCN,2794259.0,,,,unverified
+CNP0017213.0,"4,4-dimethyl-2-methylsulfonyl-N-propan-2-yl-1,3,6,7,9,9a-hexahydropyrazino[1,2-a]pyrazine-8-carboxamide",WPGPHZHCMWXQSI-UHFFFAOYSA-N,CC(C)NC(=O)N1CCN2C(C1)CN(CC2(C)C)S(=O)(=O)C,162800333.0,,,,unverified
+CNP0209494.0,"N1,N12-Diacetylspermine",NPDTUDWGJMBVEP-UHFFFAOYSA-N,CC(=O)NCCCNCCCCNCCCNC(C)=O,132680.0,C03413,HMDB0002172,28101,endogenous
+CNP0195159.0,N-[2-methyl-5-(methylamino)pentyl]acetamide,LCOLJZRCXVDSFQ-UHFFFAOYSA-N,CC(CCCNC)CNC(=O)C,162925431.0,,,,unverified
+CNP0520313.0,Tenacibactin A,HXFAPJCUUWBIQZ-UHFFFAOYSA-N,CC(C)CC(=O)N(CCCCCNC(=O)CCC(=O)OC)O,16216278.0,,,215748,exogenous
+CNP0012633.0,"2-[3-[(5-butyl-1,2-oxazol-3-yl)methyl]piperidin-4-yl]-N-(2-morpholin-4-ylethyl)acetamide",CUNSWQQUFGMINE-UHFFFAOYSA-N,CCCCC1=CC(=NO1)CC2CNCCC2CC(=O)NCCN3CCOCC3,74506031.0,,,,unverified
+CNP0286097.0,5-Hydroxy-2-pyrrolidone,WBGWUCXEMSSZJL-UHFFFAOYSA-N,C1CC(=O)NC1O,194148.0,,,,exogenous
+CNP0596963.1,Stachydrine,CMUNUTVVOOHQPW-LURJTMIESA-N,C[N+]1(C)CCC[C@H]1C([O-])=O,115244.0,C10172,HMDB0004827,35280,endogenous
+CNP0388598.0,"1-(2-Hydroxyethyl)-2-(hydroxymethyl)piperidine-3,4,5-triol",IBAQFPQHRJAVAV-UHFFFAOYSA-N,C1C(C(C(C(N1CCO)CO)O)O)O,51577.0,C07708,HMDB0243780,,unverified
+CNP0326016.0,"6-(Cyclopropanecarbonyl)-4-methyl-4a,5,7,7a-tetrahydropyrrolo[3,4-b][1,4]oxazin-3-one",QOKGOCWIFUIPMR-UHFFFAOYSA-N,CN1C2CN(CC2OCC1=O)C(=O)C3CC3,76400898.0,,,,unverified
+CNP0513147.0,"4-Hydroxy-1,1-dimethylpyrrolidin-1-ium-3-carboxylate",WTBNMEWVZFFAPJ-UHFFFAOYSA-N,C[N+]1(CC(C(C1)O)C(=O)[O-])C,4208161.0,,,,exogenous
+CNP0303662.0,2-(2-Oxopiperidin-1-yl)acetamide,QOSQDHSPKMBGMH-UHFFFAOYSA-N,C1CCN(C(=O)C1)CC(=O)N,927456.0,,,,unverified
+CNP0083853.0,2-(1-Methylpiperidin-1-ium-1-yl)acetate,CRXFBHQGNFQOHL-UHFFFAOYSA-N,C[N+]1(CCCCC1)CC(=O)[O-],5249624.0,,,,unverified
+CNP0004160.0,"2-(6-Methyl-3-oxo-4a,5,7,7a-tetrahydropyrrolo[3,4-b][1,4]oxazin-4-yl)acetamide",QXFFDZMHWBORTK-UHFFFAOYSA-N,CN1CC2C(C1)OCC(=O)N2CC(=O)N,76400952.0,,,,unverified
+CNP0605523.1,"(1R,2R,3S)-2-carboxy-3-[(trimethylammonio)methyl]cyclopropane-1-carboxylate",LGCMKYRYRXDCIT-RNFRBKRXSA-N,C[N+](C)(C)C[C@@H]1[C@H]([C@@H]1C(=O)[O-])C(=O)O,11458318.0,,,,exogenous
+CNP0169486.2,Radicamine B,BRPXIQPSCKPBLH-GWOFURMSSA-N,C1=CC(=CC=C1[C@@H]2[C@H]([C@@H]([C@H](N2)CO)O)O)O,15953621.0,,,,exogenous
+CNP0319952.2,Adenophorine,AFRPVDHJWCJLNM-YQXRAVKXSA-N,CC[C@@H]1[C@H]([C@@H]([C@H]([C@H](N1)CO)O)O)O,10655321.0,,,,exogenous
+CNP0312775.0,"2-Butyl-6-hydroxymethyl-piperidine-3,4,5-triol",ZSNFEMNRWFDMNU-UHFFFAOYSA-N,CCCCC1C(C(C(C(N1)CO)O)O)O,44395715.0,,,,unverified
+CNP0258067.0,HMS3357H09,QZTNFEXLVDIXEF-UHFFFAOYSA-N,C(CCCCC1C(C(C(N1)CO)O)O)CCCCC(=O)CCCO,73759465.0,,,,exogenous
+CNP0007254.0,"Methyl 2-[7-hydroxy-1'-(2-methylpropyl)-1,3-dioxospiro[6,7,8,8a-tetrahydropyrrolo[1,2-a]pyrazine-4,3'-azetidine]-2-yl]acetate",LSZUJRVRTASAPU-UHFFFAOYSA-N,CC(C)CN1CC2(C1)C(=O)N(C(=O)C3N2CC(C3)O)CC(=O)OC,162792648.0,,,,unverified
+CNP0165113.1,Bohemamine B,JBLCSMUXTAEOFJ-BHDSKKPTSA-N,C[C@H]1[C@H](C[C@@]2(N1C(=CC2=O)NC(=O)C=C(C)C)C)O,11994823.0,,,,exogenous
+CNP0510268.18,"[(1R,7aS)-4-oxidohexahydro-1H-pyrrolizin-1-yl]methyl 2,3-dihydroxy-2-(propan-2-yl)butanoate",DLNWZIVYKQXLTN-IKZJNQNNSA-N,CC(C)C(C(C)O)(C(=O)OC[C@@H]1CC[N+]2([C@H]1CCC2)[O-])O,20105825.0,,,,unverified
+CNP0128879.2,7-Angeloyl-9-(2-methylbutyryl)heliotridine,HCWYTYBGRVJHCP-IAYSQSOGSA-N,CCC(C)C(=O)OCC1=CCN2[C@H]1[C@H](CC2)OC(=O)/C(=C/C)/C,91748012.0,,,,exogenous
+CNP0311667.6,Ekgonin,PHMBVCPLDPDESM-VGRMVHKJSA-N,CN1C2CCC1[C@H]([C@@H](O)C2)C(O)=O,91460.0,C10858,HMDB0006548,,endogenous
+CNP0443251.0,N-[3-(dimethylamino)propylcarbamoyl]-N-ethyl-2-[3-ethyl-1-(pyridin-4-ylmethyl)piperidin-4-yl]acetamide,DQFNHTGOMATQNR-UHFFFAOYSA-N,CCC1CN(CCC1CC(=O)N(CC)C(=O)NCCCN(C)C)CC2=CC=NC=C2,74714158.0,,,,unverified
+CNP0313927.0,Cyclo(Ile-Ala),JDRIJDPCYNFZIT-UHFFFAOYSA-N,CCC(C)C1C(=O)NC(C(=O)N1)C,45359405.0,,,,unverified
+CNP0222475.1,Polanrazine F,DVYYBRIFDKPPQO-HZPDHXFCSA-N,CC(C)[C@]1(C(=O)N[C@](C(=O)N1)(CC2=CNC3=CC=CC=C32)O)O,10936024.0,,,218022,exogenous
+CNP0166750.0,"4-Hydroxy-3,5-dimethoxybenzamide",XWMSEZHMHBQVLE-UHFFFAOYSA-N,COC1=CC(=CC(=C1O)OC)C(=O)N,76522.0,,,,unverified
+CNP0077103.0,"2-(Ethylamino)-4,5-dihydroxybenzamide",VAWDXOCBSZJIEL-UHFFFAOYSA-N,CCNC1=CC(=C(C=C1C(=O)N)O)O,10330295.0,,HMDB0032852,165205,exogenous
+CNP0314124.0,4-Hydroxy-3-nitrosobenzamide,GUWUNALKOAAXJC-UHFFFAOYSA-N,C1=CC(=C(C=C1C(=O)N)N=O)O,443631.0,C12114,,29487,exogenous
+CNP0533173.0,4-methoxy-N-propan-2-ylbenzamide,BDSTYGAKARCHAY-UHFFFAOYSA-N,CC(C)NC(=O)C1=CC=C(C=C1)OC,346033.0,,,,unverified
+CNP0201850.1,Nigerrimin B,JPUUOWQPTZNERI-NSHDSACASA-N,C1=CC(=C(C=C1C[C@@H](CO)NC(=O)C2=CC(=C(C=C2)O)O)O)O,72547179.0,,,199427,exogenous
+CNP0416087.0,2-Acetamidododecan-3-yl acetate,TUQIUNWHHVJPHY-UHFFFAOYSA-N,CCCCCCCCCC(C(C)NC(=O)C)OC(=O)C,163094760.0,,,,exogenous
+CNP0052263.0,"(4-Acetamido-2,6-dimethylpyridin-3-yl) acetate",OHOLTMDCEOQQSP-UHFFFAOYSA-N,CC1=CC(=C(C(=N1)C)OC(=O)C)NC(=O)C,796639.0,,,,unverified
+CNP0597527.0,N-[2-(4-hydroxy-3-nitrophenyl)ethyl]-3-methylbutanamide,GNVROTFAGGBXGC-UHFFFAOYSA-N,CC(C)CC(=O)NCCC1=CC(=C(C=C1)O)[N+](=O)[O-],11777677.0,,,,unverified
+CNP0251759.0,2-Acetamido-3-hydroxy-4-methyl-benzoic acid,PIWAGJRXVIEBSS-UHFFFAOYSA-N,CC1=C(C(=C(C=C1)C(=O)O)NC(=O)C)O,257749.0,,,,unverified
+CNP0428528.0,2-Hydroxy-1-[1-(2-hydroxyethyl)pyrrol-2-yl]ethanone,DVRKELUAMDVDAD-UHFFFAOYSA-N,C1=CN(C(=C1)C(=O)CO)CCO,119085210.0,,,,exogenous
+CNP0157838.0,ethyl 5-formyl-1H-pyrrole-2-carboxylate,HTPFMOGFQKDFHX-UHFFFAOYSA-N,CCOC(=O)C1=CC=C(N1)C=O,321485.0,,,,unverified
+CNP0603128.0,4-(2-Formyl-1H-pyrrol-1-yl)butanoic acid,HHLWLLWBHBDZGK-UHFFFAOYSA-N,C1=CN(C(=C1)C=O)CCCC(=O)O,21491039.0,,,,exogenous
+CNP0284428.0,4-[2-Formyl-5-(methoxymethyl)-1h-pyrrol-1-yl]butanoic acid,RMVYYJRTYQWDRK-UHFFFAOYSA-N,COCC1=CC=C(N1CCCC(=O)O)C=O,10059539.0,,,,exogenous
+CNP0080827.0,2-Methylpyrrolidine,RGHPCLZJAFCTIK-UHFFFAOYSA-N,CC1CCCN1,13003.0,,,145240,exogenous
+CNP0537409.2,Maniwamycin C,STZRYOCJRPONFG-YHPHQWQWSA-N,CCCC(/C=C/[N+](=NC(C)C(C)O)[O-])O,139589371.0,,,,exogenous
+CNP0506528.2,Maniwamycin A,WFHYSKXBQMLHKH-VOQSLCQKSA-N,CCCC/C=C/[N+](=N[C@@H](C)C(=O)C)[O-],6439127.0,,,202659,exogenous
+CNP0134616.1,Asmarine J,OYPNTPXIXGAEFG-NDQMXJKWSA-N,C[C@H]1CC[C@@]23C[C@@]2(CCC[C@@H]3[C@@]1(C)CC[C@]4(CCN5C=NC6=C5C(=NC=N6)N4)C)C,11395690.0,,,,exogenous
+CNP0430103.2,"19-methoxy-19,20-dihydrophomacin C",IVHIYFAYONFDBJ-VDZGDJKLSA-N,C[C@H]1[C@H]2[C@@H](NC(=O)[C@@]23[C@@H](/C=C(/C[C@@H](C[C@@H]([C@H](CC3=O)OC)O)CO)\C)C=C1C)CC(C)C,156581519.0,,,,exogenous
+CNP0018889.0,"1,3,6-Trimethyl-4,5-dihydropyrimido[4,5-d]pyrimidin-2-one",MDYZWFJQZDQESZ-UHFFFAOYSA-N,CN1CC2=C(N=C1)N(C(=O)N(C2)C)C,162801091.0,,,,unverified
+CNP0458094.0,N-[[3-[benzyl(methyl)amino]-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]methyl]acetamide,NEAFMTJHOUPDKR-UHFFFAOYSA-N,CC(=O)NCC1C(C(C(O1)CO)O)N(C)CC2=CC=CC=C2,85500248.0,,,,unverified
+CNP0275957.0,"(2-Amino-4-methyl-6-oxo-1,6-dihydropyrimidin-5-yl)acetic acid",RJXQOURJIQZYIP-UHFFFAOYSA-N,CC1=C(C(=O)NC(=N1)N)CC(=O)O,135486369.0,,,,unverified
+CNP0535126.0,Guanine,UYTPUPDQBNUYGX-UHFFFAOYSA-N,NC1=NC(=O)C2=C(N1)N=CN2,135398634.0,C00242,HMDB0000132,16235,endogenous
+CNP0568146.0,9-Methylguanine,UUWJNBOCAPUTBK-UHFFFAOYSA-N,CN1C=NC2=C1N=C(NC2=O)N,135403591.0,,,,unverified
+CNP0483204.0,"2,6-Diamino-8-propylsulfanylmethyl-3H-quinazoline-4-one",RSKNEWMEOVQZII-UHFFFAOYSA-N,CCCSCC1=C2C(=CC(=C1)N)C(=O)NC(=N2)N,135461936.0,,,,unverified
+CNP0143365.0,Thymine,RWQNBRDOKXIBIV-UHFFFAOYSA-N,CC1=CNC(=O)NC1=O,1135.0,C00178,HMDB0000262,17821,endogenous
+CNP0239583.0,"6-(3-hydroxypropanoyl)-3-methyl-1H-pteridine-2,4-dione",DOBWRCNWJMKOHY-UHFFFAOYSA-N,CN1C(=O)C2=NC(=CN=C2NC1=O)C(=O)CCO,14825211.0,,,,exogenous
+CNP0254736.0,Flavin Adenine Dinucleotide,VWWQXMAJTJZDQX-UHFFFAOYSA-N,CC1=CC2=C(C=C1C)N(C[C@H](O)[C@H](O)[C@H](O)COP(O)(=O)OP(O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC3=C1N=CN=C3N)C1=NC(=O)NC(=O)C1=N2,643975.0,D00005,HMDB0001248,,endogenous
+CNP0506781.1,"5,10-Methenyltetrahydrofolic acid",MEANFMOQMXYMCT-OLZOCXBDSA-N,[H][C@@]12CN(C=[N+]1C1=C(NC2)NC(N)=NC1=O)C1=CC=C(C=C1)C(=O)N[C@@H](CCC(O)=O)C([O-])=O,135450599.0,C00445,HMDB0001354,,endogenous
+CNP0582836.0,Echiguanine B,VJLKKBXETQVDAL-UHFFFAOYSA-N,C1=C(C2=C(N1)N=C(NC2=O)N)C(=O)NCCCN,135512730.0,,,219702,exogenous
+CNP0481467.2,"8-[2-(dimethylamino)ethylamino]-7-[(2R)-2-hydroxy-3-(4-nitrophenoxy)propyl]-3-methylpurine-2,6-dione",IJADZSGJJYPMCM-CYBMUJFWSA-N,CN1C2=C(C(=O)NC1=O)N(C(=N2)NCCN(C)C)C[C@H](COC3=CC=C(C=C3)[N+](=O)[O-])O,25734770.0,,,,unverified
+CNP0009483.0,"6-(2-Hydroxy-ethylamino)-5-iodo-1H-pyrimidine-2,4-dione",DVJSNPDCGVJFIZ-UHFFFAOYSA-N,C(CO)NC1=C(C(=O)NC(=O)N1)I,581656.0,,,,unverified
+CNP0396220.0,"2-(1H-pyrazolo[3,4-d]pyrimidin-4-ylamino)ethanol",LCOTUPXIQXPIPA-UHFFFAOYSA-N,C1=NNC2=C1C(=NC=N2)NCCO,237115.0,,,,unverified
+CNP0145288.0,"Hexanoic acid, 6-(9H-purin-6-ylamino)-",OAMAZZRKJZQBMP-UHFFFAOYSA-N,C1=NC2=C(N1)C(=NC=N2)NCCCCCC(=O)O,36017.0,,,,unverified
+CNP0549201.0,Hypoxanthine,FDGQSTZJBFJUBT-UHFFFAOYSA-N,OC1=NC=NC2=C1NC=N2,135398638.0,C00262,HMDB0000157,17368,endogenous
+CNP0128332.0,Adenine,GFFGJBXGBJISGV-UHFFFAOYSA-N,NC1=C2NC=NC2=NC=N1,190.0,C00147,HMDB0000034,16708,endogenous
+CNP0153376.0,3-Methyladenine,FSASIHFSFGAIJM-UHFFFAOYSA-N,CN1C=NC(N)=C2N=CN=C12,135398661.0,C00913,HMDB0011600,38635,endogenous
+CNP0196026.0,"6,8-Dihydroxypurine",BYUOBSUZYQAFJM-UHFFFAOYSA-N,O=C1NC2=C(N1)C(=O)N=CN2,135414099.0,,HMDB0001182,165832,endogenous
+CNP0115764.0,Olomoucine,GTVPOLSIJWJJNY-UHFFFAOYSA-N,CN1C=NC2=C(N=C(N=C21)NCCO)NCC3=CC=CC=C3,4592.0,,HMDB0035233,44661,exogenous
+CNP0033268.0,"3-(1,3,6-Trimethyl-2,4-dioxo-1,2,3,4-tetrahydro-pyrimidin-5-yl)-propionamide",XVBIUXCFSSYHDX-UHFFFAOYSA-N,CC1=C(C(=O)N(C(=O)N1C)C)CCC(=O)N,2748607.0,,,,unverified
+CNP0128549.0,N(6)-(2-carboxyethyl)adenine,ALBHTZMRHDQGAA-UHFFFAOYSA-N,C1=NC2=C(N1)C(=NC=N2)NCCC(=O)O,95806.0,,,,unverified
+CNP0395134.0,N-(2-phenylethyl)-N~3~-9H-purin-6-yl-beta-alaninamide,TUTSJQCIYORKCG-UHFFFAOYSA-N,C1=CC=C(C=C1)CCNC(=O)CCNC2=NC=NC3=C2NC=N3,42507128.0,,,,unverified
+CNP0508888.0,"7-Benzyl-1,3-dimethyl-8-piperazin-1-yl-3,7-dihydro-purine-2,6-dione",QFSMMXJBEBXTJP-UHFFFAOYSA-N,CN1C2=C(C(=O)N(C1=O)C)N(C(=N2)N3CCNCC3)CC4=CC=CC=C4,978607.0,,,45565,unverified
+CNP0406424.0,N-(2-hydroxyethyl)-N~3~-9H-purin-6-yl-beta-alaninamide,CUMHMQFVNFZPGM-UHFFFAOYSA-N,C1=NC2=C(N1)C(=NC=N2)NCCC(=O)NCCO,42507032.0,,,,unverified
+CNP0540881.0,"N-[3-(diethylamino)propyl]-2-(1,3-dimethyl-2,6-dioxo-1,2,3,6-tetrahydro-7H-purin-7-yl)acetamide",UNPJCEJITCNLSK-UHFFFAOYSA-N,CCN(CC)CCCNC(=O)CN1C=NC2=C1C(=O)N(C(=O)N2C)C,3126535.0,,,,unverified
+CNP0420072.1,zoanthamine,MHFATIOKBJDEOV-WQPMXMNZSA-N,C[C@H]1C[C@@H]2CN3[C@](C1)(O2)CC[C@@]4([C@]35C[C@]6([C@@H]7CC(=CC(=O)[C@H]7[C@H](C(=O)[C@@H]6[C@@]4(CC(=O)O5)C)C)C)C)C,21608290.0,,,,exogenous
+CNP0234256.0,"[3-Hydroxy-17-[1-(3-hydroxy-5-methylpiperidin-2-yl)ethyl]-10,13-dimethyl-4-oxo-1,2,3,5,6,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthren-16-yl] acetate",KOJVZJIMHQWOHG-UHFFFAOYSA-N,CC1CC(C(NC1)C(C)C2C(CC3C2(CCC4C3CCC5C4(CCC(C5=O)O)C)C)OC(=O)C)O,14580550.0,,,,exogenous
+CNP0420411.1,23-Acetoxysoladulcidine,HQJSCXYJQVACQR-DFNKNYFESA-N,CC1C2C(CC3C4CCC5CC(O)CCC5(C)C4CCC23C)OC11NCC(C)CC1OC(C)=O,129626610.0,,HMDB0031402,134426,endogenous
+CNP0321626.0,"(10,16-Dihydroxy-5',7,9,13-tetramethylspiro[5-oxapentacyclo[10.8.0.02,9.04,8.013,18]icos-18-ene-6,2'-piperidine]-3'-yl) acetate",ZVKJYCIUIADOCW-UHFFFAOYSA-N,CC1CC(C2(C(C3C(O2)CC4C3(C(CC5C4CC=C6C5(CCC(C6)O)C)O)C)C)NC1)OC(=O)C,14105499.0,,,,exogenous
+CNP0169363.0,5-Hydroxy-1-methylhydantoin,UPSFNXFLBMJUQW-UHFFFAOYSA-N,CN1C(C(=O)NC1=O)O,3036247.0,,HMDB0246800,,unverified
+CNP0505006.0,"N-[[5-(1-methyl-5-oxopyrrolidin-2-yl)-1,2,4-oxadiazol-3-yl]methyl]acetamide",,,,,,,unverified
+CNP0286007.0,Heteromine G,AYPVLECRVLOFKA-UHFFFAOYSA-N,CNC1=C(C(=NC(=N1)NC)OC)N(C)C=O,10561164.0,,,,exogenous
+CNP0559767.0,"5-[(2-hydroxyethyl)amino]-6-methylpyrimidine-2,4(1H,3H)-dione",JJYCGTAEWKCZIP-UHFFFAOYSA-N,CC1=C(C(=O)NC(=O)N1)NCCO,299518.0,,,,unverified
+CNP0303271.0,9-(2-(benzylamino)ethyl)-9H-purin-6-amine,SCSURRDSNJCDQA-UHFFFAOYSA-N,C1=CC=C(C=C1)CNCCN2C=NC3=C(N=CN=C32)N,1798640.0,,,,unverified
+CNP0576214.0,S-8510 free base,ITPFSYAYHHPKRT-UHFFFAOYSA-N,C1COCC2=C3C(=CN=C21)NC(=N3)C4=NOC=C4,135409387.0,,,,unverified
+CNP0444448.1,Isopyochelin,FHSNJSGPSZOMPX-OJVJQRDDSA-N,C[C@@]1(CSC(N1)[C@@H]2CSC(=N2)C3=CC=CC=C3O)C(=O)O,146684683.0,,,220459,exogenous
+CNP0299924.0,"3-(2,4-Dioxopyrimidin-1-yl)-2-(propan-2-ylamino)propanoic acid",BANZKGRZYHOILN-UHFFFAOYSA-N,CC(C)NC(CN1C=CC(=O)NC1=O)C(=O)O,163022999.0,,,,unverified
+CNP0390024.1,(S)-Homoproline,ADSALMJPJUKESW-YFKPBYRVSA-N,OC(=O)C[C@@H]1CCCN1,2761541.0,,HMDB0029444,182597,endogenous
+CNP0041469.0,Methyl 4-hydroxypiperidine-2-carboxylate,XYDFSCGFCFYWNY-UHFFFAOYSA-N,COC(=O)C1CC(CCN1)O,10103419.0,,,70837,exogenous
+CNP0361697.0,N-[3-(1H-indol-1-yl)propanoyl]isoleucine,YJMHSDYDXLXYNH-UHFFFAOYSA-N,CCC(C)C(C(=O)O)NC(=O)CCN1C=CC2=CC=CC=C21,75269420.0,,,,unverified
+CNP0265714.0,Kasarin,WAWQBZYQXCRDEM-UHFFFAOYSA-N,CCC(C)C1=C(N=C(C(=O)N1OC)C(C)C)OC(=O)CC(=O)N,24180677.0,,,,unverified
+CNP0353472.0,"4-[6-(Furan-2-yl)pyrazin-2-yl]butane-1,2,3-triol",WXTWEWUEEGJPHB-UHFFFAOYSA-N,C1=COC(=C1)C2=NC(=CN=C2)CC(C(CO)O)O,163063211.0,,,,exogenous
+CNP0506115.0,"(3,5,6-Trimethylpyrazin-2-yl)methyl 3-methylbutanoate",LGHDDVGKRHDKQC-UHFFFAOYSA-N,CC1=C(N=C(C(=N1)C)COC(=O)CC(C)C)C,71467094.0,,,,exogenous
+CNP0092868.2,Cladosin G,CYHZQRBITGKZIX-DTWKUNHWSA-N,C[C@@H](C[C@H](CC(=N)C1=C(C(=C(C)C)NC1=O)O)OC)O,139583296.0,,,198195,exogenous
+CNP0122407.2,Rigidiusculamide C,FSANWLZUMUEFDI-PKZGSEHASA-N,C[C@@]1(C(=O)[C@@H](N(C1=O)C)CC2=CC3=C(C=C2)OC(C3)C(C)(C)O)O,44614136.0,,,226619,exogenous
+CNP0110814.0,"2,3,4,9-Tetrahydro-1H-beta-carboline-3-carboxylic acid",FSNCEEGOMTYXKY-UHFFFAOYSA-N,C1C(NCC2=C1C3=CC=CC=C3N2)C(=O)O,98285.0,,HMDB0035665,91151,exogenous
+CNP0287046.0,Tetrahydroharman-3-carboxylic acid,ZUPHXNBLQCSEIA-UHFFFAOYSA-N,CC1C2=C(CC(N1)C(=O)O)C3=CC=CC=C3N2,73530.0,,HMDB0037942,172470,exogenous
+CNP0173346.0,Methyl 1-(methyl propionate)-beta-carboline-3-carboxylate,VHSAKLVCJZOGTM-UHFFFAOYSA-N,COC(=O)CCC1=C2C(=CC(=N1)C(=O)OC)C3=CC=CC=C3N2,14436933.0,,,221811,exogenous
+CNP0170985.0,"N-[2-(4-benzylpiperazin-1-yl)-2-oxoethyl]-1,3,4,9-tetrahydro-2H-beta-carboline-2-carboxamide",CLVGYEFGQKPNHQ-UHFFFAOYSA-N,C1CN(CC2=C1C3=CC=CC=C3N2)C(=O)NCC(=O)N4CCN(CC4)CC5=CC=CC=C5,29147019.0,,,,unverified
+CNP0101100.0,1-(3-Methylsulfanyl phenyl)-3-[[5-[(4-phenylpiperazin-1-yl)methyl]quinuclidin-2-yl]methyl]urea,MMKHKFDEQQNXSO-UHFFFAOYSA-N,CSC1=CC=CC(=C1)NC(=O)NCC2CC3CCN2CC3CN4CCN(CC4)C5=CC=CC=C5,74734543.0,,,,unverified
+CNP0557148.0,Methyl 3-(1H-indol-3-YL)-2-[(isobutoxycarbonyl)amino]propanoate,HDDBFQSIRRFNEM-UHFFFAOYSA-N,CC(C)COC(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)OC,3130713.0,,,,unverified
+CNP0575636.0,"4-hydroxy-7-(2-methylpropyl)-1H-azepine-2,5-dione",,,,,,,unverified
+CNP0132275.0,"7-Chloro-14-methyl-3-oxa-5,9,14-triazatetracyclo[6.6.1.02,6.012,15]pentadeca-1,4,6,8(15),12-pentaene",ZJTBGSMXFSCGFE-UHFFFAOYSA-N,CN1C=C2CCNC3=C2C1=C4C(=C3Cl)N=CO4,162868391.0,,,,exogenous
+CNP0109986.0,"5,7-Dimethoxy-9-methylfuro[2,3-b]quinolin-4-one",CERGIBRKVLXZNW-UHFFFAOYSA-N,CN1C2=C(C(=CC(=C2)OC)OC)C(=O)C3=C1OC=C3,21763832.0,,,,exogenous
+CNP0290938.0,"2,8-Quinolinediol",ZXZKYYHTWHJHFT-UHFFFAOYSA-N,C1=CC2=C(C(=C1)O)NC(=O)C=C2,97250.0,C06342,HMDB0240311,17715,unverified
+CNP0502387.0,2-Hydroxy-7-methoxyquinoline-3-carbaldehyde,VUKFTGRTRKQOKY-UHFFFAOYSA-N,COC1=CC2=C(C=C1)C=C(C(=O)N2)C=O,600262.0,,,,unverified
+CNP0110235.0,Serotonin,QZAYGJVTTNCVMB-UHFFFAOYSA-N,NCCC1=CNC2=C1C=C(O)C=C2,5202.0,C00780,HMDB0000259,28790,endogenous
+CNP0160237.0,5-Hydroxyindole-3-acetic acid,DUUGKQCEGZLZNO-UHFFFAOYSA-N,OC(=O)CC1=CNC2=C1C=C(O)C=C2,1826.0,C05635,HMDB0000763,27823,endogenous
+CNP0253017.0,Indole-3-acetyl-beta-4-D-glucose,XSNPKRVRWPBMKE-UHFFFAOYSA-N,C1=CC=C2C(=C1)C(=CN2)CC(=O)OC3C(OC(C(C3O)O)O)CO,25201534.0,,HMDB0304390,,exogenous
+CNP0416375.0,Indole-3-lactic acid,XGILAAMKEQUXLS-UHFFFAOYSA-N,O[C@@H](CC1=CNC2=C1C=CC=C2)C(O)=O,92904.0,C02043,HMDB0000671,24813,endogenous
+CNP0284198.0,Indole-3-acetic acid,SEOVTRFCIGRIMH-UHFFFAOYSA-N,OC(=O)CC1=CNC2=C1C=CC=C2,802.0,C00954,HMDB0000197,16411,endogenous
+CNP0213541.0,3-Indolepropionic acid,GOLXRNDWAUTYKT-UHFFFAOYSA-N,OC(=O)CCC1=CNC2=C1C=CC=C2,3744.0,C22236,HMDB0002302,43580,endogenous
+CNP0283649.0,"(2-oxo-2,3-dihydro-1H-indol-3-yl)acetic acid",ILGMGHZPXRDCCS-UHFFFAOYSA-N,C1=CC=C2C(=C1)C(C(=O)N2)CC(=O)O,3080590.0,C22202,HMDB0035514,133221,exogenous
+CNP0211764.1,Leucodopachrome,JDWYRSDDJVCWPB-LURJTMIESA-N,OC(=O)[C@@H]1CC2=CC(O)=C(O)C=C2N1,161255.0,C05604,HMDB0004067,231766,endogenous
+CNP0132473.0,Methyl 2-acetamido-3-hydroxy-2-methyl-3-phenylpropanoate,QOXXXKPWPQPWLH-UHFFFAOYSA-N,CC(=O)NC(C)(C(C1=CC=CC=C1)O)C(=O)OC,3841586.0,,,,unverified
+CNP0498475.0,"Urea, (3,4-dimethoxyphenethyl)-",MDAOEGJTBPQGCB-UHFFFAOYSA-N,COC1=C(C=C(C=C1)CCNC(=O)N)OC,95288.0,,,,unverified
+CNP0150986.1,"3,4-Dimethoxyphenylalanine, L-",VWTFNYVAFGYEKI-QMMMGPOBSA-N,COC1=C(C=C(C=C1)C[C@@H](C(=O)O)N)OC,10632946.0,,,229727,unverified
+CNP0458111.0,"4-(6,7-Dimethoxy-1,2,3,4-tetrahydroisoquinolin-4-yl)-2-methoxyphenol",NEGANGKLGKFYLC-UHFFFAOYSA-N,COC1=C(C=C2C(CNCC2=C1)C3=CC(=C(C=C3)O)OC)OC,280279.0,,,,unverified
+CNP0507432.0,"N-benzyl-5-[(3,4-dimethoxyphenyl)methyl]-1,3,4-oxadiazole-2-carboxamide",TZBHQCRLKWWJPW-UHFFFAOYSA-N,COC1=C(C=C(C=C1)CC2=NN=C(O2)C(=O)NCC3=CC=CC=C3)OC,22520126.0,,,,unverified
+CNP0496492.0,Hydracarbazine,WRYZEGZNBYOMLE-UHFFFAOYSA-N,C1=CC(=NN=C1C(=O)N)NN,71653.0,,,136055,unverified
+CNP0419128.0,"5-Azatricyclo[4.3.0.01,4]nonane-2,7,8,9-tetrol",PKBCJIBJRXGYOM-UHFFFAOYSA-N,C1C2C3(C1O)C(N2)C(C(C3O)O)O,163098013.0,,,,unverified
+CNP0236536.0,"2-Amino-4,6-dimethylnicotinic acid",XITZJLJVSFQXLV-UHFFFAOYSA-N,CC1=CC(=NC(=C1C(=O)O)N)C,738127.0,,,,unverified
+CNP0603952.2,"(4R,6R)-4-(4-aminobutyl)-6-methyl-1,2,5-triazepane-3,7-dione",NAKQLLODEYWGIT-RNFRBKRXSA-N,C[C@@H]1C(=O)NNC(=O)[C@H](N1)CCCCN,162649175.0,,,,exogenous
+CNP0405619.1,"(2S,6aR)-2-(hydroxymethyl)hexahydrooxazolo[3,4-b][1,2]oxazocin-9(2H)-one",CGKUNBMKMJIMRW-SFYZADRCSA-N,C1CC[C@H](ON2[C@H](C1)COC2=O)CO,44825457.0,,,,unverified
+CNP0199516.1,N-carbamoylmethyl-l-pyroglutamide,LBQFDLRXNAORNL-BYPYZUCNSA-N,C1CC(=O)N([C@@H]1C(=O)N)CC(=O)N,11872664.0,,,,unverified
+CNP0350538.0,6-Isopropoxynicotinic acid,OOIMOWCIYNEWCF-UHFFFAOYSA-N,CC(C)OC1=NC=C(C=C1)C(=O)O,18625738.0,C13680,,,unverified
+CNP0005095.0,N-[[3-hydroxy-4-(1H-imidazol-2-ylmethylamino)oxolan-2-yl]methyl]-2-methoxyacetamide,KVHLBSVMQFAYLA-UHFFFAOYSA-N,COCC(=O)NCC1C(C(CO1)NCC2=NC=CN2)O,162789686.0,,,,unverified
+CNP0216695.0,Xanthine,LRFVTYWOQMYALW-UHFFFAOYSA-N,O=C1NC2=C(NC=N2)C(=O)N1,1188.0,C00385,HMDB0000292,17712,endogenous
+CNP0513326.0,5-Methylcytosine,LRSASMSXMSNRBT-UHFFFAOYSA-N,CC1=C(N)NC(=O)N=C1,65040.0,C02376,HMDB0002894,27551,endogenous
+CNP0466280.0,2-Morpholinoethylamine,RWIVICVCHVMHMU-UHFFFAOYSA-N,C1COCCN1CCN,408285.0,,,194580,unverified
+CNP0298177.0,"3-[4-(Methoxymethyl)triazol-1-yl]-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-6-ol",DMVXDDHPDNVNRN-UHFFFAOYSA-N,COCC1=CN(N=N1)C2COC3C2OCC3O,73134888.0,,,,unverified
+CNP0224102.0,"1-(2,4-Dimethyl-1,3-oxazol-5-yl)ethan-1-one",YJWCNOMJKJYKLQ-UHFFFAOYSA-N,CC1=C(OC(=N1)C)C(=O)C,318418.0,,HMDB0038174,166558,exogenous
+CNP0432021.0,"1,3,5-trimethyl-1H-pyrazole-4-carboxylic acid",NOIOGQJFLIPRBI-UHFFFAOYSA-N,CC1=C(C(=NN1C)C)C(=O)O,736514.0,,,,exogenous
+CNP0441180.0,"2-Amino-4-[2-(dimethylamino)ethyl-methylamino]-6,8-dioxabicyclo[3.2.1]octan-3-ol",CKOKTIGDKVWBII-UHFFFAOYSA-N,CN(C)CCN(C)C1C(C(C2COC1O2)N)O,75111387.0,,,,unverified
+CNP0521858.0,"2-(dimethylamino)-3-(5-ethyl-2,4-dioxopyrimidin-1-yl)propanoic acid",,,,,,,unverified
+CNP0476587.0,"N-[3-[(2-amino-2-oxoethyl)carbamoyl]-5,6-dihydroxycyclohex-2-en-1-yl]-4-hydroxypyrrolidine-2-carboxamide",YSTHUOSLEXUOOC-UHFFFAOYSA-N,C1C(CNC1C(=O)NC2C=C(CC(C2O)O)C(=O)NCC(=O)N)O,5011510.0,,,,unverified
+CNP0457871.0,"5-methyl-[1,2,3,4]tetrazolo[1,5-a]pyridin-7-ol",NANZAXUTUIUAKL-UHFFFAOYSA-N,CC1=CC(=O)C=C2N1NN=N2,3707633.0,,,,unverified
+CNP0563440.2,(-)-Alternaritin A,VSCFEZABOWCSKG-JTQLQIEISA-N,CC(=O)C[C@@H](C1=CC(=O)C(=CO1)NC(=O)C)O,170989087.0,,,,exogenous
+CNP0206186.0,"2-(5,5-Dimethylmorpholin-2-yl)acetic acid",SEYCKMQSPUVYEF-UHFFFAOYSA-N,CC1(COC(CN1)CC(=O)O)C,3531687.0,,,,unverified
+CNP0453576.0,1-methyl-3-propyl-1H-pyrazole-5-carboxylic acid,KOABFSONXOOIIH-UHFFFAOYSA-N,CCCC1=NN(C(=C1)C(=O)O)C,587797.0,,,,unverified
+CNP0478115.0,"5-[3-(4-Chlorophenyl)-1,2,4-oxadiazol-5-yl]-1-methylpyrrolidin-3-amine",ZOZPKLLEJOQWIM-UHFFFAOYSA-N,CN1CC(CC1C2=NC(=NO2)C3=CC=C(C=C3)Cl)N,75111391.0,,,,unverified
+CNP0014836.0,"3-Methyl-5-[1-[(1-methylpyrrole-2-carbonyl)amino]ethyl]-1,2-oxazole-4-carboxylic acid",NCEPPQXARALWRD-UHFFFAOYSA-N,CC1=NOC(=C1C(=O)O)C(C)NC(=O)C2=CC=CN2C,162798385.0,,,,unverified
+CNP0240732.1,O2'-4a-cyclic-tetrahydrobiopterin,JZTDUNXDDUJXRZ-UPYOWCHBSA-N,C[C@H]1OC23NC(CNC2=NC(N)=NC3=O)[C@H]1O,176527043.0,,HMDB0013031,168788,endogenous
+CNP0358622.0,2-(4-Acetyl-5-methyl-2-oxopyrrolidin-3-yl)acetic acid,GUTJZCBOELWYQE-UHFFFAOYSA-N,CC1C(C(C(=O)N1)CC(=O)O)C(=O)C,4270058.0,,,,unverified
+CNP0517368.1,4-Methylidene-5-One,GYCBVEGTLQBIBF-BYPYZUCNSA-N,CC1=C(N(C(=N1)[C@H](C)N)CC(=O)O)O,17754076.0,,,44061,exogenous
+CNP0348259.0,N-Hydroxy-4-methoxybenzamide,RFCBPAJDLZMJPL-UHFFFAOYSA-N,COC1=CC=C(C=C1)C(=O)NO,221131.0,,,,unverified
+CNP0247369.0,2-(2-(hydroxymethyl)-5-methoxy-4-oxopyridin-1(4H)-yl)-N-(3-methoxypropyl)acetamide,UUVFFXMUQJSJPW-UHFFFAOYSA-N,COCCCNC(=O)CN1C=C(C(=O)C=C1CO)OC,56763615.0,,,,unverified
+CNP0514718.0,"5-[3-(3-Nitrophenyl)-1,2,4-oxadiazol-5-yl]pyrrolidin-3-ol",VXFBFSJUUNPOGE-UHFFFAOYSA-N,C1C(CNC1C2=NC(=NO2)C3=CC(=CC=C3)[N+](=O)[O-])O,74507200.0,,,,unverified
+CNP0324268.0,"1-Oxo-2-(propan-2-yl)-1,2,3,6,7,7a-hexahydro-3a,6-epoxyisoindole-7-carboxylic acid",PHAYITCIRICDCI-UHFFFAOYSA-N,CC(C)N1CC23C=CC(O2)C(C3C1=O)C(=O)O,2772031.0,,,,unverified
+CNP0575475.0,"6-Methyl-5-nitro-4-phenyl-3,4-dihydro-1H-pyrimidin-2-one",RDHOORIHIGDOCT-UHFFFAOYSA-N,CC1=C(C(NC(=O)N1)C2=CC=CC=C2)[N+](=O)[O-],2751705.0,,,,unverified
+CNP0189628.0,"3-Hydroxy-4-methoxy-1-methyl-3-(2-oxopropyl)pyridine-2,6-dione",OUJZJCJPABVTHT-UHFFFAOYSA-N,CC(=O)CC1(C(=CC(=O)N(C1=O)C)OC)O,85255941.0,,,,exogenous
+CNP0395026.1,1-[[(2S)-oxolan-2-yl]methyl]pyrrole-2-carbaldehyde,SXUBDVNYZHNQCW-JTQLQIEISA-N,C1C[C@H](OC1)CN2C=CC=C2C=O,40800725.0,,,,unverified
+CNP0276532.0,"3-Ethylidene-4-methylpyrrolidine-2,5-dione",JLAQEZKQOIVCTK-UHFFFAOYSA-N,CC=C1C(C(=O)NC1=O)C,53439587.0,,,,unverified
+CNP0228221.0,"3-amino-3-(3,5-dimethoxyphenyl)propanoic Acid",HUPNLRFWWQFWCS-UHFFFAOYSA-N,COC1=CC(=CC(=C1)C(CC(=O)O)N)OC,5107763.0,,,,unverified
+CNP0354089.0,"Methyl (1,5-dimethyl-9-oxo-3,7-diazabicyclo[3.3.1]non-3-yl)(oxo)acetate",NBXDILFSHNDOHK-UHFFFAOYSA-N,CC12CNCC(C1=O)(CN(C2)C(=O)C(=O)OC)C,2880232.0,,,,unverified
+CNP0601055.0,"1-[4-Hydroxy-5-(pyrrolidin-1-ylmethyl)oxolan-2-yl]-5-methylpyrimidine-2,4-dione",XUSBTLVYPZUOAW-UHFFFAOYSA-N,CC1=CN(C(=O)NC1=O)C2CC(C(O2)CN3CCCC3)O,139597906.0,,,,unverified
+CNP0365136.2,"(8aS)-8a-hydroxy-4,7-dimethyl-2,3-dihydro-1,4-benzoxazin-6-one",AMPLTVKIWKZEGO-JTQLQIEISA-N,CC1=C[C@]2(C(=CC1=O)N(CCO2)C)O,929113.0,,,,unverified
+CNP0028244.0,"1,3,4-Thiadiazol-2-amine, N-(4,5-dihydro-1H-imidazol-2-yl)-5-phenyl-",QUPSGPOQABDZPA-UHFFFAOYSA-N,C1CN=C(N1)NC2=NN=C(S2)C3=CC=CC=C3,11172623.0,,,,unverified
+CNP0361268.0,"N-[1-(2,3-dihydro-1,4-benzodioxin-2-yl)ethyl]-2-hydroxy-3-(propan-2-ylamino)propanamide",NOLYDRWVAQOLDK-UHFFFAOYSA-N,CC(C)NCC(C(=O)NC(C)C1COC2=CC=CC=C2O1)O,3143056.0,,,,unverified
+CNP0355587.1,(+)-Epogymnolactam,ABIFCFYADLKZLB-RSHNMJPRSA-N,CCCCC1([C@@H]2[C@@H](O2)C(=O)N1)O,101883983.0,,,218647,exogenous
+CNP0116229.0,3-hydroxy-3-(2'-aminophenyl)-N-methyl-2 pyrrolidone,NCEOLGAELZDDIE-UHFFFAOYSA-N,CN1CCC(C1=O)(C2=CC=CC=C2N)O,21627948.0,,,,exogenous
+CNP0500416.0,1-[4-hydroxy-2-[[4-(methoxymethyl)triazol-1-yl]methyl]oxolan-3-yl]-3-propan-2-ylurea,,,,,,,unverified
+CNP0480183.0,N-[[3-hydroxy-4-(1H-imidazol-2-ylmethylamino)oxolan-2-yl]methyl]-4-methylbenzenesulfonamide,,,,,,,unverified
+CNP0473569.0,"3-(3,4-dimethoxyphenyl)-4,5-dihydro-1H-pyrazole-5-carboxylic acid",WYHKXGARDDHISQ-UHFFFAOYSA-N,COC1=C(C=C(C=C1)C2=NNC(C2)C(=O)O)OC,71676768.0,,,,unverified
+CNP0059225.0,Methyl 4-[[3-(prop-2-enylcarbamoylamino)-1-(pyrazine-2-carbonyl)pyrrolidine-2-carbonyl]amino]butanoate,SBYQSDIPYIOFIH-UHFFFAOYSA-N,COC(=O)CCCNC(=O)C1C(CCN1C(=O)C2=NC=CN=C2)NC(=O)NCC=C,3719029.0,,,,unverified
+CNP0570671.0,Lidocaine N-oxide,YDVXPJXUHRROBA-UHFFFAOYSA-N,CC[N+](CC)(CC(=O)NC1=C(C=CC=C1C)C)[O-],3036923.0,,,167782,unverified
+CNP0477832.0,"2-(Furan-2-ylmethylamino)-4-(4-methylpiperazin-1-yl)-6,8-dioxabicyclo[3.2.1]octan-3-ol",ZKUOBFQUDBZSAQ-UHFFFAOYSA-N,CN1CCN(CC1)C2C(C(C3COC2O3)NCC4=CC=CO4)O,75111371.0,,,,unverified
+CNP0111869.0,4-acetylbenzo[d]oxazol-2(3H)-one,FZAQRVWPQCXSPC-UHFFFAOYSA-N,CC(=O)C1=C2C(=CC=C1)OC(=O)N2,9989779.0,C11210,HMDB0040612,173818,exogenous
+CNP0605689.2,Biotin,YBJHBAHKTGYVGT-ZKWXMUAHSA-N,C1[C@H]2[C@@H]([C@@H](S1)CCCCC(=O)O)NC(=O)N2,171548.0,C00120,HMDB0000030,15956,exogenous
+CNP0384851.0,"Isopropyl 1-(2-methoxyethyl)-7-methyl-2,4-dioxo-1,2,3,4-tetrahydropyrido[2,3-d]pyrimidine-6-carboxylate",BGYZOXGBKHMEJC-UHFFFAOYSA-N,CC1=C(C=C2C(=O)NC(=O)N(C2=N1)CCOC)C(=O)OC(C)C,56763674.0,,,,unverified
+CNP0574551.1,"2-[(2R,5R)-5-(2-methylpropyl)-3,6-dioxopiperazin-2-yl]acetamide",XZEBIUSMTQUFGY-RNFRBKRXSA-N,CC(C)C[C@@H]1C(=O)N[C@@H](C(=O)N1)CC(=O)N,102212195.0,,,,exogenous
+CNP0396131.0,"N-[4-(6-oxo-4,5-dihydro-1H-pyridazin-3-yl)phenyl]formamide",QFCWOGMTXSEBNE-UHFFFAOYSA-N,C1CC(=O)NN=C1C2=CC=C(C=C2)NC=O,676915.0,,,,unverified
+CNP0496957.0,TX-1910,,,,,,,unverified
+CNP0006268.0,"2-(Cyclobutylamino)-4-(2-methylimidazol-1-yl)-6,8-dioxabicyclo[3.2.1]octan-3-ol",FFDRAUMRLFSCEB-UHFFFAOYSA-N,CC1=NC=CN1C2C(C(C3COC2O3)NC4CCC4)O,162791034.0,,,,unverified
+CNP0563130.0,"6-(2-Phenoxyethoxy)-1,3,5-Triazine-2,4-Diamine",LRQXUZUFSOQMGU-UHFFFAOYSA-N,C1=CC=C(C=C1)OCCOC2=NC(=NC(=N2)N)N,25271557.0,,,,unverified
+CNP0499922.0,"4-[(cyclopropylmethylamino)methyl]-4-(pyrazin-2-yloxymethyl)cyclopentane-1,2-diol",,,,,,,unverified
+CNP0087306.0,"1(2H)-Isoquinolinone, 4-methoxy-",ITVVDKFBWYVGPV-UHFFFAOYSA-N,COC1=CNC(=O)C2=CC=CC=C21,21821105.0,,,207517,exogenous
+CNP0500460.0,"N-(2,3-dihydro-1H-inden-5-yl)-2-(1H-indol-3-yl)acetamide",QBAOOZJVTJFNTH-UHFFFAOYSA-N,C1CC2=C(C1)C=C(C=C2)NC(=O)CC3=CNC4=CC=CC=C43,858441.0,,,,unverified
+CNP0570474.0,"2-[2-(aminomethyl)-5-oxo-4-[(4-oxocyclohexa-2,5-dien-1-yl)methyl]-4H-imidazol-1-yl]acetaldehyde",MONOYMGQJZJGBR-UHFFFAOYSA-N,C1=CC(=O)C=CC1CC2C(=O)N(C(=N2)CN)CC=O,3289294.0,,,,unverified
+CNP0064021.0,"2-(3-Hydroxypropylimino)-5,5-dipropyl-1,3-diazinane-4,6-dione",LJOQAPOSCLPSLF-UHFFFAOYSA-N,CCCC1(C(=O)NC(=NC1=O)NCCCO)CCC,4424187.0,,,,unverified
+CNP0547223.1,(3R)-3-butanamido-4-(trimethylammonio)butanoate,MDQFAQCGXKCBSD-SECBINFHSA-N,CCCC(=O)N[C@H](CC(=O)[O-])C[N+](C)(C)C,13393112.0,,,,exogenous
+CNP0171068.0,N-(4-hydroxyphenyl)-2-(1H-indol-4-yloxy)acetamide,KPYLRZJNGRAMRM-UHFFFAOYSA-N,C1=CC2=C(C=CN2)C(=C1)OCC(=O)NC3=CC=C(C=C3)O,29148253.0,,,,unverified
+CNP0482289.0,"2-methoxy-1-[1-[(4-methoxyphenyl)methyl]-2,2-dioxo-3,4,5a,6,8,8a-hexahydropyrrolo[3,4-f][1,4,5]oxathiazepin-7-yl]ethanone",,,,,,,unverified
+CNP0086944.0,"2-[1-(4-Amino-4-oxobutyl)-4-hexyl-2,5-dioxopyrrol-3-yl]acetic acid",PUUPIRGONKWMNS-UHFFFAOYSA-N,CCCCCCC1=C(C(=O)N(C1=O)CCCC(=O)N)CC(=O)O,124876818.0,,,,unverified
+CNP0523740.0,"1-(6,8-dihydro-5H-imidazo[2,1-c][1,4]oxazin-6-ylmethyl)-3-(4-methoxyphenyl)urea",,,,,,,unverified
+CNP0194979.0,"5-(1,2-dithiolan-3-yl)-N-(1-hydroxy-3-phenylpropan-2-yl)pentanamide",IHAFXCZHJBAQLT-UHFFFAOYSA-N,C1CSSC1CCCCC(=O)NC(CC2=CC=CC=C2)CO,123132703.0,,,,unverified
+CNP0124107.0,"1-[2-(6-Formyl-7-methoxy-1,3-benzodioxol-5-yl)ethyl]-1-methyl-3-propan-2-ylurea",JSADAYCOEDFIAX-UHFFFAOYSA-N,CC(C)NC(=O)N(C)CCC1=CC2=C(C(=C1C=O)OC)OCO2,909030.0,,,,unverified
+CNP0325568.0,N-[5-(diethylaminomethyl)-4-hydroxyoxolan-3-yl]acetamide,CWCGIXSGSYDDQR-UHFFFAOYSA-N,CCN(CC)CC1C(C(CO1)NC(=O)C)O,163043917.0,,,,unverified
+CNP0479442.0,3-Methyloxindole,BBZCPUCZKLTAJQ-UHFFFAOYSA-N,CC1C2=CC=CC=C2NC1=O,150923.0,C02366,HMDB0304943,17397,exogenous
+CNP0006237.0,"4-Imidazol-1-yl-2-(propan-2-ylamino)-6,8-dioxabicyclo[3.2.1]octan-3-ol",XCFDBRIZMQWLOA-UHFFFAOYSA-N,CC(C)NC1C2COC(O2)C(C1O)N3C=CN=C3,162791003.0,,,,unverified
+CNP0475463.0,"2-(Cyclopropylmethylamino)-4-morpholin-4-yl-6,8-dioxabicyclo[3.2.1]octan-3-ol",YBWSXMLVMXJZLU-UHFFFAOYSA-N,C1CC1CNC2C3COC(O3)C(C2O)N4CCOCC4,74419552.0,,,,unverified
+CNP0236659.2,"N-(1,3-dioxoisoindol-5-yl)-5-[(3R)-dithiolan-3-yl]pentanamide",HDAIXNAFVRBPQN-LLVKDONJSA-N,C1CSS[C@@H]1CCCCC(=O)NC2=CC3=C(C=C2)C(=O)NC3=O,97046087.0,,,,unverified
+CNP0477166.0,N-(4-hydroxy-1-propan-2-ylazepan-3-yl)-4-(2-methoxyethoxy)benzamide,ZBCNGCHBLOQJDQ-UHFFFAOYSA-N,CC(C)N1CCCC(C(C1)NC(=O)C2=CC=C(C=C2)OCCOC)O,163180863.0,,,,unverified
+CNP0238327.0,N-[2-(4-hydroxyphenyl)ethyl]-2-(5-methoxy-1H-indol-1-yl)acetamide,DUYDHFMXIHWWOQ-UHFFFAOYSA-N,COC1=CC2=C(C=C1)N(C=C2)CC(=O)NCCC3=CC=C(C=C3)O,29147533.0,,,,unverified
+CNP0004155.0,"1-[4-[[3-[[5-(2-Hydroxyethyl)-1,2-oxazol-3-yl]methyl]oxetan-3-yl]amino]piperidin-1-yl]ethanone",LLBHVYACERYJDF-UHFFFAOYSA-N,CC(=O)N1CCC(CC1)NC2(COC2)CC3=NOC(=C3)CCO,56775396.0,,,,unverified
+CNP0447852.0,N-(4-hydroxy-1-propan-2-ylazepan-3-yl)-4-methoxybenzamide,HGXRLZYTQKPNFQ-UHFFFAOYSA-N,CC(C)N1CCCC(C(C1)NC(=O)C2=CC=C(C=C2)OC)O,74505353.0,,,,unverified
+CNP0209700.1,Z-L-Phenylalaninol,WPOFMMJJCPZPAO-INIZCTEOSA-N,C1=CC=C(C=C1)C[C@@H](CO)NC(=O)OCC2=CC=CC=C2,853481.0,,,202107,exogenous
+CNP0593187.0,4-ethoxy-N-[2-(4-methoxyphenyl)-2-(morpholin-4-yl)ethyl]benzamide,XSXNCSWULXYDIJ-UHFFFAOYSA-N,CCOC1=CC=C(C=C1)C(=O)NCC(C2=CC=C(C=C2)OC)N3CCOCC3,16447104.0,,,,unverified
+CNP0292901.2,Boc-Dap(Z)-OL,JQIQDJDXPRRWIN-ZDUSSCGKSA-N,CC(C)(C)OC(=O)N[C@@H](CNC(=O)OCC1=CC=CC=C1)CO,50986384.0,,,,unverified
+CNP0529793.0,"4-Chloro-6-(4-piperazin-1-YL-1H-pyrazol-5-YL)benzene-1,3-diol",RFPHEBUOQYYPDO-UHFFFAOYSA-N,C1CN(CCN1)C2=C(NN=C2)C3=CC(=C(C=C3O)O)Cl,135422922.0,,,,unverified
+CNP0402962.0,"N-[2-(3,4-dimethoxyphenyl)ethyl]-2-hydroxy-5-methoxybenzamide",ALNUKCFGADOPNK-UHFFFAOYSA-N,COC1=CC(=C(C=C1)O)C(=O)NCCC2=CC(=C(C=C2)OC)OC,163087810.0,,,,exogenous
+CNP0489717.0,"8-[2,2-dimethylpropyl(methyl)amino]-1'-[(4-methylpyridin-3-yl)methyl]spiro[2,4,7,8,9,9a-hexahydropyrrolo[1,2-a][1,4]diazepine-3,4'-piperidine]-1,5-dione",,,,,,,unverified
+CNP0572398.0,2-(4-methoxyphenyl)-N-[2-(4-methoxyphenyl)-2-(morpholin-4-yl)ethyl]acetamide,LVKYXDBQWBLCIX-UHFFFAOYSA-N,COC1=CC=C(C=C1)CC(=O)NCC(C2=CC=C(C=C2)OC)N3CCOCC3,16455533.0,,,,unverified
+CNP0574300.0,"2-[3-[[3-[(4-Methoxyphenyl)methylamino]oxetan-3-yl]methyl]-1,2-oxazol-5-yl]propan-2-ol",OTVONWCXSPYREU-UHFFFAOYSA-N,CC(C)(C1=CC(=NO1)CC2(COC2)NCC3=CC=C(C=C3)OC)O,56775501.0,,,,unverified
+CNP0562791.0,(E)-2-(4-Methoxybenzylideneamino)-1-phenylethanol,CAGMSXRZMNJGMT-UHFFFAOYSA-N,COC1=CC=C(C=C1)C=NCC(C2=CC=CC=C2)O,2841123.0,,,,unverified
+CNP0060369.0,"N-[[5-[2-(2,3-dihydroindol-1-yl)-2-oxoethyl]-3,4-dihydroxyoxolan-2-yl]methyl]-4-methylbenzamide",OIGWTCHQRUAMFG-UHFFFAOYSA-N,CC1=CC=C(C=C1)C(=O)NCC2C(C(C(O2)CC(=O)N3CCC4=CC=CC=C43)O)O,74735083.0,,,,unverified
+CNP0385733.0,"6-[[5-(Methoxymethyl)-1,2-oxazol-3-yl]methyl]-2-[[(1-methylpiperidin-4-yl)amino]methyl]oxan-3-ol",IHXNMOSSSRYEMY-UHFFFAOYSA-N,CN1CCC(CC1)NCC2C(CCC(O2)CC3=NOC(=C3)COC)O,163080017.0,,,,unverified
+CNP0005050.0,3-cyclopentyl-N-[4-[3-(hydroxymethyl)-5-oxo-4-(pyridin-3-ylmethyl)morpholin-2-yl]phenyl]propanamide,OYTBYBUFSSMPCJ-UHFFFAOYSA-N,C1CCC(C1)CCC(=O)NC2=CC=C(C=C2)C3C(N(C(=O)CO3)CC4=CN=CC=C4)CO,78150458.0,,,,unverified
+CNP0054479.0,"1-Benzyl-3-[4-(3,5-dimethyl-1-pyridin-2-ylpyrazol-4-yl)cyclopent-2-en-1-yl]urea",KIAJYTXLRKDVLZ-UHFFFAOYSA-N,CC1=C(C(=NN1C2=CC=CC=N2)C)C3CC(C=C3)NC(=O)NCC4=CC=CC=C4,74734843.0,,,,unverified
+CNP0194565.0,"4-[6-(3,4-Dimethoxyphenyl)morpholin-2-yl]phenol",GYSLLZNELIMPOS-UHFFFAOYSA-N,COC1=C(C=C(C=C1)C2CNCC(O2)C3=CC=C(C=C3)O)OC,14863477.0,,,,exogenous
+CNP0163578.0,"1-Benzyl-3-[6-[4-[[benzyl(methyl)amino]methyl]triazol-1-yl]-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-3-yl]urea",ZBMLSAGEXFFYEZ-UHFFFAOYSA-N,CN(CC1=CC=CC=C1)CC2=CN(N=N2)C3COC4C3OCC4NC(=O)NCC5=CC=CC=C5,73138796.0,,,,unverified
+CNP0415903.0,"N,N-diethyl-1-methyl-8-[(1-methylpyrazol-4-yl)methylamino]-2-oxoazonane-4-carboxamide",ZRFHBJIVVWCMCC-UHFFFAOYSA-N,CCN(CC)C(=O)C1CCCC(CN(C(=O)C1)C)NCC2=CN(N=C2)C,163094574.0,,,,unverified
+CNP0004118.0,"2-[3-[[3-[Bis(cyclopropylmethyl)amino]oxetan-3-yl]methyl]-1,2-oxazol-5-yl]ethanol",CSUWEDMADUEKAH-UHFFFAOYSA-N,C1CC1CN(CC2CC2)C3(COC3)CC4=NOC(=C4)CCO,56775395.0,,,,unverified
+CNP0535787.0,"2-benzyl-7-methyl-1'-(1-methylpiperidine-4-carbonyl)spiro[5,6,8,8a-tetrahydroimidazo[1,5-a]pyrazine-3,4'-piperidine]-1-one",,,,,,,unverified
+CNP0537075.0,"2-[(1-methylpiperidin-4-yl)amino]-4-(5-phenyl-2-propan-2-yl-1,2,4-triazol-3-yl)cyclohexan-1-ol",,,,,,,unverified
+CNP0445773.0,"2-[5-[[4-[[benzyl(methyl)amino]methyl]triazol-1-yl]methyl]-3,4-dihydroxyoxolan-2-yl]-N-[2-(dimethylamino)ethyl]acetamide",GBOCGLXEWSKLQN-UHFFFAOYSA-N,CN(C)CCNC(=O)CC1C(C(C(O1)CN2C=C(N=N2)CN(C)CC3=CC=CC=C3)O)O,74735137.0,,,,unverified
+CNP0322480.1,"1,3,6-trimethyl-N-[(1S,9aR)-octahydro-2H-quinolizin-1-ylmethyl]-1H-pyrazolo[3,4-b]pyridine-4-carboxamide",IMDCKKSOKZOZEF-DOTOQJQBSA-N,CC1=CC(=C2C(=NN(C2=N1)C)C)C(=O)NC[C@@H]3CCCN4[C@@H]3CCCC4,71753674.0,,,,unverified
+CNP0018429.0,"1-[4-[4-[5-[1-[(2-Methylphenyl)methyl]pyrrolidin-2-yl]-1,2,4-oxadiazol-3-yl]pyridin-2-yl]piperazin-1-yl]ethanone",YZEGBVNTCGMZDW-UHFFFAOYSA-N,CC1=CC=CC=C1CN2CCCC2C3=NC(=NO3)C4=CC(=NC=C4)N5CCN(CC5)C(=O)C,75614827.0,,,,unverified
+CNP0002338.1,Stercobilinogen,VKGRRZVYCXLHII-OLFWPHQKSA-N,[H][C@@]1(CC2=C(C)C(CCC(O)=O)=C(CC3=C(CCC(O)=O)C(C)=C(C[C@]4([H])NC(=O)[C@H](C)[C@H]4CC)N3)N2)NC(=O)[C@H](CC)[C@H]1C,9548718.0,C05789,HMDB0004157,6320,endogenous
+CNP0334385.0,2-Methyl-6-(3-methylbutoxy)-3-propylquinolin-4-ol,OGARWEWWFNLBGC-UHFFFAOYSA-N,CCCC1=C(NC2=C(C1=O)C=C(C=C2)OCCC(C)C)C,826065.0,,,,unverified
+CNP0522083.0,"8-[cyclobutyl(methyl)amino]-1'-[(3-methylimidazol-4-yl)methyl]spiro[2,4,7,8,9,9a-hexahydropyrrolo[1,2-a][1,4]diazepine-3,4'-piperidine]-1,5-dione",,,,,,,unverified
+CNP0492009.0,Medetomidine,CUHVIMMYOGQXCV-UHFFFAOYSA-N,CC1=C(C(=CC=C1)C(C)C2=CN=CN2)C,68602.0,D08165,HMDB0254052,48552,unverified
+CNP0090458.0,"7-Hydroxy-24-(methylaminomethyl)-20-methylimino-8-oxo-19,21-diazahexacyclo[19.3.1.14,7.01,5.02,15.05,13]hexacosa-4(26),22-dien-16-yne-26-carboxylic acid",WJXORQRFEBSPEN-UHFFFAOYSA-N,CNCC1C=CN2CC13C4CC5=C(C6(CC35C(CCCCC6=O)CC4C#CCNC2=NC)O)C(=O)O,162827250.0,,,,unverified
+CNP0400092.0,"N-(2,3,4,6,7,8,9,9a-octahydro-1H-quinolizin-1-ylmethyl)-3-(9,10-dimethoxy-5,11-dioxo-6aH-isoindolo[2,1-a]quinazolin-6-yl)-N-(2-methoxyethyl)propanamide",JPYAWLAHXCJTSN-UHFFFAOYSA-N,COCCN(CC1CCCN2C1CCCC2)C(=O)CCN3C4C5=C(C(=C(C=C5)OC)OC)C(=O)N4C6=CC=CC=C6C3=O,163086618.0,,,,unverified
+CNP0351736.0,"3-(Hydroxymethyl)-3-[[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]oxirane-2-carbonitrile",AGBINTPCVYIOJW-UHFFFAOYSA-N,C(C1C(C(C(C(O1)OCC2(C(O2)C#N)CO)O)O)O)O,163061921.0,,,,exogenous
+CNP0174074.3,Volkenin,JRCWYCAEAZEYNW-LABXTODUSA-N,C1[C@H](C=C[C@]1(C#N)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)O,181811.0,C08344,,,unverified
+CNP0234938.0,"1-(4,5-Dihydroxy-6-methyloxan-2-yl)oxy-4-hydroxycyclopent-2-ene-1-carbonitrile",GMNLTXGKAXENAT-UHFFFAOYSA-N,CC1C(C(CC(O1)OC2(CC(C=C2)O)C#N)O)O,162963600.0,,,,unverified
+CNP0302227.0,"2-Methyl-2-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]butanenitrile",PVJGJEVTFWHZHM-UHFFFAOYSA-N,CCC(C)(C#N)C1C(C(C(C(O1)CO)O)O)O,163024832.0,,,,unverified
+CNP0137914.0,"[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] N-but-3-enylmethanimidothioate",NCWFGOSXGPNCHQ-UHFFFAOYSA-N,C=CCCN=CSC1C(C(C(C(O1)CO)O)O)O,162873109.0,,,,unverified
+CNP0290191.2,Spirostaphylotrichin V,WLTPKEUARATQBE-MPMRNEJGSA-N,CC/C=C\1/C=CC(=O)[C@@H]([C@@]12[C@H]([C@@](N(C2=O)OC)(C)OC)O)O,139585749.0,,,209372,exogenous
+CNP0363549.0,Methyl Aminolevulinate,YUUAYBAIHCDHHD-UHFFFAOYSA-N,COC(=O)CCC(=O)CN,157922.0,D08204,HMDB0015127,724125,exogenous
+CNP0167970.0,5-Aminovaleric acid,JJMDCOVWQOJGCB-UHFFFAOYSA-N,NCCCCC(O)=O,138.0,C00431,HMDB0003355,15887,endogenous
+CNP0276480.0,2-Amino-7-methoxy-7-oxoheptanoic acid,JDVRHBSRVFYFOR-UHFFFAOYSA-N,COC(=O)CCCCC(C(=O)O)N,21262291.0,,,,unverified
+CNP0193634.0,2-Aminoheptanoic acid,RDFMDVXONNIGBC-UHFFFAOYSA-N,CCCCCC(C(=O)O)N,227939.0,C71385,HMDB0242128,133223,unverified
+CNP0110183.0,2-Aminooctanoic acid,AKVBCGQVQXPRLD-UHFFFAOYSA-N,CCCCCCC(N)C(O)=O,69522.0,,HMDB0000991,133660,endogenous
+CNP0327835.0,9-Amino-8-oxononanoic acid,VBZVQWDDUOUQHA-UHFFFAOYSA-N,C(CCCC(=O)O)CCC(=O)CN,13199449.0,,,,unverified
+CNP0316712.0,8-Amino-7-oxononanoic acid,GUAHPAJOXVYFON-UHFFFAOYSA-N,CC(C(=O)CCCCCC(=O)O)N,173.0,C01092,,15830,exogenous
+CNP0380696.0,2-aminodecanedioic Acid,OZELAETXNOXZOK-UHFFFAOYSA-N,C(CCCC(C(=O)O)N)CCCC(=O)O,3762849.0,,,,unverified
+CNP0407369.1,Palythine,AJGGWXHQTXRTPE-JTQLQIEISA-N,COC1=C(CC(CC1=NCC(=O)O)(CO)O)N,16047608.0,,,,exogenous
+CNP0144180.0,palythrine-Ser,DQCGSCJFICXWFZ-UHFFFAOYSA-N,COC1=C(CC(CC1=[NH+]C(CO)C(=O)[O-])(CO)O)N,171120920.0,,,,exogenous
+CNP0370573.1,Spumigin J,GYOYQEPTCVDBLP-FTNGLENOSA-N,C[C@H]1C[C@H](N(C1)C(=O)[C@@H](CCC2=CC=C(C=C2)O)NC(=O)[C@@H](CC3=CC=C(C=C3)O)O)C(=O)N(C)[C@H](CCCCN)C(=O)O,71458275.0,,,220970,exogenous
+CNP0528940.1,Thymopentin,PSWFFKRAVBDQEG-YGQNSOCVSA-N,CC(C)[C@@H](C(=O)N[C@@H](CC1=CC=C(C=C1)O)C(=O)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCN=C(N)N)N,451417.0,D06117,,135870,endogenous
+CNP0108599.3,Phosphonothreonine,USRGIUJOYOXOQJ-STHAYSLISA-N,C[C@@H]([C@H](C(=O)O)N)OP(=O)(O)O,10976469.0,C12147,,,unverified
+CNP0555712.1,Monoisopropylphosphorylserine,DALHHSOTZKMXMV-YFKPBYRVSA-N,CC(C)OP(=O)(O)OC[C@@H](C(=O)O)N,17754078.0,,,,unverified
+CNP0581995.0,3-Acetyl-2-aminopentanedioic acid,PTAQSNGCJWGWEJ-UHFFFAOYSA-N,CC(=O)C(CC(=O)O)C(C(=O)O)N,77331629.0,,,,unverified
+CNP0332243.1,Glutaurine,WGXUDTHMEITUBO-YFKPBYRVSA-N,N[C@@H](CCC(=O)NCCS(O)(=O)=O)C(O)=O,68759.0,C05844,HMDB0004195,140298,endogenous
+CNP0156303.1,Cystine,LEVWYRKDKASIDU-IMJSIDKUSA-N,N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O,67678.0,D03636,HMDB0000192,16283,endogenous
+CNP0300688.1,"(2S,6S)-2,6-diaminoheptanedioic acid",GMKMEZVLHJARHF-WHFBIAKZSA-N,C(C[C@@H](C(=O)O)N)C[C@@H](C(=O)O)N,439283.0,C00666,HMDB0001370,16026,exogenous
+CNP0275512.0,DL-Serine,MTCFGRXMJLQNBG-UHFFFAOYSA-N,C(C(C(=O)O)N)O,617.0,C00716,HMDB0062263,17822,exogenous
+CNP0563879.0,Glycine,DHMQDGOQFOQNFH-UHFFFAOYSA-N,NCC(O)=O,750.0,C22407,HMDB0000123,15428,endogenous
+CNP0141839.0,DL-Aspartic acid,CKLJMWTZIZZHCS-UHFFFAOYSA-N,C(C(C(=O)O)N)C(=O)O,424.0,C16433,,22660,exogenous
+CNP0361973.1,Glutamine,ZDXPYRJPNDTMRX-VKHMYHEASA-N,N[C@@H](CCC(N)=O)C(O)=O,5961.0,D00015,HMDB0000641,18050,endogenous
+CNP0361197.0,DL-Threonine,AYFVYJQAPQTCCC-UHFFFAOYSA-N,CC(C(C(=O)O)N)O,205.0,,HMDB0250801,38263,exogenous
+CNP0102727.0,DL-ornithine,AHLPHDHHMVZTML-UHFFFAOYSA-N,C(CC(C(=O)O)N)CN,389.0,C01602,,18257,endogenous
+CNP0148927.0,Pipecolic acid,HXEACLLIILLPRG-UHFFFAOYSA-N,OC(=O)C1CCCCN1,849.0,,HMDB0000070,17964,endogenous
+CNP0191057.1,Glutamic Acid,WHUUTDBJXJRKMK-VKHMYHEASA-N,N[C@@H](CCC(O)=O)C(O)=O,33032.0,D00007,HMDB0000148,16015,endogenous
+CNP0316201.0,"2-Amino-4,5-dihydroxy-4-methylpentanoic acid",ASHXMQKUZGLXMR-UHFFFAOYSA-N,CC(CC(C(=O)O)N)(CO)O,71333852.0,,,,unverified
+CNP0110239.0,L-Saccharopin,ZDGJAHTZVHVLOT-UHFFFAOYSA-N,N[C@@H](CCCCN[C@@H](CCC(O)=O)C(O)=O)C(O)=O,160556.0,C00449,HMDB0000279,,endogenous
+CNP0209633.1,Citrulline,RHGKLRLOHDJJDR-BYPYZUCNSA-N,N[C@@H](CCCNC(N)=O)C(O)=O,9750.0,D07706,HMDB0000904,16349,endogenous
+CNP0161367.0,DL-Histidine,HNDVDQJCIGZPNO-UHFFFAOYSA-N,C1=C(NC=N1)CC(C(=O)O)N,773.0,C00768,HMDB0250763,27570,exogenous
+CNP0255597.0,2-amino-3-(1-methyl-1H-imidazol-5-yl)propanoic acid,JDHILDINMRGULE-UHFFFAOYSA-N,CN1C=NC=C1CC(C(=O)O)N,565965.0,,,133609,endogenous
+CNP0266049.0,2-Amino-4-hydroxypimelic acid,YLKFCAHJVSLNKP-UHFFFAOYSA-N,C(CC(=O)O)C(CC(C(=O)O)N)O,54514417.0,,,,exogenous
+CNP0334080.0,Betaine,KWIUHFFTVRNATP-UHFFFAOYSA-N,C[N+](C)(C)CC(O)=O,247.0,D07523,HMDB0000043,17750,endogenous
+CNP0249720.1,"L-Proline, 1-acetyl-4-hydroxy-, cis-",BAPRUDZDYCKSOQ-WDSKDSINSA-N,CC(=O)N1C[C@H](C[C@H]1C(=O)O)O,735936.0,,,,unverified
+CNP0257247.1,Arginine,ODKSFYDXXFIFQN-BYPYZUCNSA-N,N[C@@H](CCCNC(N)=N)C(O)=O,6322.0,D02982,HMDB0000517,16467,endogenous
+CNP0219104.1,Proline,ONIBWKKTOPOVIA-BYPYZUCNSA-N,OC(=O)[C@@H]1CCCN1,145742.0,C00148,HMDB0000162,17203,endogenous
+CNP0485675.0,2-(Methylamino)-5-nitrobenzoic acid,FAVDVRYGVZMEFI-UHFFFAOYSA-N,CNC1=C(C=C(C=C1)[N+](=O)[O-])C(=O)O,643299.0,,,,unverified
+CNP0180807.1,L-2-Aminoadipic acid,OYIFNHCXNCRBQI-BYPYZUCNSA-N,N[C@@H](CCCC(O)=O)C(O)=O,92136.0,C00956,HMDB0000510,37023,endogenous
+CNP0253438.1,"L-Lysine, 4-oxo-",OIMQYJJMDNKKOD-YFKPBYRVSA-N,C(CN)C(=O)C[C@@H](C(=O)O)N,45082345.0,,,,unverified
+CNP0204037.0,5-Amino-4-hydroxypentanoic acid,TYMZJFJDBQLYHB-UHFFFAOYSA-N,C(CC(=O)O)C(CN)O,10214391.0,,,,unverified
+CNP0152507.0,DL-Valine,KZSNJWFQEVHDMF-UHFFFAOYSA-N,CC(C)C(C(=O)O)N,1182.0,C16436,HMDB0250806,27266,exogenous
+CNP0191057.0,DL-Glutamic acid,WHUUTDBJXJRKMK-UHFFFAOYSA-N,C(CC(=O)O)C(C(=O)O)N,611.0,D04341,HMDB0060475,18237,exogenous
+CNP0204700.0,"Lysine, DL-",KDXKERNSBIXSRK-UHFFFAOYSA-N,C(CCN)CC(C(=O)O)N,866.0,C16440,HMDB0142894,25094,exogenous
+CNP0168577.0,2-Amino-4-methylpimelic acid,ZTLDTRZYHPXXPS-UHFFFAOYSA-N,CC(CCC(=O)O)CC(C(=O)O)N,101412841.0,,,,unverified
+CNP0561527.1,"(2S,5S)-5-Carboxymethylproline",LIZWYFXJOOUDNV-WHFBIAKZSA-N,C1C[C@H](N[C@@H]1CC(=O)O)C(=O)O,447989.0,C17366,,45757,exogenous
+CNP0196777.0,2-Aminoheptanedioic acid,JUQLUIFNNFIIKC-UHFFFAOYSA-N,C(CCC(=O)O)CC(C(=O)O)N,101122.0,,HMDB0034252,64305,exogenous
+CNP0230750.0,N(5)-acetylornithine,SRXKAYJJGAAOBP-UHFFFAOYSA-N,CC(=O)NCCCC(C(=O)O)N,9920500.0,,HMDB0242109,133179,exogenous
+CNP0324090.1,"N6,N6,N6-Trimethyl-L-lysine",MXNRLFUSFKVQSK-QMMMGPOBSA-N,C[N+](C)(C)CCCC[C@H](N)C([O-])=O,440120.0,C03793,HMDB0001325,165870,endogenous
+CNP0139818.0,3-Guanidinopropionic acid,KMXXSJLYVJEBHI-UHFFFAOYSA-N,NC(=N)NCCC(O)=O,67701.0,D12779,HMDB0013222,15968,endogenous
+CNP0576582.1,2-Methylarginine,LKRMSSDDHQZQHJ-ZETCQYMHSA-N,C[C@](CCCN=C(N)N)(C(=O)O)N,124684.0,,,223950,exogenous
+CNP0406805.1,"N(beta)-Fumarylcarboxyamido-2,3-diaminopropionic acid",TXNRYTCUNXUNFH-QPHDTYRISA-N,C([C@@H](C(=O)O)N)NC(=O)/C=C/C(=O)N,6439892.0,C20966,,84331,unverified
+CNP0394036.0,"2,7-Diaminooct-4-enedioic acid",BFXNXODAMRCMKX-UHFFFAOYSA-N,C(C=CCC(C(=O)O)N)C(C(=O)O)N,3891675.0,,,,unverified
+CNP0273526.0,1-(2-Amino-3-hydroxy-4-methylpentanoyl)-4-hydroxypyrrolidine-2-carboxylic acid,VXCOFFNIFHWRDO-UHFFFAOYSA-N,CC(C)C(C(C(=O)N1CC(CC1C(=O)O)O)N)O,162999857.0,,,,unverified
+CNP0415355.1,O-acetyl-L-homoserine,FCXZBWSIAGGPCB-YFKPBYRVSA-N,CC(=O)OCCC(N)C(O)=O,439389.0,C01077,HMDB0029423,16288,endogenous
+CNP0136196.0,4-(Hydroxyamino)-4-oxobutanoic acid,AGEUQNZXCIVHPB-UHFFFAOYSA-N,C(CC(=O)O)C(=O)NO,252439.0,,,,unverified
+CNP0006964.0,1-Formyl-3-hydroxypyrrolidine-2-carboxylic acid,VLXDLZHGWMYETR-UHFFFAOYSA-N,C1CN(C(C1O)C(=O)O)C=O,73721122.0,,,,unverified
+CNP0198245.0,DL-Norvaline,SNDPXSYFESPGGJ-UHFFFAOYSA-N,CCCC(C(=O)O)N,824.0,,HMDB0251527,19475,exogenous
+CNP0583748.0,"N,N-Dimethylarginine",YDGMGEXADBMOMJ-UHFFFAOYSA-N,N[C@@H](CCC\N=C(/N)N(C)C)C(O)=O,123831.0,C03626,HMDB0001539,181449,endogenous
+CNP0206174.0,DL-Pyroglutamic acid,ODHCTXKNWHHXJC-UHFFFAOYSA-N,C1CC(=O)NC1C(=O)O,499.0,,HMDB0000805,16010,endogenous
+CNP0235449.1,O-(L-norvalyl-5)-isourea,WJGYUTHBDPPYCA-BYPYZUCNSA-N,C(C[C@@H](C(=O)O)N)COC(=N)N,191034.0,,,,exogenous
+CNP0153451.0,Aminolevulinic Acid,ZGXJTSGNIOSYLO-UHFFFAOYSA-N,NCC(=O)CCC(O)=O,137.0,D07567,HMDB0001149,17549,endogenous
+CNP0217457.1,Methionine,FFEARJCKVFRZRR-BYPYZUCNSA-N,CSCC[C@H](N)C(O)=O,6137.0,D00019,HMDB0000696,16643,endogenous
+CNP0115925.0,Prolyl-4-hydroxyproline,ONPXCLZMBSJLSP-UHFFFAOYSA-N,C1CC(NC1)C(=O)N2CC(CC2C(=O)O)O,3952518.0,,HMDB0256781,174173,endogenous
+CNP0542324.1,N6-acetyl-L-beta-lysine,MBZWIPOSTWTKSV-ZETCQYMHSA-N,CC(=O)NCCC[C@@H](CC(=O)[O-])[NH3+],129011075.0,,,137165,unverified
+CNP0144091.0,2-Amino-3-formylpent-3-enoic acid,AMGYVQUNMIEDMY-UHFFFAOYSA-N,CC=C(C=O)C(C(=O)O)N,53650421.0,,,,exogenous
+CNP0349160.0,Spermidic acid,SRGQUICKDUQCKO-UHFFFAOYSA-N,OC(=O)CCCNCCC(O)=O,2572.0,,HMDB0002201,138529,endogenous
+CNP0484648.1,Lysylhydroxyproline,BFDLYDRHDPSQHM-VGMNWLOBSA-N,NCCCC[C@H](N)C(=O)N1C[C@H](O)C[C@H]1C(O)=O,68578696.0,,HMDB0028952,,endogenous
+CNP0218334.0,N-Methylisoleucine,KSPIYJQBLVDRRI-UHFFFAOYSA-N,CCC(C)C(C(=O)O)NC,560437.0,,,64350,unverified
+CNP0333230.0,4-Guanidinobutyric acid,TUHVEAJXIMEOSA-UHFFFAOYSA-N,NC(=N)NCCCC(O)=O,500.0,C01035,HMDB0003464,15728,endogenous
+CNP0312908.0,2-Amino-4-(furan-2-yl)-4-oxobutanoic acid,KJZYUHUJOOMESO-UHFFFAOYSA-N,C1=COC(=C1)C(=O)CC(C(=O)O)N,22326395.0,,,,exogenous
+CNP0410940.2,L-kynurenine,YGPSJZOEDVAXAB-QMMMGPOBSA-N,N[C@@H](CC(=O)C1=CC=CC=C1N)C(O)=O,161166.0,C00328,HMDB0000684,16946,endogenous
+CNP0129385.2,Statine,DFVFTMTWCUHJBL-BQBZGAKWSA-N,CC(C)C[C@@H]([C@H](CC(=O)O)O)N,123915.0,,,,unverified
+CNP0009846.0,3-Hexylserine,ICWOFXKZEXYLQJ-UHFFFAOYSA-N,CCCCCCC(C(C(=O)O)N)O,5305380.0,,,,unverified
+CNP0584054.0,4-Aminohexanoic acid,ROFNJLCLYMMXCT-UHFFFAOYSA-N,CCC(CCC(=O)O)N,138490.0,,,,unverified
+CNP0359103.0,Dihomomethionine,FBWIRBFZWNIGJC-UHFFFAOYSA-N,CSCCCCC(C(=O)O)N,228215.0,C17217,,50710,exogenous
+CNP0369539.2,N-carbamoyl-D-valine,JDXMIYHOSFNZKO-SCSAIBSYSA-N,CC(C)[C@H](C(=O)O)NC(=O)N,448879.0,,,41469,endogenous
+CNP0337843.1,l-Isoleucine,AGPKZVBTJJNPAG-WHFBIAKZSA-N,CC[C@H](C)[C@@H](C(=O)O)N,6306.0,C00407,HMDB0000172,17191,exogenous
+CNP0116237.1,Tyrosine,OUYCCCASQSFEME-QMMMGPOBSA-N,N[C@@H](CC1=CC=C(O)C=C1)C(O)=O,6057.0,D00022,HMDB0000158,17895,endogenous
+CNP0494515.0,2-Amino-2-ethylbutanoic acid,KWOMLHIFHFWBSB-UHFFFAOYSA-N,CCC(CC)(C(=O)O)N,95206.0,,,,unverified
+CNP0515616.0,"3,4-Diaminobenzoic acid",HEMGYNNCNNODNX-UHFFFAOYSA-N,C1=CC(=C(C=C1C(=O)O)N)N,69263.0,,,,unverified
+CNP0300370.0,2-Amino-7-hydroxyoctanoic acid,TWTJIYXWWAQKGT-UHFFFAOYSA-N,CC(CCCCC(C(=O)O)N)O,14104315.0,,,,exogenous
+CNP0481167.0,2-Amino-3-pent-3-enylsulfinylpropanoic acid,DQSWMMDCLPVZJS-UHFFFAOYSA-N,CC=CCCS(=O)CC(C(=O)O)N,74397081.0,,,,exogenous
+CNP0049916.2,H-Lys(aloc)-OH,JMZPOGGPUVRZMI-QMMMGPOBSA-N,C=CCOC(=O)NCCCC[C@@H](C(=O)O)N,6994019.0,,,,unverified
+CNP0206174.2,L-Pyroglutamic acid,ODHCTXKNWHHXJC-VKHMYHEASA-N,OC(=O)[C@@H]1CCC(=O)N1,7405.0,C01879,HMDB0000267,18183,endogenous
+CNP0272287.1,Acromelic acid C,IZOVOLIVYUHJAA-RNSXUZJQSA-N,C1[C@@H]([C@@H]([C@H](N1)C(=O)O)CC(=O)O)C2=CNC(=O)C=C2,179248.0,,,212144,exogenous
+CNP0222182.1,Pyridazomycin,BJVRJQOYGCWXAR-YUMQZZPRSA-N,C1=C[N+](=NC=C1C(=O)N)CCC[C@@H](C(=O)O)N,6410743.0,,,,exogenous
+CNP0193965.1,Phenylalanine,COLNVLDHVKWLRT-QMMMGPOBSA-N,C1=CC=C(C=C1)C[C@@H](C(=O)O)N,6140.0,C00079,HMDB0000159,17295,exogenous
+CNP0301247.1,Pyrosaccharopine,KZGLERZNBKMMPP-YUMQZZPRSA-N,C1CC(=O)N([C@@H]1C(=O)O)CCCC[C@@H](C(=O)O)N,101642997.0,,HMDB0038676,,exogenous
+CNP0498760.1,Methionylhydroxyproline,SQTUSSZUUTULQX-CSMHCCOUSA-N,CSCC[C@H](N)C(=O)N1C[C@H](O)C[C@H]1C(O)=O,63844213.0,,HMDB0028974,,endogenous
+CNP0340484.1,Metyrosine,NHTGHBARYWONDQ-JTQLQIEISA-N,C[C@](CC1=CC=C(C=C1)O)(C(=O)O)N,441350.0,D00762,HMDB0014903,6912,exogenous
+CNP0221550.0,3-(2-Acetamido-5-hydroxyphenyl)sulfanyl-2-aminopropanoic acid,NAUNBJBIWVPANQ-UHFFFAOYSA-N,CC(=O)NC1=C(C=C(C=C1)O)SCC(C(=O)O)N,162950786.0,,,,unverified
+CNP0517777.0,3-(carboxymethyl)-4-hydroxy-4-prop-1-en-2-ylpyrrolidine-2-carboxylic acid,,,,,,,unverified
+CNP0505912.0,2-[4-(Aminomethyl)triazol-1-yl]-4-methylpentanoic acid,IAMZCZOWEDXWHW-UHFFFAOYSA-N,CC(C)CC(C(=O)O)N1C=C(N=N1)CN,23644080.0,,,,unverified
+CNP0034123.0,2-(Methylamino)-3-[(2-methylpropan-2-yl)oxy]butanoic acid,KYXQLWFONOUGLB-UHFFFAOYSA-N,CC(C(C(=O)O)NC)OC(C)(C)C,15601072.0,,,,unverified
+CNP0331009.0,1-(1-Carboxyethyl)-5-oxopyrrolidine-2-carboxylic acid,SMNZRNHRKMEAHH-UHFFFAOYSA-N,CC(C(=O)O)N1C(CCC1=O)C(=O)O,45122362.0,,,,unverified
+CNP0368950.1,4-Phosphonomethylphenylalanine,SAQLLHDEEMZENJ-VIFPVBQESA-N,C1=CC(=CC=C1C[C@@H](C(=O)O)N)CP(=O)(O)O,126687.0,,,44916,exogenous
+CNP0301653.0,Acetaminophen,RZVAJINKPMORJF-UHFFFAOYSA-N,CC(=O)NC1=CC=C(O)C=C1,1983.0,D00217,HMDB0001859,46195,endogenous
+CNP0231565.0,Ethyl 2-(hydroxyamino)-3-phenylpropanoate,DOWCFKBMOYLJLD-UHFFFAOYSA-N,CCOC(=O)C(CC1=CC=CC=C1)NO,332294.0,,,,unverified
+CNP0598253.1,Histidinylhydroxyproline,WEUKYXZXBBLBOY-VGMNWLOBSA-N,N[C@@H](CC1=CNC=N1)C(=O)N1C[C@H](O)C[C@H]1C(O)=O,9900059.0,,HMDB0028886,,endogenous
+CNP0167976.0,DL-Tryptophan,QIVBCDIJIAJPQS-UHFFFAOYSA-N,NC(CC1=CNC2=C1C=CC=C2)C(O)=O,1148.0,C00806,HMDB0030396,27897,endogenous
+CNP0104076.3,Amyclenomycin,LAJWZJCOWPUSOA-IWSPIJDZSA-N,C1=CC(C=CC1CCC(C(=O)O)N)N,58004.0,,,,exogenous
+CNP0426961.0,2-amino-3-[2-(2-hydroxyethyl)-1H-indol-3-yl]propanoic acid,ACVXZUFHXRGNGB-UHFFFAOYSA-N,C1=CC=C2C(=C1)C(=C(N2)CCO)CC(C(=O)O)N,163107042.0,,,,exogenous
+CNP0552530.0,2-Mesityl-2-(methylamino)acetic acid,SIRVMODYRYTBLS-UHFFFAOYSA-N,CC1=CC(=C(C(=C1)C)C(C(=O)O)NC)C,43753702.0,,,,unverified
+CNP0581802.0,Methyl 2-amino-2-phenylpropanoate,MPSVDCFUZLGFKX-UHFFFAOYSA-N,CC(C1=CC=CC=C1)(C(=O)OC)N,14426739.0,,,,unverified
+CNP0052408.0,2-[2-(aminomethyl)cyclohexyl]acetic Acid,VMTBKRPFIUIKPK-UHFFFAOYSA-N,C1CCC(C(C1)CC(=O)O)CN,11194591.0,,,95126,unverified
+CNP0361310.0,4-Amino-4-phenylbutanoic acid,QCHLDIVWWGHNQB-UHFFFAOYSA-N,C1=CC=C(C=C1)C(CCC(=O)O)N,13893.0,,,,unverified
+CNP0216839.0,5-Acetamido-4-oxohexanoic acid,QSRUAKBTZTXXLM-UHFFFAOYSA-N,CC(C(=O)CCC(=O)O)NC(=O)C,75310435.0,,,,unverified
+CNP0359089.0,N-Succinyl-2-amino-6-oxopimelate,SDVXSCSNVVZWDD-UHFFFAOYSA-N,C(CC(C(=O)O)NC(=O)CCC(=O)O)CC(=O)C(=O)O,915.0,C05537,,7341,endogenous
+CNP0082861.0,N-acetyl-L-2-aminoadipate,FTTGAAZKBNZDCZ-UHFFFAOYSA-N,CC(=O)NC(CCCC(=O)O)C(=O)O,13943174.0,C12986,HMDB0062715,,endogenous
+CNP0347749.1,Thr-Gly,BIYXEUAFGLTAEM-WUJLRWPWSA-N,C[C@@H](O)[C@H](N)C(=O)NCC(O)=O,7010576.0,,HMDB0029061,74859,endogenous
+CNP0218773.1,methyl N-[(2-methoxybenzyl)carbamoyl]-L-alaninate,JSFLISGEMBODPS-VIFPVBQESA-N,C[C@@H](C(=O)OC)NC(=O)NCC1=CC=CC=C1OC,5625518.0,,,,unverified
+CNP0082600.0,QQ,LOJYQMFIIJVETK-UHFFFAOYSA-N,N[C@@H](CCC(N)=O)C(=O)N[C@@H](CCC(N)=O)C(O)=O,7010588.0,,HMDB0028795,,endogenous
+CNP0347602.0,Glutamylthreonine,JSIQVRIXMINMTA-UHFFFAOYSA-N,C[C@@H](O)[C@H](NC(=O)[C@@H](N)CCC(O)=O)C(O)=O,6998031.0,,HMDB0028829,,endogenous
+CNP0057402.0,Leucylalanine,HSQGMTRYSIHDAC-UHFFFAOYSA-N,CC(C)C[C@H](N)C(=O)N[C@@H](C)C(O)=O,81721.0,,HMDB0028922,,endogenous
+CNP0518339.1,1-Acetyl-2-carboxypiperidine,JACZWLDAHFCGCC-ZETCQYMHSA-N,CC(=O)N1CCCC[C@H]1C(=O)O,5287692.0,,,,unverified
+CNP0595194.0,Isohematinic acid,HWRKHCHRWDVQPP-UHFFFAOYSA-N,C=C1[C@@H](C(=O)NC1=O)CCC(=O)O,139589054.0,,,,unverified
+PEP000258,Asparaginyl-Valine,KWBQPGIYEZKDEG-FSPLSTOPSA-N,CC(C)[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)N)N,7019993.0,,HMDB0028744,CHEBI:73825,endogenous
+CNP0573168.1,Carnosine,CQOVPNPJLQNMDC-ZETCQYMHSA-N,NCCC(=O)N[C@@H](CC1=CN=CN1)C(O)=O,439224.0,C00386,HMDB0000033,15727,endogenous
+CNP0538851.1,Ser-Arg,RZEQTVHJZCIUBT-WDSKDSINSA-N,N[C@@H](CO)C(=O)N[C@@H](CCCNC(N)=N)C(O)=O,25216635.0,,HMDB0029033,157885,endogenous
+CNP0239633.1,N-Acetyl-L-citrulline,WMQMIOYQXNRROC-LURJTMIESA-N,CC(=O)N[C@@H](CCCNC(N)=O)C(O)=O,656979.0,C15532,HMDB0000856,49002,endogenous
+CNP0191496.0,DL-Alanyl-DL-alanine,DEFJQIDDEAULHB-UHFFFAOYSA-N,CC(C(=O)NC(C)C(=O)O)N,601.0,,HMDB0244385,140570,endogenous
+CNP0521505.1,N-Succinyl Methionine,CZFFMUMOBDIXJU-ZCFIWIBFSA-N,CSCC[C@H](C(=O)O)NC(=O)CCC(=O)O,448581.0,,,,unverified
+CNP0129827.0,N-Alpha-acetyllysine,VEYYWZRYIYDQJM-UHFFFAOYSA-N,CC(=O)N[C@@H](CCCCN)C(O)=O,92907.0,C12989,HMDB0000446,,endogenous
+CNP0201590.0,N-gamma-Glutamylcysteine,RITKHVBHSGLULN-UHFFFAOYSA-N,C(CC(=O)NC(CS)C(=O)O)C(C(=O)O)N,842.0,,HMDB0303807,181725,exogenous
+PEP000277,Prolyl-Threonine,GVUVRRPYYDHHGK-UHFFFAOYSA-N,CC(O)C(NC(=O)C1CCCN1)C(O)=O,18218237.0,,HMDB0029027,,endogenous
+CNP0398447.1,Alanine glutamate,VYZAGTDAHUIRQA-WHFBIAKZSA-N,C[C@H](N)C(=O)N[C@@H](CCC(O)=O)C(O)=O,128841.0,C20958,HMDB0028686,61565,endogenous
+CNP0480697.0,QA,FAQVCWVVIYYWRR-UHFFFAOYSA-N,C[C@H](NC(=O)[C@@H](N)CCC(N)=O)C(O)=O,20073769.0,,HMDB0028790,,endogenous
+CNP0284405.1,Captopril,FAKRSMQSSFJEIM-RQJHMYQMSA-N,C[C@H](CS)C(=O)N1CCC[C@H]1C(=O)O,44093.0,C06867,HMDB0015328,3380,exogenous
+CNP0124986.0,N-Acetyl-DL-glutamic acid,RFMMMVDNIPUKGG-UHFFFAOYSA-N,CC(=O)N[C@@H](CCC(O)=O)C(O)=O,185.0,C00624,HMDB0001138,172431,endogenous
+CNP0371576.0,Prolyl-Glutamate,QLROSWPKSBORFJ-UHFFFAOYSA-N,OC(=O)CCC(NC(=O)C1CCCN1)C(O)=O,194260.0,,HMDB0029016,,endogenous
+CNP0082828.1,N-Acetyl-L-arginine,SNEIUMQYRCDYCH-LURJTMIESA-N,CC(=O)N[C@@H](CCCNC(N)=N)C(O)=O,67427.0,,HMDB0004620,40521,endogenous
+CNP0274174.1,gamma-Glutamylvaline,AQAKHZVPOOGUCK-XPUUQOCRSA-N,CC(C)[C@H](NC(=O)CC[C@H](N)C(O)=O)C(O)=O,7015683.0,,HMDB0011172,68848,endogenous
+CNP0346794.1,Valyllysine,JKHXYJKMNSSFFL-IUCAKERBSA-N,CC(C)[C@H](N)C(=O)N[C@@H](CCCCN)C(O)=O,168058.0,,HMDB0029132,75014,endogenous
+PEP000226,Methionyl-Glycine,QXOHLNCNYLGICT-UHFFFAOYSA-N,CSCCC(N)C(=O)NCC(O)=O,259185.0,,HMDB0028973,,endogenous
+PEP000053,Cysteinyl-Proline,ZSRSLWKGWFFVCM-WDSKDSINSA-N,C1C[C@H](N(C1)C(=O)[C@H](CS)N)C(=O)O,3037777.0,,HMDB0028783,CHEBI:73461,endogenous
+CNP0316968.1,Lapstatin,XMWRFIFYIHFAIO-HRDYMLBCSA-N,CC(C)C(C(C(=O)NC(C(C)C)C(=O)O)O)N,137520952.0,,,,endogenous
+CNP0332241.0,Glutamylvaline,SITLTJHOQZFJGG-UHFFFAOYSA-N,CC(C)[C@H](NC(=O)[C@@H](N)CCC(O)=O)C(O)=O,6992567.0,,HMDB0028832,,endogenous
+CNP0010449.0,2-(3-Carboxypropanoylamino)hexanoic acid,HVHVSXVMYPKOKL-UHFFFAOYSA-N,CCCCC(C(=O)O)NC(=O)CCC(=O)O,3596795.0,,,,unverified
+PEP000253,Asparaginyl-Proline,GADKFYNESXNRLC-WDSKDSINSA-N,C1C[C@H](N(C1)C(=O)[C@H](CC(=O)N)N)C(=O)O,9920984.0,,HMDB0028739,CHEBI:73425,endogenous
+CNP0189934.1,Pro-Pro,RWCOTTLHDJWHRS-YUMQZZPRSA-N,OC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CCCN1,11622593.0,,HMDB0011180,73646,endogenous
+CNP0246691.0,6-Amino-2-[methyl(phenylmethoxycarbonyl)amino]hexanoic acid,CXVINIOTAUQSJG-UHFFFAOYSA-N,CN(C(CCCCN)C(=O)O)C(=O)OCC1=CC=CC=C1,76065245.0,,,,unverified
+PEP000080,Aspartyl-Tyrosine,NALWOULWGHTVDA-UWVGGRQHSA-N,C1=CC(=CC=C1C[C@@H](C(=O)O)NC(=O)[C@H](CC(=O)O)N)O,152455.0,C21033,HMDB0028765,CHEBI:73455,endogenous
+CNP0389742.1,N-(cyclopropylcarbamoyl)-L-leucine,VJZINYIGTFCCME-QMMMGPOBSA-N,CC(C)C[C@@H](C(=O)O)NC(=O)NC1CC1,7096648.0,,,,unverified
+CNP0277604.0,N-Acetyl-DL-methionine,XUYPXLNMDZIRQH-UHFFFAOYSA-N,CC(=O)NC(CCSC)C(=O)O,6180.0,,,132958,endogenous
+CNP0340576.0,6-Amino-2-formamidohexanamide,DKPYGQKMNSGPGT-UHFFFAOYSA-N,C(CCN)CC(C(=O)N)NC=O,59414897.0,,HMDB0059607,,exogenous
+CNP0291472.1,Leucine-proline anhydride,QEDMGXHHRXIZDW-IUCAKERBSA-N,CC(C)C[C@@H](C(=O)OC(=O)[C@@H]1CCCN1)N,57275499.0,,,,exogenous
+PEP000033,Alanyl-Proline,WPWUFUBLGADILS-WDSKDSINSA-N,C[C@H](N)C(=O)N1CCC[C@H]1C(O)=O,83525.0,,HMDB0028695,,endogenous
+CNP0065170.1,Z-D-Nva-OH,NSJDRLWFFAWSFP-LLVKDONJSA-N,CCC[C@H](C(=O)O)NC(=O)OCC1=CC=CC=C1,10106192.0,,,,unverified
+CNP0325109.2,Leucylarginine,SENJXOPIZNYLHU-IUCAKERBSA-N,CC(C)CC(N)C(=O)NC(CCCNC(N)=N)C(O)=O,152914.0,,HMDB0028923,73528,endogenous
+CNP0259843.0,DL-gamma-Glutamyl-DL-leucine,MYFMARDICOWMQP-UHFFFAOYSA-N,CC(C)C[C@H](NC(=O)CC[C@H](N)C(O)=O)C(O)=O,4524287.0,,HMDB0011171,181242,endogenous
+CNP0082603.1,Val-Val,KRNYOVHEKOBTEF-YUMQZZPRSA-N,CC(C)[C@H](N)C(=O)N[C@@H](C(C)C)C(O)=O,107475.0,,HMDB0029140,73704,endogenous
+CNP0446200.1,Val-Pro,GIAZPLMMQOERPN-YUMQZZPRSA-N,CC(C)[C@H](N)C(=O)N1CCC[C@H]1C(O)=O,9837272.0,,HMDB0029135,73701,endogenous
+CNP0591140.0,KY,MYTOTTSMVMWVJN-UHFFFAOYSA-N,NCCCC[C@H](N)C(=O)N[C@@H](CC1=CC=C(O)C=C1)C(O)=O,7021820.0,,HMDB0028963,,endogenous
+CNP0324009.2,N-[(2-methylpropyl)carbamoyl]-D-methionine,VVPKYLBVFRTCBT-MRVPVSSYSA-N,CC(C)CNC(=O)N[C@H](CCSC)C(=O)O,26915727.0,,,,unverified
+CNP0326211.0,2-[(2-Amino-3-hydroxypropanoyl)amino]-4-methylpentanoic acid,NFDYGNFETJVMSE-UHFFFAOYSA-N,CC(C)CC(C(=O)O)NC(=O)C(CO)N,13919048.0,,HMDB0258242,,unverified
+CNP0117973.0,5-(Diaminomethylideneamino)-2-[(4-hydroxybenzoyl)amino]pentanoic acid,OXFMZUXYRCDDRG-UHFFFAOYSA-N,C1=CC(=CC=C1C(=O)NC(CCCN=C(N)N)C(=O)O)O,78106870.0,,,,exogenous
+CNP0148425.2,Leu-Gln,JYOAXOMPIXKMKK-YUMQZZPRSA-N,CC(C)CC(N)C(=O)NC(CCC(N)=O)C(O)=O,1574950.0,,HMDB0028927,157865,endogenous
+PEP000173,Isoleucyl-Proline,BBIXOODYWPFNDT-CIUDSAMLSA-N,CC[C@H](C)[C@H](N)C(=O)N1CCC[C@H]1C(O)=O,444876.0,,HMDB0011174,,endogenous
+PEP000233,Methionyl-Proline,DZMGFGQBRYWJOR-YUMQZZPRSA-N,CSCC[C@@H](C(=O)N1CCC[C@H]1C(=O)O)N,11893572.0,,HMDB0028981,CHEBI:73612,endogenous
+CNP0151661.0,"2-[(5-Amino-4-methylidene-2,3-dihydropyrrole-2-carbonyl)amino]-3-methylbutanoic acid",ZUBOMWJCMSHMTA-UHFFFAOYSA-N,CC(C)C(C(=O)O)NC(=O)C1CC(=C)C(=N1)N,73062318.0,,,,exogenous
+CNP0280066.0,2-[(Cyclopentylcarbamoyl)amino]-4-methylpentanoic acid,MMHFDPOBJWIMIH-UHFFFAOYSA-N,CC(C)CC(C(=O)O)NC(=O)NC1CCCC1,3480390.0,,,,unverified
+CNP0347748.1,Thr-Leu,BQBCIBCLXBKYHW-CSMHCCOUSA-N,CC(C)C[C@H](NC(=O)[C@@H](N)[C@@H](C)O)C(O)=O,7021828.0,,HMDB0029065,74860,endogenous
+CNP0541440.1,Gln-Leu,ARPVSMCNIDAQBO-YUMQZZPRSA-N,CC(C)C[C@H](NC(=O)[C@@H](N)CCC(N)=O)C(O)=O,44232492.0,,HMDB0028801,141429,endogenous
+CNP0233149.0,Leucylvaline,MDSUKZSLOATHMH-UHFFFAOYSA-N,CC(C)CC(N)C(=O)NC(C(C)C)C(O)=O,352038.0,,HMDB0028942,177272,endogenous
+CNP0505625.1,Histidylleucine,MMFKFJORZBJVNF-UWVGGRQHSA-N,CC(C)C[C@H](NC(=O)[C@@H](N)CC1=CNC=N1)C(O)=O,189008.0,C05010,HMDB0028889,147392,endogenous
+CNP0251657.0,2-Acetamido-6-(4-oxopentanoylamino)hexanoic acid,SGDVHOMCEGYBMQ-UHFFFAOYSA-N,CC(=O)CCC(=O)NCCCCC(C(=O)O)NC(=O)C,72283377.0,,,,unverified
+CNP0338489.1,"(3R,6R)-N-methyl-N-(1-hydroxy-2-methylpropyl)-phenylalanine",AFSFYXHJJVYLOJ-CHWSQXEVSA-N,CC(C)[C@H](C(=O)N(C)[C@H](CC1=CC=CC=C1)C(=O)O)O,11231296.0,,,216578,exogenous
+CNP0450240.1,Thr-Phe,IQHUITKNHOKGFC-MIMYLULJSA-N,C[C@@H](O)[C@H](N)C(=O)N[C@@H](CC1=CC=CC=C1)C(O)=O,7010580.0,,HMDB0029068,74862,endogenous
+CNP0373371.1,N-[1H-Indol-3-YL-acetyl]valine acid,AZEGJHGXTSUPPG-AWEZNQCLSA-N,CC(C)[C@@H](C(=O)O)NC(=O)CC1=CNC2=CC=CC=C21,446641.0,,,177043,exogenous
+CNP0336094.1,Leu-Leu,LCPYQJIKPJDLLB-UWVGGRQHSA-N,CC(C)C[C@H](N)C(=O)N[C@@H](CC(C)C)C(O)=O,76807.0,C10317,HMDB0028933,191208,endogenous
+PEP000209,Leucyl-Lysine,OTXBNHIUIHNGAO-UWVGGRQHSA-N,CC(C)C[C@@H](C(=O)N[C@@H](CCCCN)C(=O)O)N,9816627.0,,HMDB0028934,CHEBI:73583,endogenous
+CNP0421818.1,Phenamide,KUJYRMYXAIOCEC-NSHDSACASA-N,CC(C)(CC(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)N,10355442.0,,,221782,exogenous
+CNP0336094.0,Leucyl-leucine,LCPYQJIKPJDLLB-UHFFFAOYSA-N,CC(C)CC(C(=O)NC(CC(C)C)C(=O)O)N,94244.0,C11332,HMDB0254039,6418,endogenous
+PEP000165,Isoleucyl-Phenylalanine,WMDZARSFSMZOQO-DRZSPHRISA-N,CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)O)N,7009596.0,,HMDB0028914,CHEBI:74075,endogenous
+PEP005537,Pro-Ser-Thr,KWMZPPWYBVZIER-XGEHTFHBSA-N,C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](CO)NC(=O)[C@@H]1CCCN1)O,145457578.0,,,CHEBI:162649,endogenous
+CNP0120135.0,"Methyl 1-[4-(4,5-dicarbamoyltriazol-1-yl)-1-(2-methoxyacetyl)piperidine-2-carbonyl]pyrrolidine-2-carboxylate",AQFRVZAZIYGKOK-UHFFFAOYSA-N,COCC(=O)N1CCC(CC1C(=O)N2CCCC2C(=O)OC)N3C(=C(N=N3)C(=O)N)C(=O)N,3826657.0,,,,unverified
+PEP006498,Ser-Glu-Val,OHKFXGKHSJKKAL-NRPADANISA-N,CC(C)[C@@H](C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)N,145457748.0,,,CHEBI:163096,endogenous
+PEP004021,Leu-Ala-Ala,YUGVQABRIJXYNQ-CIUDSAMLSA-N,C[C@@H](C(=O)N[C@@H](C)C(=O)O)NC(=O)[C@H](CC(C)C)N,129639166.0,,,CHEBI:158929,endogenous
+PEP006533,Ser-Gly-Pro,KDGARKCAKHBEDB-NKWVEPMBSA-N,C1C[C@@H](N(C1)C(=O)CNC(=O)[C@H](CO)N)C(=O)O,145457757.0,,,CHEBI:163125,endogenous
+PEP001138,Cys-Ser-Val,NDNZRWUDUMTITL-FXQIFTODSA-N,CC(C)[C@@H](C(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](CS)N,145454882.0,,,CHEBI:161698,endogenous
+CNP0104130.0,L-Glutathione (Reduced),RWSXRVCMGQZWBV-UHFFFAOYSA-N,C(CC(=O)NC(CS)C(=O)NCC(=O)O)C(C(=O)O)N,745.0,,HMDB0062697,177535,exogenous
+PEP000546,Ala-His-Gly,OKEWAFFWMHBGPT-XPUUQOCRSA-N,C[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)NCC(=O)O)N,15858334.0,,,CHEBI:158216,endogenous
+PEP006666,Ser-Pro-Gly,RHAPJNVNWDBFQI-BQBZGAKWSA-N,C1C[C@H](N(C1)C(=O)[C@H](CO)N)C(=O)NCC(=O)O,51037738.0,,,CHEBI:163391,exogenous
+PEP000677,Ala-Pro-Thr,FFZJHQODAYHGPO-KZVJFYERSA-N,C[C@H]([C@@H](C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](C)N)O,6420131.0,,,CHEBI:158473,endogenous
+PEP006553,Ser-His-Pro,MLSQXWSRHURDMF-GARJFASQSA-N,C1C[C@@H](N(C1)C(=O)[C@H](CC2=CN=CN2)NC(=O)[C@H](CO)N)C(=O)O,145457768.0,,,CHEBI:163166,endogenous
+PEP005536,Pro-Ser-Ser,MKGIILKDUGDRRO-FXQIFTODSA-N,C1C[C@H](NC1)C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)O,24997971.0,,,CHEBI:162647,endogenous
+PEP005166,Asn-Val-Gly,ZAESWDKAMDVHLL-RCOVLWMOSA-N,CC(C)[C@@H](C(=O)NCC(=O)O)NC(=O)[C@H](CC(=O)N)N,145454320.0,,,CHEBI:160251,endogenous
+PEP000448,Ala-Cys-Ile,NJIFPLAJSVUQOZ-JBDRJPRFSA-N,CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@H](CS)NC(=O)[C@H](C)N,145453552.0,,,CHEBI:158070,endogenous
+PEP005293,Pro-Glu-Pro,LGSANCBHSMDFDY-GARJFASQSA-N,C1C[C@H](NC1)C(=O)N[C@@H](CCC(=O)O)C(=O)N2CCC[C@@H]2C(=O)O,145457464.0,,,CHEBI:162285,endogenous
+PEP007333,Val-Gly-Pro,YTPLVNUZZOBFFC-SCZZXKLOSA-N,CC(C)[C@@H](C(=O)NCC(=O)N1CCC[C@@H]1C(=O)O)N,82961465.0,,,CHEBI:166207,endogenous
+PEP007493,Val-Gln-Pro,AGKDVLSDNSTLFA-UMNHJUIQSA-N,CC(C)[C@@H](C(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@@H]1C(=O)O)N,145458906.0,,,CHEBI:166167,endogenous
+PEP007617,Val-Tyr-Thr,BGTDGENDNWGMDQ-KJEVXHAQSA-N,C[C@H]([C@@H](C(=O)O)NC(=O)[C@H](CC1=CC=C(C=C1)O)NC(=O)[C@H](C(C)C)N)O,145459079.0,,,CHEBI:166429,endogenous
+PEP000678,Ala-Pro-Val,YHBDGLZYNIARKJ-GUBZILKMSA-N,C[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](C(C)C)C(=O)O)N,101619736.0,,,CHEBI:158480,endogenous
+PEP007173,Thr-Val-Pro,QNXZCKMXHPULME-ZNSHCXBVSA-N,C[C@H]([C@@H](C(=O)N[C@@H](C(C)C)C(=O)N1CCC[C@@H]1C(=O)O)N)O,145458256.0,,,CHEBI:164387,endogenous
+PEP001973,Glu-Val-Pro,RMWAOBGCZZSJHE-UMNHJUIQSA-N,CC(C)[C@@H](C(=O)N1CCC[C@@H]1C(=O)O)NC(=O)[C@H](CCC(=O)O)N,145455561.0,,,CHEBI:163398,endogenous
+PEP001868,Glu-Pro-Ile,JYXKPJVDCAWMDG-ZPFDUUQYSA-N,CC[C@H](C)[C@@H](C(=O)O)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCC(=O)O)N,14889680.0,,,CHEBI:163190,endogenous
+PEP007233,Val-Ala-Pro,ZLFHAAGHGQBQQN-AEJSXWLSSA-N,C[C@@H](C(=O)N1CCC[C@@H]1C(=O)O)NC(=O)[C@H](C(C)C)N,145458823.0,,,CHEBI:166068,endogenous
+PEP002606,Gly-Leu-Gly,CCBIBMKQNXHNIN-ZETCQYMHSA-N,CC(C)C[C@@H](C(=O)NCC(=O)O)NC(=O)CN,96805.0,,,CHEBI:163803,endogenous
+PEP002207,Phe-Leu-His,METZZBCMDXHFMK-BZSNNMDCSA-N,CC(C)C[C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)O)NC(=O)[C@H](CC2=CC=CC=C2)N,145457254.0,,,CHEBI:161647,endogenous
+PEP001815,Glu-Leu-Arg,VSRCAOIHMGCIJK-SRVKXCTJSA-N,CC(C)C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)O)NC(=O)[C@H](CCC(=O)O)N,25217475.0,,,CHEBI:163018,endogenous
+PEP005633,Gln-Ala-Pro,OYTPNWYZORARHL-XHNCKOQMSA-N,C[C@@H](C(=O)N1CCC[C@@H]1C(=O)O)NC(=O)[C@H](CCC(=O)N)N,145454957.0,,,CHEBI:161888,endogenous
+PEP006949,Thr-His-Lys,FKIGTIXHSRNKJU-IXOXFDKPSA-N,C[C@H]([C@@H](C(=O)N[C@@H](CC1=CN=CN1)C(=O)N[C@@H](CCCCN)C(=O)O)N)O,69104694.0,,,CHEBI:163950,endogenous
+CNP0552859.1,1-Ethoxycarbonyl-d-phe-pro-2(4-aminobutyl)hydrazine,AEHSFPPTWRQOFS-MSOLQXFVSA-N,CCOC(=O)N[C@H](CC1=CC=CC=C1)C(=O)N2CCC[C@H]2C(=O)NNCCCCN,444224.0,,,,unverified
+PEP004269,Leu-Pro-Lys,YRRCOJOXAJNSAX-IHRRRGAJSA-N,CC(C)C[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCCN)C(=O)O)N,145456506.0,,,CHEBI:159465,endogenous
+PEP002373,Phe-Val-Pro,VIIRRNQMMIHYHQ-XHSDSOJGSA-N,CC(C)[C@@H](C(=O)N1CCC[C@@H]1C(=O)O)NC(=O)[C@H](CC2=CC=CC=C2)N,145457365.0,,,CHEBI:162008,exogenous
+CNP0101830.0,"N-(1-amino-4-methyl-1-oxopentan-2-yl)-1-(3,3-dimethylbutanoyl)-4-[(3-methylsulfanylphenyl)carbamoylamino]pyrrolidine-2-carboxamide",PTKXBHFSVTXGPA-UHFFFAOYSA-N,CC(C)CC(C(=O)N)NC(=O)C1CC(CN1C(=O)CC(C)(C)C)NC(=O)NC2=CC(=CC=C2)SC,3686358.0,,,,unverified
+CNP0085962.0,1-(2-Cyanoethyl)-1-methylurea,ALWVUKUHYRPCOB-UHFFFAOYSA-N,CN(CCC#N)C(=O)N,2755783.0,,,,unverified
+PEP145229,Val-Asp-Ala-Lys,,,,,,,unverified
+PEP080433,Leu-Ala-Ala-Pro,,,,,,,unverified
+PEP111173,Pro-Thr-Val-Pro,,,,,,,unverified
+PEP149960,Val-Gln-Thr-Tyr,,,,,,,unverified
+PEP066613,Ile-Gly-Leu-Pro,DJQUZZAFLFQVFL-UHFFFAOYSA-N,CCC(C)C(C(=O)NCC(=O)NC(CC(C)C)C(=O)N1CCCC1C(=O)O)N,18294419.0,,,CHEBI:182996,endogenous
+PEP029657,Asp-Gln-Cys-Thr,,,,,,,unverified
+PEP168408,Tyr-Tyr-Tyr-Ile,,,,,,,unverified
+PEP124987,Arg-Asn-Lys-His,,,,,,,unverified
+PEP071547,Ile-Val-Thr-His,,,,,,,unverified
+PEP151585,Val-Val-Trp-Phe,,,,,,,unverified
+CNP0541950.0,tert-Butylurea,JLEHSYHLHLHPAL-UHFFFAOYSA-N,CC(C)(C)NC(=O)N,14233.0,,,,unverified
+CNP0402041.1,"(S)-2-(2,5-dioxo-2,5-dihydro-1H-pyrrol-1-yl)-4-(methylthio)butanoic acid",ATFCLRKMRVDLPC-LURJTMIESA-N,CSCC[C@@H](C(=O)O)N1C(=O)C=CC1=O,68899284.0,,,,unverified
+CNP0141006.1,MR304A,XTQRPPSVJOYBFK-IHBLQFBFSA-N,CC(C1(C(C=C(C1O)[N+]#[C-])O)O)O,101412407.0,,,204450,exogenous
+CNP0348808.0,"1-(5,10-dioxo-2,3,5a,6,7,8-hexahydro-1H-dipyrrolo[1,2-d:1',2'-f]pyrazin-10a-yl)propan-2-yl carbamate",LZRMGGWCVAVBJA-UHFFFAOYSA-N,CC(CC12CCCN1C(=O)C3CCCN3C2=O)OC(=O)N,44715257.0,,,,unverified
+CNP0117672.0,"5-ethyl-3-(1-hydroxyethylidene)piperidine-2,4-dione",,,,,,,unverified
+CNP0029907.1,"(s)-Boc-5,5-dimethyl-1,3-thiazolidine-4-carboxylic acid",FZSPELSRTNXPPY-ZETCQYMHSA-N,CC1([C@@H](N(CS1)C(=O)OC(C)(C)C)C(=O)O)C,17040129.0,,,,unverified
+CNP0124222.0,"N-(5-amino-4,6-dihydroxy-2-methyloxan-3-yl)acetamide",ZYOOPUKZQZPXPK-UHFFFAOYSA-N,CC1C(C(C(C(O1)O)N)O)NC(=O)C,77274357.0,,,,exogenous
+CNP0082015.1,"CMP-8-amino-3,8-dideoxy-alpha-D-manno-oct-2-ulosonic acid",DRAKZHNWGXXUTP-XKKDATLGSA-N,C1[C@H]([C@H]([C@H](O[C@]1(C(=O)O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=NC3=O)N)O)O)[C@@H](CN)O)O)O,91820083.0,,,131602,exogenous
+CNP0301975.0,"5-Amino-3-methoxy-6-methyloxane-2,4-diol",GTBBXBYILLBMSK-UHFFFAOYSA-N,CC1C(C(C(C(O1)O)OC)O)N,133663840.0,,,,unverified
+CNP0113261.1,Kanosamine,FOEXHEVNPRRHDY-SLPGGIOYSA-N,C([C@H]([C@H]([C@@H]([C@H](C=O)O)N)O)O)O,164683.0,,,31747,exogenous
+CNP0499346.1,Methyl 2-acetamido-2-deoxy-beta-D-glucopyranoside,ZEVOCXOZYFLVKN-JGKVKWKGSA-N,CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1OC)CO)O)O,445750.0,,,,unverified
+CNP0434849.1,1-Deoxy-N-acetylglucosamine,VCYYRDKGHLOTQU-LXGUWJNJSA-N,CC(=O)N[C@H]1CO[C@@H]([C@H]([C@@H]1O)O)CO,444205.0,,,209114,exogenous
+CNP0212923.0,"N-[2,5-dimethoxy-6-(methoxymethyl)oxan-3-yl]acetamide",NCWCUJORRSNDTM-UHFFFAOYSA-N,CC(=O)NC1CC(C(OC1OC)COC)OC,162942586.0,,,,unverified
+CNP0345267.0,4-Aminophenyl 2-Acetamido-2-deoxy-beta-D-glucopyranoside,RWZITXGZJXXMRL-UHFFFAOYSA-N,CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1OC2=CC=C(C=C2)N)CO)O)O,15699425.0,,,,unverified
+CNP0349085.0,"N-[2-(4-butan-2-ylphenoxy)-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide",NZLBBWKRFWAHOK-UHFFFAOYSA-N,CCC(C)C1=CC=C(C=C1)OC2C(C(C(C(O2)CO)O)O)NC(=O)C,3153359.0,,,,unverified
+CNP0296545.0,"9H-Purine, 6-amino-9-(3-deoxy-beta-D-ribofuranosyl)-",OFEZSBMBBKLLBJ-UHFFFAOYSA-N,C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)CO,6303.0,C08431,,,exogenous
+CNP0505455.2,NAD+,BAWFJGJZGIEFAR-NNYOXOHSSA-N,NC(=O)C1=C[N+](=CC=C1)[C@@H]1O[C@H](COP([O-])(=O)OP(O)(=O)OC[C@H]2O[C@H]([C@H](O)[C@@H]2O)N2C=NC3=C2N=CN=C3N)[C@@H](O)[C@H]1O,5892.0,C00003,HMDB0000902,44215,endogenous
+CNP0227980.1,8-Thioguanosine,KZELNMSPWPFAEB-UMMCILCDSA-N,C([C@@H]1[C@H]([C@H]([C@@H](O1)N2C3=C(C(=O)NC(=N3)N)NC2=S)O)O)O,135457302.0,,,,unverified
+CNP0141020.0,"beta-D-Ribofuranose, 1-(6-amino-9H-purin-9-yl)-1-deoxy-5-S-methyl-5-thio-",WUUGFSXJNOTRMR-UHFFFAOYSA-N,CSCC1C(C(C(O1)N2C=NC3=C(N=CN=C32)N)O)O,149.0,C00170,HMDB0257557,180963,unverified
+CNP0415086.1,Pseudouridine,PTJWIQPHWPFNBW-GBNDHIKLSA-N,OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)C1=CNC(=O)NC1=O,15047.0,C02067,HMDB0000767,17802,endogenous
+CNP0024546.1,"1-(beta-D-Ribofuranosyl)-1,4-dihydronicotinamide",MAKBMGXNXXXBFE-TURQNECASA-N,NC(=O)C1=CN(C=CC1)[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,11507134.0,C15497,HMDB0011648,55458,endogenous
+CNP0546849.1,2'-Deoxycytidine,CKTSBUTUHBMZGZ-SHYZEUOFSA-N,NC1=NC(=O)N(C=C1)[C@H]1C[C@H](O)[C@@H](CO)O1,13711.0,D12465,HMDB0000014,15698,endogenous
+CNP0326573.1,Thymidine acetate,ACYSKFODOKGJMA-IVZWLZJFSA-N,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COC(=O)C)O,9814370.0,,,,exogenous
+CNP0104757.0,Aicar,RTRQQBHATOEIAF-UHFFFAOYSA-N,NC(=O)C1=C(N)N(C=N1)[C@@H]1O[C@H](COP(O)(O)=O)[C@@H](O)[C@H]1O,65110.0,C04677,HMDB0001517,125449,endogenous
+CNP0492741.0,UNPD58420,ZJFKRRRXLLAUHQ-UHFFFAOYSA-N,CS(=O)C1C(C(C(C1O)O)O)N,14379498.0,,,,exogenous
+CNP0217186.1,Validamine,GSQYAWMREAXBHF-UOYQFSTFSA-N,C1[C@@H]([C@H]([C@@H]([C@H]([C@H]1N)O)O)O)CO,446685.0,,,30449,exogenous
+CNP0295964.0,"4-amino-6-(hydroxymethyl)cyclohexane-1,3-diol",FFRMLFVGYPMNPT-UHFFFAOYSA-N,C1[C@@H]([C@H](C[C@H]([C@H]1N)O)O)CO,127490.0,,,,exogenous
+CNP0318594.0,"2-Methyl-6-(2,4,5-trihydroxyoxan-3-yl)oxyoxane-3,4,5-triol",RRWRCKLDPKQLTI-UHFFFAOYSA-N,CC1C(C(C(C(O1)OC2C(C(COC2O)O)O)O)O)O,163038352.0,,,,unverified
+CNP0209092.0,6-o-Phosphonohexopyranose,NBSCHQHZLSJFNQ-UHFFFAOYSA-N,C(C1C(C(C(C(O1)O)O)O)O)OP(=O)(O)O,208.0,C02965,HMDB0246205,182132,unverified
+CNP0333374.1,D-ribulose 1-phosphate,NBOCCPQHBPGYCX-NQXXGFSBSA-N,OC[C@@H](O)[C@H](O)C(=O)COP(O)(O)=O,14844436.0,C22337,HMDB0006534,71687,endogenous
+CNP0081841.1,Octulose 8-phosphate,HBVGYHUWOQIXHJ-UIAUGNHASA-N,C([C@H]([C@H]([C@H]([C@H]([C@@H](C(=O)CO)O)O)O)O)O)OP(=O)(O)O,90657269.0,,,134365,exogenous
+CNP0541340.1,Tetrahydrooxazine,KHVCOYGKHDJPBZ-WDCZJNDASA-N,C1[C@H]([C@@H]([C@H](ON1)CO)O)O,449101.0,,,,unverified
+CNP0144548.0,2-Deoxyhexopyranose,PMMURAAUARKVCB-UHFFFAOYSA-N,C1C(C(C(OC1O)CO)O)O,40.0,,,,unverified
+CNP0277299.0,1-o-Phosphonohexitol,GACTWZZMVMUKNG-UHFFFAOYSA-N,OCC(O)C(O)C(O)C(O)COP(O)(O)=O,618.0,C02810,HMDB0005831,,endogenous
+CNP0343667.1,1-deoxy-D-xylulose 5-phosphate,AJPADPZSRRUGHI-RFZPGFLSSA-N,CC(=O)[C@@H](O)[C@H](O)COP(O)(O)=O,443201.0,C11437,HMDB0001213,16493,endogenous
+CNP0485589.1,2-Acetamidoglucal,LKFJQOCOGNNTCY-BWZBUEFSSA-N,CC(=O)NC1=CO[C@@H]([C@H]([C@@H]1O)O)CO,22842041.0,,,73979,exogenous
+CNP0552068.1,"1-Hydroxy-pentane-3,4-diol-5-phosphate",YCHBTVQJICBXEI-CRCLSJGQSA-N,C(CO)[C@@H]([C@@H](COP(=O)(O)O)O)O,5288577.0,,,,unverified
+CNP0002755.1,N-(1-Deoxy-1-fructosyl)serine,KUVQLWYPNUQGDT-MBGOVIFWSA-N,C([C@@H]1[C@H]([C@@H](C(O1)(CN[C@@H](CO)C(=O)O)O)O)O)O,131752245.0,,HMDB0037842,143248,exogenous
+CNP0059006.1,N-(1-Deoxy-1-fructosyl)threonine,JUBGLICOZRKBCO-KNWYLTHMSA-N,CC([C@@H](C(=O)O)NCC1([C@H]([C@@H]([C@H](O1)CO)O)O)O)O,131752246.0,,HMDB0037843,168466,exogenous
+CNP0154541.0,"6-hydroxy-6-methyl-4-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2H-pyran-5-one",RTVMLLQXBWGCLC-UHFFFAOYSA-N,CC1(C(=O)C(=CCO1)OC2C(C(C(C(O2)CO)O)O)O)O,162887911.0,,,,unverified
+CNP0064788.0,"N-(6-hydroxy-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-3-yl)-2-methoxyacetamide",MEVZXJJXGQGEHW-UHFFFAOYSA-N,COCC(=O)NC1COC2C1OCC2O,73133394.0,,,,unverified
+CNP0321128.0,"5,6-Dihydroxy-2-methyloxan-3-one",ATPYMFXOZQEWIG-UHFFFAOYSA-N,CC1C(=O)CC(C(O1)O)O,73202036.0,,,,unverified
+CNP0188860.0,"4-(Aminomethyl)-4-(hydroxymethyl)cyclopentane-1,2-diol",ZAJCENIOHXHYJP-UHFFFAOYSA-N,C1C(C(CC1(CN)CO)O)O,130144284.0,,,,unverified
+CNP0208182.1,"N'-[(2R,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]benzohydrazide",VLQAUZQGGFXYIL-VFZGUZRASA-N,C1=CC=C(C=C1)C(=O)NN[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O,7081895.0,,,,unverified
+CNP0087139.0,"1-(1-Hydroxybutyl)-1,3,4,5,6,7-hexahydro-2-benzofuran-4,5,6,7-tetrol",TWDKEWYUAIMHMA-UHFFFAOYSA-N,CCCC(C1C2=C(CO1)C(C(C(C2O)O)O)O)O,51136324.0,,,,unverified
+CNP0363664.1,Zooxanthellactone,WCLSJZFZJIIXNP-HBUOOPIGSA-N,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C=C\[C@@H]1CCC(=O)O1,21777807.0,,,230685,exogenous
+CNP0018099.0,"Methyl 10-hydroxydocosa-4,7,11,13,16,19-hexaenoate",YBCMQRFOERCWAV-UHFFFAOYSA-N,CCC=CCC=CCC=CC=CC(CC=CCC=CCCC(=O)OC)O,73802204.0,,,,unverified
+CNP0081696.0,"17-Hydroperoxydocosa-7,10,13,15,19-pentaenoic acid",PQYYUXHETXYOCV-UHFFFAOYSA-N,CCC=CCC(C=CC=CCC=CCC=CCCCCCC(=O)O)OO,85656910.0,,,,unverified
+CNP0273233.1,5S-HpETE,JNUUNUQHXIOFDA-JGKLHWIESA-N,CCCCC\C=C/C\C=C/C\C=C/C=C/[C@H](CCCC(O)=O)OO,5280778.0,C05356,HMDB0001193,15632,endogenous
+CNP0162151.1,"ethyl N-[(13E,15R)-15-hydroxy-1,9-dioxoprost-13-en-1-yl]glycinate",LNTDXQBTXGZQAB-JMTYIHSJSA-N,CCCCC[C@H](/C=C/[C@H]1CCC(=O)[C@@H]1CCCCCCC(=O)NCC(=O)OCC)O,11873906.0,,,,unverified
+CNP0258883.1,"(13E,15S)-15-hydroxy-N-(3-methoxypropyl)-9-oxoprost-13-en-1-amide",SVIXFVXVFZFGKC-CPLSZTBBSA-N,CCCCC[C@@H](/C=C/[C@H]1CCC(=O)[C@@H]1CCCCCCC(=O)NCCCOC)O,11873552.0,,,,unverified
+CNP0146550.0,"methyl 7-(6-oxo-2-pentyl-3,4,4a,5,7,7a-hexahydro-2H-cyclopenta[b]pyran-5-yl)hept-5-enoate",FCMFHXNVRJAYJM-UHFFFAOYSA-N,CCCCCC1CCC2C(O1)CC(=O)C2CC=CCCCC(=O)OC,85913207.0,,,,exogenous
+CNP0268165.0,4-Methoxy-2-methylene-4-oxobutanoic acid,OIYTYGOUZOARSH-UHFFFAOYSA-N,COC(=O)CC(=C)C(=O)O,81791.0,,,,exogenous
+CNP0206683.1,"CJ-15,801",HWKKTJQAKVPKTK-SDLBARTOSA-N,CC(C)(CO)[C@H](C(=O)N/C=C/C(=O)O)O,6917384.0,,,189351,exogenous
+CNP0226395.0,"3,7,11-Trimethyldodeca-2,6-dienedioic acid",ZCHKUAFPTUCNJS-UHFFFAOYSA-N,CC(CCCC(=CCCC(=CC(=O)O)C)C)C(=O)O,162955459.0,,,,exogenous
+CNP0458205.0,5-Methylidenedecanoic acid,NFLBJASQMUAGAT-UHFFFAOYSA-N,CCCCCC(=C)CCCC(=O)O,72164849.0,,,,exogenous
+CNP0148193.0,2-(1-Hydroxyethyl)hexadec-9-enoic acid,BFUMPEXKDURSCP-UHFFFAOYSA-N,CCCCCCC=CCCCCCCC(C(C)O)C(=O)O,162882232.0,,,,unverified
+CNP0586736.0,5-Oxo-5-[(4-phenylbutyl)amino]pentanoic acid,JQNVENRYQGSGFO-UHFFFAOYSA-N,C1=CC=C(C=C1)CCCCNC(=O)CCCC(=O)O,2166775.0,,,,unverified
+CNP0176945.0,8-[5-(Carboxymethyl)oxolan-2-yl]octanoic acid,PJQUDRJHWUHSGO-UHFFFAOYSA-N,C1CC(OC1CCCCCCCC(=O)O)CC(=O)O,13220197.0,,,,unverified
+CNP0336140.3,Gorlic acid,XADKGDBMULSEAC-MMTGSJLXSA-N,C1C[C@H](C=C1)CCCCCC/C=C\CCCCC(=O)O,51351687.0,,,61676,exogenous
+CNP0092725.0,13-Cyclo-pent-2-enyl-tridec-4-enoic acid,LZZANLYIVGPJEZ-UHFFFAOYSA-N,C1CC(C=C1)CCCCCCCCC=CCCC(=O)O,54061407.0,,,,unverified
+CNP0456505.0,2-Hexyl-3-hydroxypentanedioic acid,MFSMRLNNRGLWQD-UHFFFAOYSA-N,CCCCCCC(C(CC(=O)O)O)C(=O)O,57509503.0,,,,unverified
+CNP0252007.0,8-Hydroxyhexadecanedioic acid,GZQVGXLMHGPBET-UHFFFAOYSA-N,OC(CCCCCCCC(O)=O)CCCCCCC(O)=O,16061042.0,,HMDB0037831,165390,endogenous
+CNP0018335.0,Methyl 12-formyldodecanoate,QQPFEUUPMQPRCT-UHFFFAOYSA-N,COC(=O)CCCCCCCCCCCC=O,10331995.0,,,,unverified
+CNP0584867.1,Tetrasclerol E,ZCBDYSVURNKAPU-MWDXBVQZSA-N,CCC[C@@H]([C@@H](CC[C@H]([C@H](CCCCCCCCC(=O)O)O)O)O)O,170990574.0,,,,exogenous
+CNP0278599.3,Floionolic acid,OISFHODBOQNZAG-IAGOWNOFSA-N,C(CCCCO)CCC[C@H]([C@@H](CCCCCCCC(=O)O)O)O,12144794.0,,,197233,exogenous
+CNP0394165.0,"Methyl 3,12-dihydroxypentadecanoate",CYHXMUROSXWJBR-UHFFFAOYSA-N,CCCC(CCCCCCCCC(CC(=O)OC)O)O,85947358.0,,,,unverified
+CNP0363949.0,"9,10,12-trihydroxyoctadecanoic Acid",DJKUVMZEGIWUTP-UHFFFAOYSA-N,CCCCCCC(CC(C(CCCCCCCC(=O)O)O)O)O,4252742.0,,,,unverified
+CNP0418857.0,"9,12,13-Trihydroxy-15-octadecenoic acid",DNWUYCUUEGGVPR-UHFFFAOYSA-N,CCC=CCC(C(CCC(CCCCCCCC(=O)O)O)O)O,74208363.0,,,181079,exogenous
+CNP0346507.0,"13-Hydroxy-2,4,8-tetradecatrienoic acid",UZOXUKLWMRPYCQ-UHFFFAOYSA-N,CC(CCCC=CCCC=CC=CC(=O)O)O,129681942.0,,,,exogenous
+CNP0192271.0,"Methyl 3-hydroxypentadeca-8,13-dien-11-ynoate",VGPYOAIQASMNKF-UHFFFAOYSA-N,CC=CC#CCC=CCCCCC(CC(=O)OC)O,162922665.0,,,,exogenous
+CNP0387042.0,Methyl 10-hydroxy-11-(hydroxyamino)undecanoate,XLRSSTZQOHLADU-UHFFFAOYSA-N,COC(=O)CCCCCCCCC(CNO)O,4836391.0,,,,unverified
+CNP0093191.0,9-Hydroxy-2-[1-hydroxy-3-(hydroxymethyl)-4-(methylamino)butyl]hexadecanoic acid,DWCOBEAATKLPOA-UHFFFAOYSA-N,CCCCCCCC(CCCCCCC(C(CC(CNC)CO)O)C(=O)O)O,162830628.0,,,,unverified
+CNP0289931.1,Rphdhd,PPMPLIBYTIWXPG-MSJADDGSSA-N,CCCCCCCC(CC(=O)O)OC(=O)CC(CCCCCCC)O[C@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)C)O)O)O,162246.0,,,62255,exogenous
+CNP0430472.0,"Tricos-20-en-3,5,10,22-tetrayne-1,2-diol",JRZFHWMZPGSVCO-UHFFFAOYSA-N,C#CC=CCCCCCCCCC#CCCCC#CC#CC(CO)O,163110217.0,,,,exogenous
+CNP0181263.0,4-Oxobutanenitrile,CGFGIKNLZTZJDE-UHFFFAOYSA-N,C(CC#N)C=O,77049.0,,,,unverified
+CNP0349328.0,3-oxo-Tetradecanal,XLYLQUQHYUOPIW-UHFFFAOYSA-N,CCCCCCCCCCCC(=O)CC=O,14443308.0,C16947,HMDB0034561,179325,endogenous
+CNP0003138.0,Isopropyl n-butyl disulphide,HODYAASMHKKQBS-UHFFFAOYSA-N,CCCCSSC(C)C,525403.0,,HMDB0033050,173725,exogenous
+CNP0198950.1,"(6r,8s,z)-8-Methylundec-2-ene-6-sulfonothioic acid",QIHFPNVMYJAWBK-XEGQIGPUSA-N,CCC[C@H](C)C[C@@H](CC/C=C\C)S(=O)(=S)O,21776379.0,,,,exogenous
+CNP0109881.0,"[1-Hydroxy-4-(5-penta-1,3-diynylthiophen-2-yl)but-3-yn-2-yl] acetate",TZEKTGLAGQXDSY-UHFFFAOYSA-N,CC#CC#CC1=CC=C(S1)C#CC(CO)OC(=O)C,25014553.0,,,,exogenous
+CNP0406365.2,4-methyl-5-oxo-2-tridecyl-2H-furan-3-carboxylic acid,SLQVVNFTCYVCPB-INIZCTEOSA-N,CCCCCCCCCCCCC[C@H]1C(=C(C(=O)O1)C)C(=O)O,9927283.0,,,144171,exogenous
+CNP0147014.0,4-Oxo-4-(3-oxodecan-2-ylamino)butanoic acid,DGBNCMKQNOJCFB-UHFFFAOYSA-N,CCCCCCCC(=O)C(C)NC(=O)CCC(=O)O,45359467.0,,,,unverified
+CNP0472523.0,"6-[(2,4-Dihydroxy-3,3-dimethylbutanoyl)amino]hexanoic acid",WIBRTSNRTOPKSU-UHFFFAOYSA-N,CC(C)(CO)C(C(=O)NCCCCCC(=O)O)O,3771395.0,,,,unverified
+CNP0423064.1,Triacetylsphingosine,LVOSRQQFQXFPAL-HEFFAWAOSA-N,CCCCCCCCCCCCC/C=C/[C@H]([C@H](COC(=O)C)NC(=O)C)OC(=O)C,9888664.0,,,,unverified
+CNP0083595.0,Dihydrolipoamide,VLYUGYAKYZETRF-UHFFFAOYSA-N,OC(=N)CCCCC(S)CCS,663.0,C00579,HMDB0000985,17694,endogenous
+CNP0230952.0,Octanediamide,NFVUAUVSFDFOJT-UHFFFAOYSA-N,C(CCCC(=O)N)CCC(=O)N,258342.0,,,,unverified
+CNP0533612.2,Hydroxybutyrylcarnitine,UEFRDQSMQXDWTO-GKAPJAKFSA-N,C[C@@H](O)CC(=O)O[C@@H](CC([O-])=O)C[N+](C)(C)C,53481617.0,,HMDB0013127,,endogenous
+CNP0478970.0,Propionylcarnitine,UFAHZIUFPNSHSL-UHFFFAOYSA-N,CCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C,107738.0,C03017,HMDB0000824,28867,endogenous
+CNP0082620.0,Isobutyrylcarnitine,LRCNOZRCYBNMEP-UHFFFAOYSA-N,CC(C)C(=O)O[C@H](CC(O)=O)C[N+](C)(C)C,168379.0,,HMDB0000736,73017,endogenous
+CNP0082619.0,Isovalerylcarnitine,IGQBPDJNUXPEMT-UHFFFAOYSA-N,CC(C)CC(=O)OC(CC([O-])=O)C[N+](C)(C)C,169235.0,C20826,HMDB0000688,73025,endogenous
+CNP0521117.1,3-Hydroxyhexadecadienoylcarnitine,CBBAYEUCTOLHMQ-WLXWJKFFSA-N,CCC\C=C/C\C=C/CCCCC[C@@H](O)CC(=O)O[C@H](CC([O-])=O)C[N+](C)(C)C,53481689.0,,HMDB0013335,171691,endogenous
+CNP0510465.1,"9,12-Hexadecadienoylcarnitine",AHZCIODFJPNPKS-XBDLETADSA-N,CCC\C=C/C\C=C/CCCCCCCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C,53481687.0,,HMDB0013334,89745,endogenous
+CNP0605405.1,Lauroylcarnitine,FUJLYHJROOYKRA-QGZVFWFLSA-N,CCCCCCCCCCCC(=O)O[C@H](CC(O)=O)C[N+](C)(C)C,168381.0,,HMDB0002250,77086,endogenous
+CNP0344615.1,Ieodomycin B,UFMCBVUOEQAWAI-LTJOXERKSA-N,C/C(=C\C=C)/CC[C@@H]1C[C@@H](CC(=O)O1)O,53387505.0,,,69906,exogenous
+CNP0339188.0,"1,3-Dimethyl 2-[(dimethylamino)methylidene]propanedioate",XGBHOLSNBZBTQK-UHFFFAOYSA-N,CN(C)C=C(C(=O)OC)C(=O)OC,593603.0,,,,unverified
+CNP0134504.0,Ethyl 2-((tert-butoxycarbonyl)amino)acetate,CNIBHMMDDXGDNR-UHFFFAOYSA-N,CCOC(=O)CNC(=O)OC(C)(C)C,357729.0,,,,unverified
+CNP0002493.0,Propyl phenylacetate,GXXFZZLGPFNITM-UHFFFAOYSA-N,CCCOC(=O)CC1=CC=CC=C1,221641.0,,HMDB0040425,173834,exogenous
+CNP0441428.0,Triethylene glycol monobutyl ether,COBPKKZHLDDMTB-UHFFFAOYSA-N,CCCCOCCOCCOCCO,8923.0,,,231291,unverified
+CNP0198588.0,"2,3-Dihydroxypropyl 2,12-dimethyltridecanoate",LPXGHYUNYHADCZ-UHFFFAOYSA-N,CC(C)CCCCCCCCCC(C)C(=O)OCC(CO)O,21629657.0,,,,unverified
+CNP0305504.0,[1-[2-Aminoethoxy(hydroxy)phosphoryl]oxy-3-hydroxypropan-2-yl] octadec-11-enoate,CZYOFWNORPEFDG-UHFFFAOYSA-N,[H][C@@](CO)(COP(O)(=O)OCCN)OC(=O)CCCCCCCCC\C=C/CCCCCC,76043301.0,,HMDB0011475,,endogenous
+CNP0304969.2,Cyclipostin R,BHKGHKHKDXVQJF-CUXXENAFSA-N,CCCCCCCCCCCCCCCOP1(=O)OC[C@H]2COC(=O)C2=C(O1)C,101182230.0,,,205757,exogenous
+CNP0144129.1,12-Hydroxyjasmonic acid,RZGFUGXQKMEMOO-BSANDHCLSA-N,C1CC(=O)[C@@H]([C@H]1CC(=O)O)C/C=C\CCO,5497122.0,C21385,,37420,exogenous
+CNP0264098.0,3-(Carboxymethyl)-2-(2-pentenyl)cyclopentanone,ZNJFBWYDHIGLCU-UHFFFAOYSA-N,CCC=CCC1C(CCC1=O)CC(=O)O,557758.0,,,182634,exogenous
+CNP0521441.0,CID 74932382,XADHJHFFBMPQOS-UHFFFAOYSA-N,CCCCCCCCC(C(C(C=CCCCCC(=O)O)O)O)O,74932382.0,,,,exogenous
+CNP0190580.0,"7,9,10-Trihydroxyoctadeca-12,15-dienoic acid",IBLXFNHKLIKPIE-UHFFFAOYSA-N,CCC=CCC=CCC(C(CC(CCCCCC(=O)O)O)O)O,156603022.0,,,,unverified
+CNP0169075.0,17-Hydroxyoctadec-9-enoic acid,UMIZOHMCQYCZRX-UHFFFAOYSA-N,CC(CCCCCCC=CCCCCCCCC(=O)O)O,54360825.0,,,,exogenous
+CNP0274802.1,Phytosphingosine,AERBNCYCJBRYDG-KSZLIROESA-N,CCCCCCCCCCCCCC[C@@H](O)[C@@H](O)[C@@H](N)CO,122121.0,C12144,HMDB0004610,46961,endogenous
+CNP0533705.1,Phosphorylcholine,YHHSONZFOIEMCP-UHFFFAOYSA-N,C[N+](C)(C)CCOP(O)(O)=O,135437.0,C00588,HMDB0001565,,endogenous
+CNP0223810.0,"2,3-Dihydroxypropyl 6-methylocta-2,4-dienoate",NOGDBKGCSWHQHI-UHFFFAOYSA-N,CCC(C)C=CC=CC(=O)OCC(CO)O,72737923.0,,,,unverified
+CNP0122993.1,Panclicin B,WKCHBWPPSCZGSC-ZJZGAYNASA-N,CCCCCCCCCC[C@H]1[C@@H](OC1=O)C[C@H](CCCCCCC)OC(=O)[C@H](C)NC=O,9868539.0,,,212180,exogenous
+CNP0179037.2,Panclicin E,HOPVINBCAGNBQT-SDHOMARFSA-N,CCCCCCCCCCCC[C@H]1[C@@H](OC1=O)C[C@H](CCCCCCC)OC(=O)CNC=O,9804635.0,,,209749,exogenous
+CNP0221358.0,p-Toluquinone,VTWDKFNVVLAELH-UHFFFAOYSA-N,CC1=CC(=O)C=CC1=O,11122.0,,,,exogenous
+CNP0289376.0,3-(12-Phenyldodecyl)catechol,JVTJXLKMWGQUTD-UHFFFAOYSA-N,C1=CC=C(C=C1)CCCCCCCCCCCCC2=C(C(=CC=C2)O)O,14057486.0,,,,exogenous
+CNP0169644.0,"7-Chloro-2',4,6-trimethoxy-6'-methylspiro[benzofuran-2(3H),1'-cyclohexane]-3,4'-dione",IIUZTXTZRGLYTI-UHFFFAOYSA-N,CC1CC(=O)CC(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC,620368.0,,,,exogenous
+CNP0425989.0,"7-Chloro-6'-hydroxy-3',4,6-trimethoxy-5'-methylspiro[1-benzofuran-2,4'-cyclohex-2-ene]-1',3-dione",SJUXBYNINSBOOT-UHFFFAOYSA-N,CC1C(C(=O)C=C(C12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC)O,612127.0,,,,exogenous
+CNP0334446.0,4-bromo-3-butyl-5-propan-2-ylidene-2H-furan,DMQKUYVFODPWJA-UHFFFAOYSA-N,CCCCC1=C(C(=C(C)C)OC1)Br,163050902.0,,,,unverified
+CNP0231162.0,"7,8-dihydroxy-3,5,7-trimethyl-8,8a-dihydro-1H-isochromen-6-one",CGRHRRPYPFDVGZ-UHFFFAOYSA-N,CC1=CC2=C(C(=O)C(C(C2CO1)O)(C)O)C,75528885.0,,,181567,exogenous
+CNP0028896.0,"2-Methyl-5-[1-[(5-methylfuran-2-yl)methyl]pyrrolidin-3-yl]-1,3,4-oxadiazole",JWJBTMNFXARLGB-UHFFFAOYSA-N,CC1=CC=C(O1)CN2CCC(C2)C3=NN=C(O3)C,75615166.0,,,,unverified
+CNP0362051.0,methyl 2-((6-ethyl-3-(2-methylthiazol-4-yl)-4-oxo-4H-chromen-7-yl)oxy)acetate,NOABCXQVXSBOLH-UHFFFAOYSA-N,CCC1=CC2=C(C=C1OCC(=O)OC)OC=C(C2=O)C3=CSC(=N3)C,1753764.0,,,,unverified
+CNP0399896.0,4-Hydroxy-3-methoxybutenolid,ZFBPPZVSMKOHMW-UHFFFAOYSA-N,COC1=CC(=O)OC1O,11073448.0,,,,exogenous
+CNP0087005.0,4-(2-Methyl-6-oxopyran-3-YL)butanoic acid,QFJCZUUIDDALPA-UHFFFAOYSA-N,CC1=C(C=CC(=O)O1)CCCC(=O)O,75528932.0,,,181307,unverified
+CNP0404053.0,"2-(2-Benzyl-4,6-dihydroxyheptadecyl)-4-hydroxy-2,3-dihydropyran-6-one",VTRUPDHIDYIYGA-UHFFFAOYSA-N,CCCCCCCCCCCC(CC(CC(CC1CC(=CC(=O)O1)O)CC2=CC=CC=C2)O)O,163088291.0,,,,unverified
+CNP0117268.1,ICM0301 E,VKXPJJBZNMZKHN-IMSAYNGESA-N,CCC(=O)/C(=C/C=C/[C@H]1[C@@H]2CC[C@](C[C@H]2[C@H]3[C@@]([C@H]1/C(=C/C)/C)(O3)C)(C)O)/C,10067906.0,,,211857,exogenous
+CNP0495837.0,"3-Acetyl-5-isopropyl-2,4-pyrrolidinedione",GBTIOVXDLJPTEH-UHFFFAOYSA-N,CC(C)C1C(=O)C(C(=O)N1)C(=O)C,3083645.0,,,,exogenous
+CNP0534435.0,"4-(2,3-dihydroxybutyl)-2-methyl-2H-furan-5-one",,,,,,,unverified
+CNP0087343.0,5-(Hydroxymethyl)-3-(1-hydroxy-5-methylhexyl)oxolan-2-one,DRHZNTAKNLCGTI-UHFFFAOYSA-N,CC(C)CCCC(C1CC(OC1=O)CO)O,57509302.0,,,181728,unverified
+CNP0122116.0,5-(Hydroxymethyl)-3-(1-hydroxy-4-methylpentyl)oxolan-2-one,OMQVQJDDMZUVNL-UHFFFAOYSA-N,CC(C)CCC(C1CC(OC1=O)CO)O,23872094.0,,,,unverified
+CNP0261216.1,Nafuredin B,TZKWUDHMMMXQDI-UIUNBINMSA-N,CC[C@H](C)/C=C/C=C(\C)/C[C@@H](C)/C=C/C=C/[C@@H]1[C@@](C=CC(=O)O1)(C)O,139589863.0,,,208675,exogenous
+CNP0423268.0,"2-[4-(Dimethylamino)-6-[2-[2-[5-(6-ethyl-5-methyloxan-2-yl)-3-methylhexa-1,4-dienyl]-3-methylcyclopropyl]ethenyl]-5-hydroxyoxan-2-yl]acetic acid",KVCCSVTUSQDOCC-UHFFFAOYSA-N,CCC1C(CCC(O1)C(=CC(C)C=CC2C(C2C=CC3C(C(CC(O3)CC(=O)O)N(C)C)O)C)C)C,73159030.0,,,,unverified
+CNP0224356.0,"6-(6,8-Dimethylpentadeca-2,4,8,10,14-pentaenyl)-2,3-dimethyloxane-2,4-diol",UMSAZVWWNPZQBE-UHFFFAOYSA-N,CC1C(CC(OC1(C)O)CC=CC=CC(C)CC(=CC=CCCC=C)C)O,72957867.0,,,,exogenous
+CNP0585106.1,Ambruticin VS-3N-oxide,,,,,,,unverified
+CNP0108335.1,Ambruticin VS-3,KLTHMLORYIRDPP-COTDPOAQSA-N,CC[C@@H]1C(=CC[C@@H](O1)/C(=C/[C@H](C)/C=C/[C@H]2[C@H]([C@@H]2/C=C/[C@H]3[C@@H]([C@H](C[C@H](O3)CC(=O)O)N(C)C)O)C)/C)C,11976965.0,,,200552,exogenous
+CNP0258472.0,"2-[4-(dimethylamino)-6-[2-[2-[5-(6-ethyl-5-methyl-3,6-dihydro-2H-pyran-2-yl)hexa-1,4-dienyl]-3-methylcyclopropyl]ethenyl]-5-hydroxyoxan-2-yl]acetic acid",FNEROPUOWZVKNI-UHFFFAOYSA-N,CCC1C(=CCC(O1)C(=CCC=CC2C(C2C=CC3C(C(CC(O3)CC(=O)O)N(C)C)O)C)C)C,72427266.0,,,,unverified
+CNP0355923.1,"(6S,7R,9R)-6,7-dihydroxy-9-propylnon-4-eno-9-lactone",OGGQXAHFTKUSHF-MQZCMQEASA-N,CCC[C@@H]1C[C@H]([C@H](/C=C\CCC(=O)O1)O)O,102231188.0,,,212534,exogenous
+CNP0194843.0,"15-Hept-3-en-2-yl-10,14-dihydroxy-4,11-dimethyl-5-methylidene-1-oxacyclopentadeca-8,12-dien-2-one",UKGXHGYWYJBRHS-UHFFFAOYSA-N,CCCC=CC(C)C1C(C=CC(C(C=CCCC(=C)C(CC(=O)O1)C)O)C)O,162925136.0,,,,exogenous
+CNP0560417.0,CID 74994841,VEVRHRCWDFOGJW-UHFFFAOYSA-N,CC(=O)OC1CC2C(CCC(C2(C)CO)O)(C3C1(OC4=C(C3O)C(=O)OC(=C4)C5=CN=CC=C5)C)C,74994841.0,,,,exogenous
+CNP0226361.0,3-(1-Hexenyl)-5-methyl-2-(5h)-furanone,OVEBWDPQALSVNI-UHFFFAOYSA-N,CCCCC=CC1=CC(OC1=O)C,54171228.0,,,,exogenous
+CNP0288309.0,"8H-Cyclohepta(b)naphthalen-8-one, 7,9-diethyl-",QRZPYHYOGDOIAP-UHFFFAOYSA-N,CCC1=CC2=CC3=CC=CC=C3C=C2C=C(C1=O)CC,143241.0,,,,unverified
+CNP0581662.0,"13-heptyl-3-[[4-(2-hydroxyethoxy)phenyl]methyl]-4,10-dimethyl-1-oxa-4-azacyclotridecane-2,5-dione",,,,,,,unverified
+CNP0528729.0,"11-Methoxy-10-nitro-16-azatetracyclo[7.7.1.02,7.013,17]heptadeca-1(16),2,4,6,9(17),10,12-heptaen-8-one",ZJEICCBPRLYBQU-UHFFFAOYSA-N,COC1=C(C2=C3C(=C1)CCN=C3C4=CC=CC=C4C2=O)[N+](=O)[O-],50901247.0,,,,exogenous
+CNP0262412.0,4-Hydroxy-5-methyl-3(2H)-furanone,DLVYTANECMRFGX-UHFFFAOYSA-N,CC1=C(O)C(=O)CO1,4564493.0,,HMDB0031859,74456,endogenous
+CNP0182366.0,"4-Methoxy-1,2-dihydrobenzocyclobutene-1-one",DUABZCRKUHNELM-UHFFFAOYSA-N,COC1=CC2=C(C=C1)C(=O)C2,2752745.0,,,,unverified
+CNP0325099.0,Penidilamine,DHPUFOAMIZUXKW-UHFFFAOYSA-N,CC1C=C(C(=O)O1)NC2=CC(OC2=O)C,10512593.0,,,199417,exogenous
+CNP0384146.0,"(4-Formyl-6-hydroxy-9-methoxy-5-methyl-5,6-dihydrobenzo[f][1]benzofuran-3-yl)methyl acetate",PCAFGGQXOZHYOM-UHFFFAOYSA-N,CC1C(C=CC2=C1C(=C3C(=COC3=C2OC)COC(=O)C)C=O)O,163079333.0,,,,exogenous
+CNP0096233.0,"2,2'-dihydroxy-11-(2-hydroxyethyl)-3-methoxy-4'-[4-(4-oxocyclohexyl)butyl]spiro[9,10-didehydro-6,11-dihydro-5H-benzo[9]annulene-8,1'-cyclohexane]-7-one",UBUKTLGQOOGVNY-UHFFFAOYSA-N,COC1=C(C=C2C(C#CC3(CCC(CC3O)CCCCC4CCC(=O)CC4)C(=O)CCC2=C1)CCO)O,162834377.0,,,,unverified
+CNP0222709.0,Methyl 1-[(5-heptadec-6-enyl-4-hydroxy-5-methyl-2-oxooxolan-3-yl)methyl]-5-oxopyrrolidine-2-carboxylate,HOIXMWRSFMLYHV-UHFFFAOYSA-N,CCCCCCCCCCC=CCCCCCC1(C(C(C(=O)O1)CN2C(CCC2=O)C(=O)OC)O)C,73087247.0,,,,exogenous
+CNP0102613.0,"10-Hydroxy-14-(1-hydroxy-2-methylhept-3-enyl)-4,11-dimethyl-5-methylidene-1-oxacyclotetradeca-8,12-dien-2-one",YYLMDSJRCIURAD-UHFFFAOYSA-N,CCCC=CC(C)C(C1C=CC(C(C=CCCC(=C)C(CC(=O)O1)C)O)C)O,85088237.0,,,,exogenous
+CNP0236684.0,"N-(8,10,12,14-tetramethoxy-5-methyl-7-methylideneheptadeca-2,5,16-trien-2-yl)methanimine",BNWWMIVGZDLKTC-UHFFFAOYSA-N,CC(=CC(=C)C(CC(CC(CC(CC=C)OC)OC)OC)OC)CC=C(C)N=C,162965435.0,,,,unverified
+CNP0279976.1,Lipstatin,OQMAKWGYQLJJIA-CUOOPAIESA-N,CCCCCC[C@H]1[C@@H](OC1=O)C[C@H](C/C=C\C/C=C\CCCCC)OC(=O)[C@H](CC(C)C)NC=O,9805651.0,,,225015,exogenous
+CNP0334267.0,Fingolimod,KKGQTZUTZRNORY-UHFFFAOYSA-N,CCCCCCCCC1=CC=C(C=C1)CCC(CO)(CO)N,107970.0,D10001,HMDB0252262,63115,exogenous
+CNP0278265.0,"N-(8,10,12,14-tetramethoxy-5,7-dimethylheptadeca-4,6,16-trien-2-yl)methanimine",WPQAECFNCNCTGZ-UHFFFAOYSA-N,CC(CC=C(C)C=C(C)C(CC(CC(CC(CC=C)OC)OC)OC)OC)N=C,163004137.0,,,,exogenous
+CNP0171435.0,"3-[[3-(1,5-Dimethylcyclohex-2-en-1-yl)cyclohexyl]methyl]-5-(3-hydroxypropyl)phenol",DVJZTXYZOKNCCM-UHFFFAOYSA-N,CC1CC=CC(C1)(C)C2CCCC(C2)CC3=CC(=CC(=C3)CCCO)O,162903186.0,,,,unverified
+CNP0391995.0,"5-(2-(4-ethylpiperazin-1-yl)-2-oxoethoxy)-3,4,8,8-tetramethyl-9,10-dihydropyrano[2,3-f]chromen-2(8H)-one",HFNGMRAPYBHCAJ-UHFFFAOYSA-N,CCN1CCN(CC1)C(=O)COC2=C3C(=C(C(=O)OC3=C4CCC(OC4=C2)(C)C)C)C,16409594.0,,,,unverified
+CNP0063943.0,"4-(1,4-Dioxa-8-azaspiro[4.5]decan-8-ylmethyl)-6-ethyl-7-hydroxychromen-2-one",BMZBHVIEZAWIQX-UHFFFAOYSA-N,CCC1=CC2=C(C=C1O)OC(=O)C=C2CN3CCC4(CC3)OCCO4,6227136.0,,,,unverified
+CNP0409384.0,Methyl 2-(2-oxo-3-phenylchromen-7-yl)oxyacetate,FMLYLZUZFSIAGR-UHFFFAOYSA-N,COC(=O)COC1=CC2=C(C=C1)C=C(C(=O)O2)C3=CC=CC=C3,1383175.0,,,,unverified
+CNP0177037.0,"N-(3-(2-oxopyrrolidin-1-yl)propyl)-2-((3,4,8,8-tetramethyl-2-oxo-2,8,9,10-tetrahydropyrano[2,3-f]chromen-5-yl)oxy)acetamide",SOUBUKREISYIOR-UHFFFAOYSA-N,CC1=C(C(=O)OC2=C3CCC(OC3=CC(=C12)OCC(=O)NCCCN4CCCC4=O)(C)C)C,4967997.0,,,,unverified
+CNP0461090.0,"4-[(dibutylamino)methyl]-7,8-dihydrocyclopenta[g]chromen-2(6H)-one",OWVKRTILCIBUDE-UHFFFAOYSA-N,CCCCN(CCCC)CC1=CC(=O)OC2=C1C=C3CCCC3=C2,2010395.0,,,,unverified
+CNP0155543.0,4-hydroxy-3-(4-hydroxyphenyl)-2-[(4-hydroxyphenyl)methyl]-2H-furan-5-one,YFDAFIBRAHBXFL-UHFFFAOYSA-N,C1=CC(=CC=C1CC2C(=C(C(=O)O2)O)C3=CC=C(C=C3)O)O,10424747.0,,,,exogenous
+CNP0273603.0,Davidigenin,UDGKKUWYNITJRX-UHFFFAOYSA-N,C1=CC(=CC=C1CCC(=O)C2=C(C=C(C=C2)O)O)O,442342.0,C09618,,27655,exogenous
+CNP0117770.1,Epidistenin,DGEMVQDNZRCAGP-UKRRQHHQSA-N,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC=CC=C3)O,14281801.0,,,186676,exogenous
+CNP0313203.0,"2,5,7-trihydroxy-8-methyl-4-oxo-2-phenyl-3H-chromene-6-carbaldehyde",LUSQUMHZZOJICU-UHFFFAOYSA-N,CC1=C(C(=C(C2=C1OC(CC2=O)(C3=CC=CC=C3)O)O)C=O)O,163033978.0,,,,exogenous
+CNP0331150.0,"7,3',4'-Trimethoxyflavone",VSFZYCDPDWSYSS-UHFFFAOYSA-N,COC1=CC2=C(C=C1)C(=O)C=C(O2)C3=CC(=C(C=C3)OC)OC,154227.0,,,,exogenous
+CNP0280624.0,Chrysin,RTIXKCRFFJGDFG-UHFFFAOYSA-N,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,5281607.0,C10028,HMDB0036619,75095,exogenous
+CNP0324461.0,2-((5-hydroxy-4-oxo-2-phenyl-4H-chromen-7-yl)oxy)-N-(3-(2-oxopyrrolidin-1-yl)propyl)acetamide,QNSUVXNUUWYCSP-UHFFFAOYSA-N,C1CC(=O)N(C1)CCCNC(=O)COC2=CC(=C3C(=C2)OC(=CC3=O)C4=CC=CC=C4)O,16408379.0,,,,unverified
+CNP0121737.0,3-(4-Hydroxyphenyl)chroman-7-ol,ADFCQWZHKCXPAJ-UHFFFAOYSA-N,C1C(COC2=C1C=CC(=C2)O)C3=CC=C(C=C3)O,382975.0,,HMDB0243678,181441,unverified
+CNP0292777.0,"3-(3,4-dimethoxyphenyl)-7-hydroxy-4H-chromen-4-one",VFZIJLPRJAQGFO-UHFFFAOYSA-N,COC1=C(C=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O)OC,5748605.0,,HMDB0130362,,exogenous
+CNP0190002.0,Daidzein,ZQSIJRDFPHDXIC-UHFFFAOYSA-N,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,5281708.0,C10208,HMDB0003312,28197,exogenous
+CNP0156838.0,Glycitein,DXYUAIFZCFRPTH-UHFFFAOYSA-N,COC1=C(C=C2C(=C1)C(=O)C(=CO2)C3=CC=C(C=C3)O)O,5317750.0,C14536,HMDB0005781,34778,exogenous
+CNP0174866.0,Genistein,TZBJGXHYKVUXJN-UHFFFAOYSA-N,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,5280961.0,D11680,HMDB0003217,28088,exogenous
+CNP0112271.1,(-)-Glycinol,QMXOFBXZEKTJIK-LSDHHAIUSA-N,C1[C@@]2([C@H](C3=C(O1)C=C(C=C3)O)OC4=C2C=CC(=C4)O)O,129648.0,C01263,HMDB0034105,15649,exogenous
+CNP0106907.2,"(3s,4s)-3,4-Bis(3-hydroxybenzyl)dihydrofuran-2(3h)-one",HVDGDHBAMCBBLR-PBHICJAKSA-N,OC1=CC=CC(C[C@@H]2COC(=O)[C@H]2CC2=CC(O)=CC=C2)=C1,114739.0,C18165,HMDB0006101,81555,endogenous
+CNP0021823.0,3-[Hydroxy-(3-hydroxyphenyl)methyl]-4-[(3-hydroxyphenyl)methyl]oxolan-2-one,NRAPUSPCLWHFAN-UHFFFAOYSA-N,C1C(C(C(=O)O1)C(C2=CC(=CC=C2)O)O)CC3=CC(=CC=C3)O,75069482.0,,,,unverified
+CNP0224327.0,"4-[3-(Hydroxymethyl)-6-(3-hydroxyprop-1-enyl)-2,3,4a,8a-tetrahydro-1,4-benzodioxin-2-yl]benzene-1,2-diol",GHOBJNPVZWQNHI-UHFFFAOYSA-N,C1=CC(=CC2C1OC(C(O2)CO)C3=CC(=C(C=C3)O)O)C=CCO,162953512.0,,,,unverified
+CNP0569049.0,3-(4-hydroxyphenyl)-2-[(4-hydroxyphenyl)methyl]-4-methoxy-2H-furan-5-one,IIPBTYQTRDFMFM-UHFFFAOYSA-N,COC1=C(C(OC1=O)CC2=CC=C(C=C2)O)C3=CC=C(C=C3)O,51136351.0,,,,exogenous
+CNP0322655.0,Anolignan B,VVKZAZVVUAFFGF-UHFFFAOYSA-N,C=C(CC1=CC=C(C=C1)O)C(=C)CC2=CC=C(C=C2)O,72388.0,,,65411,exogenous
+CNP0023118.0,Methyl 3-amino-4-hydroxybenzoate,VNQABZCSYCTZMS-UHFFFAOYSA-N,COC(=O)C1=CC(=C(C=C1)O)N,10815.0,C14171,,34904,unverified
+CNP0546796.0,Gabexate,YKGYIDJEEQRWQH-UHFFFAOYSA-N,CCOC(=O)C1=CC=C(C=C1)OC(=O)CCCCCN=C(N)N,3447.0,D08004,HMDB0252569,93036,unverified
+CNP0275030.0,"Diethyl 1H-pyrrole-2,3-dicarboxylate",AKCIUXOENLCRHO-UHFFFAOYSA-N,CCOC(=O)C1=C(NC=C1)C(=O)OCC,13929789.0,,,,unverified
+CNP0559876.0,Propan-2-yl 4-(decanoylamino)benzoate,QJUGCSICZSOGCO-UHFFFAOYSA-N,CCCCCCCCCC(=O)NC1=CC=C(C=C1)C(=O)OC(C)C,5021139.0,,,,unverified
+CNP0392843.0,4-Acetamido-3-hydroxybenzoic acid,WEMQDIKMQHBQIC-UHFFFAOYSA-N,CC(=O)NC1=C(C=C(C=C1)C(=O)O)O,422136.0,,,,exogenous
+CNP0298227.0,"4-Hydroxy-3,5-dimethoxy-1,2-benzenedicarboxylic acid",XIRGECFTINXVQF-UHFFFAOYSA-N,COC1=C(C(=C(C(=C1)C(=O)O)C(=O)O)OC)O,13245073.0,,,,unverified
+CNP0471729.0,4-(1-Carboxypropan-2-yl)benzoic acid,VVMXEDDTMMULIZ-UHFFFAOYSA-N,CC(CC(=O)O)C1=CC=C(C=C1)C(=O)O,2750913.0,,,,unverified
+CNP0457363.0,4-Methoxy-2-methylbenzoic acid,MSVRGYOYISBGTH-UHFFFAOYSA-N,CC1=C(C=CC(=C1)OC)C(=O)O,597216.0,,,,unverified
+CNP0333305.2,4-O-Galloylquinic acid,OGYBSNRRBNHPNK-LPSXRXAPSA-N,C1[C@H](C([C@@H](CC1(C(=O)O)O)O)OC(=O)C2=CC(=C(C(=C2)O)O)O)O,475263.0,,,,exogenous
+CNP0175320.0,Phenylacetaldehyde,DTUQWGWMVIHBKE-UHFFFAOYSA-N,O=CCC1=CC=CC=C1,998.0,C00601,HMDB0006236,16424,endogenous
+CNP0316613.0,3-(2-Ethenyl-4-methoxyphenyl)propanoic acid,AOBHSJIRXKFHEN-UHFFFAOYSA-N,COC1=CC(=C(C=C1)CCC(=O)O)C=C,163036770.0,,,,unverified
+CNP0161748.0,4-(5-Hydroxyhex-1-enyl)phenol,STYRLFQQFODVTQ-UHFFFAOYSA-N,CC(CCC=CC1=CC=C(C=C1)O)O,162894468.0,,,,unverified
+CNP0279845.0,"1-(4-Hydroxyphenyl)-2-[2-(4-hydroxyphenyl)ethenyl]propane-1,3-diol",ZCEJMYRSDSVCRY-UHFFFAOYSA-N,C1=CC(=CC=C1C=CC(CO)C(C2=CC=C(C=C2)O)O)O,85983294.0,,,,exogenous
+CNP0181857.0,4-Hydroxyfuran-2(5H)-one,JZQBAGOECGRTSA-UHFFFAOYSA-N,C1C(=CC(=O)O1)O,54683813.0,,,,unverified
+CNP0402320.0,5-[Hydroxy(phenyl)methyl]dihydrofuran-2(3H)-one,XSLNGWVCABGHBH-UHFFFAOYSA-N,C1CC(=O)OC1C(C2=CC=CC=C2)O,5249701.0,,,,exogenous
+CNP0361380.0,"7-(2-Phenylethynyl)bicyclo[4.2.0]octa-1,3,5-trien-7-ol",XZINREGVWZPJPE-UHFFFAOYSA-N,C1C2=CC=CC=C2C1(C#CC3=CC=CC=C3)O,2752687.0,,,,unverified
+CNP0225518.0,[(2-Amino-5-ethoxyphenyl)sulfanyl]acetic acid,AYDGDKCDEGSSFB-UHFFFAOYSA-N,CCOC1=CC(=C(C=C1)N)SCC(=O)O,245979.0,,,,unverified
+CNP0155947.0,NoName_1600,IVGVUNIRLRPHTB-UHFFFAOYSA-N,C1=CC=C2C(=C1)C(=O)NC(O2)CC(=O)O,13418542.0,,,,unverified
+CNP0051196.0,Diethyl 2-[4-(diethylamino)phenyl]-2-hydroxypropanedioate,RFJHRDCTSLESHN-UHFFFAOYSA-N,CCN(CC)C1=CC=C(C=C1)C(C(=O)OCC)(C(=O)OCC)O,2750043.0,,,,unverified
+CNP0156985.0,Toluene,YXFVVABEGXRONW-UHFFFAOYSA-N,CC1=CC=CC=C1,1140.0,C01455,HMDB0034168,17578,exogenous
+CNP0232039.0,1-Naphthylamine,RUFPHBVGCFYCNW-UHFFFAOYSA-N,C1=CC=C2C(=C1)C=CC=C2N,8640.0,C14790,HMDB0243964,50450,exogenous
+CNP0168770.0,"4',5-Diformyl-2-methoxydiphenylether",YAYLLPIGVCCHJD-UHFFFAOYSA-N,COC1=C(C=C(C=C1)C=O)OC2=CC=C(C=C2)C=O,11065027.0,,,,exogenous
+CNP0245641.0,"6-Hydroxy-4,4,7a-trimethyl-5,6,7,7a-tetrahydrobenzofuran-2(4H)-one",XEVQXKKKAVVSMW-UHFFFAOYSA-N,CC1(CC(CC2(C1=CC(=O)O2)C)O)C,14334.0,,,181628,unverified
+CNP0210117.1,"(2Z,4E)-5-[(1R,3R,5R,8S)-8-hydroxy-1,5-dimethyl-3-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-oxabicyclo[3.2.1]octan-8-yl]-3-methylpenta-2,4-dienoic acid",UHHVHDDICOEBTQ-QCJIOVKVSA-N,C/C(=C/C(=O)O)/C=C/[C@@]1([C@@]2(C[C@H](C[C@]1(OC2)C)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)C)O,95223199.0,,,181716,exogenous
+CNP0469977.0,"1-(2-Hydroxy-4,6,6-trimethylcyclohexa-1,3-dien-1-yl)ethanone",UTWINYCXAYHYGN-UHFFFAOYSA-N,CC1=CC(=C(C(C1)(C)C)C(=O)C)O,6954636.0,,,,unverified
+CNP0226063.0,"2-(6-Hydroxy-2-methylhept-2-enyl)-4,4-dimethylcyclopent-2-en-1-one",QHKJUIWBOYJWOU-UHFFFAOYSA-N,CC(CCC=C(C)CC1=CC(CC1=O)(C)C)O,162955123.0,,,,exogenous
+CNP0274276.0,"Methyl 5,9,13-trimethyl-6-(2-methylbut-2-enoyloxy)tetracyclo[11.2.1.01,10.04,9]hexadec-14-ene-5-carboxylate",SGZWGZMHSKQVTP-UHFFFAOYSA-N,CC=C(C)C(=O)OC1CCC2(C(C1(C)C(=O)OC)CCC34C2CCC(C3)(C=C4)C)C,163000580.0,,,,exogenous
+CNP0318141.0,"4-(hydroxymethyl)-4,7,11b-trimethyl-2,3,4a,5,6,6a,11,11a-octahydro-1H-naphtho[2,1-f][1]benzofuran-5,6,7-triol",QNPNAWLXZOMOPO-UHFFFAOYSA-N,CC1(CCCC2(C1C(C(C3C2CC4=C(C3(C)O)C=CO4)O)O)C)CO,85250186.0,,,,exogenous
+CNP0308675.0,"[6,7-Dihydroxy-8-(hydroxymethyl)-4,18-dimethyl-5-oxo-16-prop-1-en-2-yl-14-undeca-1,3-dienyl-9,13,15,19-tetraoxahexacyclo[12.4.1.01,11.02,6.08,10.012,16]nonadec-3-en-17-yl] acetate",JBPNOTYVHQAHMI-UHFFFAOYSA-N,CCCCCCCC=CC=CC12OC3C4C5C(O5)(C(C6(C(C4(O1)C(C(C3(O2)C(=C)C)OC(=O)C)C)C=C(C6=O)C)O)O)CO,163030313.0,,,,exogenous
+CNP0293342.0,"4-(2,3,4-trihydroxy-2,5,5,8a-tetramethyl-hexahydro-1H-naphthalen-1-yl)but-3-en-2-one",GUVJPXABQYFWPD-UHFFFAOYSA-N,CC(=O)C=CC1C2(CCCC(C2C(C(C1(C)O)O)O)(C)C)C,73823950.0,,,,unverified
+CNP0140374.2,Aspterpenacid B,UNEUBHPEGNVSJI-OUCWJSKGSA-N,C[C@H]1CC[C@]23[C@H](CC[C@H]2[C@@]3([C@@]4([C@@H]1[C@@H]([C@]5(CC[C@@H]([C@@H]5C4)C(C)C)C)O)O)C(=O)O)C,139591047.0,,,216248,exogenous
+CNP0277954.2,Areptin A,MMLPTCVXPCYZCP-HHERFIPJSA-N,CCC(C)C(=O)O[C@H]1[C@@H]([C@H]([C@@H]2[C@@]([C@@H](C[C@@H]([C@]2([C@@]13CO3)COC(=O)C)OC(=O)C)C)(C)[C@@H]4C[C@H]5CCO[C@H]5O4)O)OC(=O)C,168680062.0,,,197378,exogenous
+CNP0189139.1,(+)-Miliusane Ix,NKLDAIQKFGVGAV-ZXSMNVAJSA-N,CC(=CCC/C(=C/[C@@H]1[C@@]2(C[C@@H](C=C[C@H]2O)OC(=O)C)CC(=O)O1)/C)C,11552004.0,,,,exogenous
+CNP0274044.0,"Methyl 2-[3-hydroxy-6-oxo-4-(3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraenyl)cyclohexen-1-yl]acetate",MENMOQUCYNYTBV-UHFFFAOYSA-N,CC(=CCCC(=CCCC(=CCCC(=CCC1CC(=O)C(=CC1O)CC(=O)OC)C)C)C)C,72821937.0,,,,unverified
+CNP0086125.1,Antroquinonol V,NCOKWRIBBVIWNF-KCZVDYSFSA-N,C[C@@H]1[C@H]([C@H](C(=C(C1=O)OC)OC)O)CC=C(C)CCC=C(C)CCC=C(C)CO,139589774.0,,,208117,exogenous
+CNP0087422.1,13'-Carboxy-alpha-tocotrienol,CBMCFKYSTHHHCC-QZDMETRGSA-N,C\C(CC\C=C(/C)C(O)=O)=C\CC\C(C)=C/CC[C@]1(C)CCC2=C(O1)C(C)=C(C)C(O)=C2C,53481462.0,,HMDB0012556,139535,endogenous
+CNP0285785.0,"4-methoxy-4a-(3,7,11-trimethyldodeca-2,6,10-trienyl)-4,5,7,7a-tetrahydro-3H-cyclopenta[b]pyran-2,6-dione",OZCWUZPIDKADGT-UHFFFAOYSA-N,CC(=CCCC(=CCCC(=CCC12CC(=O)CC1OC(=O)CC2OC)C)C)C,163010714.0,,,,exogenous
+CNP0470052.0,"2-(4,7,7-Trimethyl-3-oxo-2-bicyclo[2.2.1]heptanylidene)acetic acid",UVBOLVXQLDACCM-UHFFFAOYSA-N,CC1(C2CCC1(C(=O)C2=CC(=O)O)C)C,2750128.0,,,,unverified
+CNP0030410.0,"N-methyl-N-(5,8,8-trimethyl-4-oxo-2-bicyclo[3.2.1]oct-2-enyl)nitrous amide",XIXAPCKYCBFXNO-UHFFFAOYSA-N,CC1(C2CCC1(C(=O)C=C2N(C)N=O)C)C,2750856.0,,,,unverified
+CNP0236063.0,"2-(Hydroxymethyl)-6-[[5-hydroxy-10-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3,9-dioxatricyclo[4.4.0.02,4]dec-7-en-7-yl]methoxy]oxane-3,4,5-triol",FIGUSWFYYYSJLX-UHFFFAOYSA-N,C1=C(C2C(C3C(C2O)O3)C(O1)OC4C(C(C(C(O4)CO)O)O)O)COC5C(C(C(C(O5)CO)O)O)O,162964813.0,,,,exogenous
+CNP0335971.1,Gardenamide,JKUVCURZAWEADG-VXNVDRBHSA-N,COC(=O)C1=CNC(=O)[C@H]2[C@@H]1CC=C2CO,10775442.0,,,,exogenous
+CNP0231068.1,Genipin,AZKVWQKMDGGDSV-BCMRRPTOSA-N,COC(=O)C1=COC(O)C2C1CC=C2CO,442424.0,C09780,HMDB0035830,5298,endogenous
+CNP0481779.0,2-(2-Isopropyl-5-methylphenoxy)acetamide,UNKPGIAYYFAPKK-UHFFFAOYSA-N,CC1=CC(=C(C=C1)C(C)C)OCC(=O)N,681895.0,,,,unverified
+CNP0369771.0,"7,7-Dimethyl-2-oxo-1,8-dioxaspiro[4.5]decane-4-carbonitrile",QZJSYBFUNQXYIL-UHFFFAOYSA-N,CC1(CC2(CCO1)C(CC(=O)O2)C#N)C,2836709.0,,,,unverified
+CNP0328756.0,"3,4-Dihydroxy-5-methyl-2-propan-2-ylcyclohexane-1-carboxylic acid",JHSRSEOMALBHGQ-UHFFFAOYSA-N,CC1CC(C(C(C1O)O)C(C)C)C(=O)O,163046472.0,,,,exogenous
+CNP0157841.0,"N-(2,2,6-trimethylcyclohexylidene)hydroxylamine",JNPJIYNFMFLRKN-UHFFFAOYSA-N,CC1CCCC(C1=NO)(C)C,348402.0,,,,unverified
+CNP0420854.0,"18-amino-19-(hydroxymethyl)-24-methyl-24-[3-[4-[1-(methylamino)propan-2-yl]-1H-pyrrol-2-yl]cyclohexyl]spiro[25-oxahexacyclo[20.3.1.12,6.01,17.08,13.018,23]heptacosa-8(13),9,11-trien-15-yne-4,1'-cyclopentane]-11-ol",HDDNNWCXBCBTMU-UHFFFAOYSA-N,CC(CNC)C1=CNC(=C1)C2CCCC(C2)C3(C4C5CCC(C4(C6C#CCC7=C(CC8CC(C6(C5)O3)CC9(C8)CCCC9)C=CC(=C7)O)N)CO)C,163100024.0,,,,unverified
+CNP0256372.0,Acoric acid,ZIOCYJNRYIRTQD-UHFFFAOYSA-N,C[C@@H]1CC[C@](CC1=O)([C@H](C)CC(=O)O)C(=O)C(C)C,15558302.0,,HMDB0038165,143045,exogenous
+CNP0461870.1,Rhodocorane D,PIGBFRXBCWBHTG-FFIJEWMLSA-N,C[C@@H]1CC[C@@H]([C@]12C(=O)C(=C(C(=O)C2=O)C)N)C(C)C,146683193.0,,,209696,exogenous
+CNP0170950.0,"2-(1,2-Epoxy-1,5-dimethyl-4-hexenyl)-3-methoxy-1-chloromethyl-1,4-cyclohexanediol",IKABKKYGJWCZMB-UHFFFAOYSA-N,CC(=CCC1C(O1)(C)C2C(C(CCC2(CCl)O)O)OC)C,19801073.0,,,,unverified
+CNP0178404.2,Ascotrichic acid,ZPWDBKOJTSRRKI-KCGXDXBQSA-N,C[C@H]1[C@@H](CC[C@@]1(C)O)C(C)(CCC=C(C)C(=O)O)O,139584127.0,,,200771,exogenous
+CNP0085244.0,"(3,4a,5-Trimethyl-9-oxo-4,5,6,7,8,8a-hexahydrobenzo[f][1]benzofuran-4-yl) 2-amino-2-methylbutanoate",CWFCNWIAOJWEMI-UHFFFAOYSA-N,CCC(C)(C(=O)OC1C2=C(C(=O)C3C1(C(CCC3)C)C)OC=C2C)N,76390805.0,,,,unverified
+CNP0156995.0,"(8-Hydroxy-4a,8-dimethyl-2-propan-2-yl-1,2,3,4,5,6,7,8a-octahydronaphthalen-1-yl) 3-phenylprop-2-enoate",YPCMOCVARABHRT-UHFFFAOYSA-N,CC(C)C1CCC2(CCCC(C2C1OC(=O)C=CC3=CC=CC=C3)(C)O)C,74155564.0,,,,unverified
+CNP0281432.0,[3-(Hydroxymethyl)-5-(2-methylbut-2-enoyloxy)-2-oxo-6-propan-2-ylcyclohex-3-en-1-yl] 4-hydroxy-2-methylbut-2-enoate,CARMWCSYOJNGRD-UHFFFAOYSA-N,CC=C(C)C(=O)OC1C=C(C(=O)C(C1C(C)C)OC(=O)C(=CCO)C)CO,85446359.0,,,,exogenous
+CNP0216617.0,"1-Hydroxy-7-(2-hydroxypropan-2-yl)-1-methyl-2,3,3a,5,6,7,8,8a-octahydroazulen-4-one",CBAIWCFSNJGPTD-UHFFFAOYSA-N,CC1(CCC2C1CC(CCC2=O)C(C)(C)O)O,162946124.0,,,,unverified
+CNP0524739.0,"2-(2,2,4,6-Tetramethyl-1,3-dihydroinden-5-yl)ethyl nitrate",UJHFESNVIHZCMA-UHFFFAOYSA-N,CC1=CC2=C(CC(C2)(C)C)C(=C1CCO[N+](=O)[O-])C,10754035.0,,,,exogenous
+CNP0357200.1,"4alpha,11,12,14-Tetrahydroxy-1-tremulene",OZRULAAFWKCHBL-REALQLAVSA-N,C[C@H]1C[C@@H]([C@@H](C(=C2[C@H]1C[C@](C2)(C)CO)CO)CO)O,139585435.0,,,205154,exogenous
+CNP0372680.0,"[(3-Formyl-1,7,7-trimethyl-2-bicyclo[2.2.1]hept-2-enyl)amino]urea",JFWKJKSYJXDUBM-UHFFFAOYSA-N,CC1(C2CCC1(C(=C2C=O)NNC(=O)N)C)C,5123410.0,,,,unverified
+CNP0152499.2,22-O-methylvariabilin,BIHGKHBYUFVWCB-MSWNYABDSA-N,CC1=C(/C(=C/[C@@H](C)CCC/C(=C/CC/C(=C/CCC2=COC=C2)/C)/C)/OC1=O)OC,11373301.0,,,,exogenous
+CNP0171598.0,"2-[5-(4,8,12-trimethyltrideca-3,7,11-trienyl)-3,6-dihydro-2H-pyran-2-yl]prop-2-enoic acid",YIBKNWRFOJURQA-UHFFFAOYSA-N,CC(=CCCC(=CCCC(=CCCC1=CCC(OC1)C(=C)C(=O)O)C)C)C,85080654.0,,,,exogenous
+CNP0486977.0,CID 73227165,CTQXLIFPKAKNFP-UHFFFAOYSA-N,CC12CCC(CC1CCC3C2C(CC4(C3(CCC4C5=CC(=O)CC5)O)C)O)O,73227165.0,,,,exogenous
+CNP0400994.0,"Bufa-20,22-dienolide, 3,11,14-trihydroxy-, (3beta,5beta,11alpha)-",FMTLOAVOGWSPEF-UHFFFAOYSA-N,CC12CCC(CC1CCC3C2C(CC4(C3(CCC4C5=COC(=O)C=C5)O)C)O)O,521198.0,C16962,HMDB0252604,,unverified
+CNP0343673.0,"[2-[[10-formyl-14-hydroxy-13-methyl-17-(5-oxo-2H-furan-3-yl)-1,2,3,4,5,6,7,8,9,11,12,15,16,17-tetradecahydrocyclopenta[a]phenanthren-3-yl]oxy]-5-hydroxy-4-methoxy-6-methyloxan-3-yl] acetate",UIOPCIPXZFHRFW-UHFFFAOYSA-N,CC1C(C(C(C(O1)OC2CCC3(C(C2)CCC4C3CCC5(C4(CCC5C6=CC(=O)OC6)O)C)C=O)OC(=O)C)OC)O,73157248.0,,,,unverified
+CNP0179190.0,Tauroallocholic acid,WBWWGRHZICKQGZ-UHFFFAOYSA-N,CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C,5247.0,,HMDB0257923,183108,unverified
+CNP0229470.1,3-Oxochol-4-en-24-oic acid,WCFIGQHNBJXROP-IHMUCKAYSA-N,C[C@H](CCC(=O)O)[C@@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C,159621.0,,,176827,exogenous
+CNP0373918.5,"7alpha,12alpha-Dihydroxy-3-oxo-5alpha-cholan-24-oic Acid",OEKUSRBIIZNLHZ-DXTOHYNYSA-N,C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@@H]4[C@@]3(CCC(=O)C4)C)O)O)C,5283957.0,,,181124,unverified
+CNP0223944.0,"4-(3-Hydroxy-10,13-dimethyl-6-oxo-1,2,3,4,5,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl)pentanoic acid",JWZBXKZZDYMDCJ-UHFFFAOYSA-N,CC(CCC(=O)O)C1CCC2C1(CCC3C2CC(=O)C4C3(CCC(C4)O)C)C,4579343.0,,,182882,exogenous
+CNP0017611.0,"2-(10,13-Dimethyl-3-oxo-4,5,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl)propyl acetate",ZDJFZKKZRYIOJS-UHFFFAOYSA-N,CC(COC(=O)C)C1CCC2C1(CCC3C2CCC4C3(C=CC(=O)C4)C)C,73837842.0,,,,exogenous
+CNP0326808.0,"[10-Hydroxy-20-(2-hydroxypropan-2-yl)-1,3,7-trimethyl-19,23-dioxahexacyclo[18.2.1.02,18.03,16.06,15.07,12]tricos-12-en-22-yl] acetate",PYGYDHKOAZZNKD-UHFFFAOYSA-N,CC(=O)OC1CC2(OC3CC4C5CC=C6CC(CCC6(C5CCC4(C3C1(O2)C)C)C)O)C(C)(C)O,73803708.0,,,,exogenous
+CNP0158954.0,"16-Hydroxy-17-(7-hydroxy-6-methyl-3-oxoheptan-2-yl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one",HOQRRDCNLLTOEP-UHFFFAOYSA-N,CC(CCC(=O)C(C)C1C(CC2C1(CCC3C2CCC4=CC(=O)CCC34C)C)O)CO,56669488.0,,,,exogenous
+CNP0184431.0,"22-Ethoxy-10,14,16,20-tetramethyl-23-oxa-18-azahexacyclo[12.11.0.02,11.05,10.015,24.017,22]pentacos-17-ene-7,16-diol",KWKULQASKPFQAK-UHFFFAOYSA-N,CCOC12CC(CN=C1C(C3C(O2)CC4C3(CCC5C4CCC6C5(CCC(C6)O)C)C)(C)O)C,162915281.0,,,,unverified
+CNP0301626.2,Hoodigogenin A,ATLKEQLPGRQWQA-SXXOWLQRSA-N,C/C=C(\C)/C(=O)O[C@@H]1C[C@H]2[C@@H](CC=C3[C@@]2(CC[C@@H](C3)O)C)[C@@]4([C@]1([C@H](CC4)C(=O)C)C)O,53359213.0,,,,exogenous
+CNP0258619.5,C109,,,,,,,unverified
+CNP0260168.1,"(8xi,9xi,14xi,16alpha,17xi)-16-Ethylpregn-4-ene-3,20-dione",MXMFBDWUIIDGDY-TYORRSEESA-N,CC[C@@H]1CC2C3CCC4=CC(=O)CC[C@@]4(C3CC[C@@]2(C1C(=O)C)C)C,16395589.0,,,,unverified
+CNP0045196.0,"(17-Acetyl-3,14-dihydroxy-8,13-dimethyl-1,2,3,4,7,9,10,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-12-yl) 2-methylbut-2-enoate",DWJXGFVABHFVJH-UHFFFAOYSA-N,CC=C(C)C(=O)OC1CC2C3CCC(CC3=CCC2(C4(C1(C(CC4)C(=O)C)C)O)C)O,162807179.0,,,,exogenous
+CNP0192744.3,Diosgenin,WQLVFSAGQJTQCK-VKROHFNGSA-N,C[C@@H]1CC[C@@]2([C@H]([C@H]3[C@@H](O2)C[C@@H]4[C@@]3(CC[C@H]5[C@H]4CC=C6[C@@]5(CC[C@@H](C6)O)C)C)C)OC1,99474.0,C08898,HMDB0242671,4629,exogenous
+CNP0290886.0,Emmolic acid,WLCHQSHZHFLMJH-UHFFFAOYSA-N,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@H]4[C@]([C@@]3(CC2)C)(CC[C@@H]5[C@@]4([C@H]([C@@H](C5(C)C)O)C(=O)O)C)C)C(=O)O,161352.0,C35140,,,unverified
+CNP0077429.0,"(4,10-diacetyloxy-2,3-dihydroxy-6a,6b,9,9,12a-pentamethyl-3,4,4a,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydro-1H-picen-2-yl)methyl hexadecanoate",ZPIQMIXTIQYVQX-UHFFFAOYSA-N,CCCCCCCCCCCCCCCC(=O)OCC1(CC2C(CCC3(C2=CCC4C3(CCC5C4(CCC(C5(C)C)OC(=O)C)C)C)C)C(C1O)OC(=O)C)O,75049593.0,,,,exogenous
+CNP0329439.0,"[3,4,15-Triacetyloxy-17-(acetyloxymethyl)-2,6,14-trimethyl-11,16-dioxo-10-oxatetracyclo[7.7.1.02,7.013,17]heptadecan-12-yl] 2-methylbutanoate",WXUOAHAGOPIJCM-UHFFFAOYSA-N,CCC(C)C(=O)OC1C2C(C(C(=O)C3C2(C(CC4C3(C(C(CC4C)OC(=O)C)OC(=O)C)C)OC1=O)COC(=O)C)OC(=O)C)C,22298380.0,,,,exogenous
+CNP0358974.1,[3-[[3-[[4-(hydroxymethyl)cyclohexyl]amino]oxetan-3-yl]methyl]isoxazol-5-yl]methanol,,,,,,,unverified
+CNP0147035.0,"9-Amino-5,5-dimethyl-8-oxatricyclo[7.3.1.02,7]tridec-2(7)-en-3-one",KDMVKKFCTZDLDP-UHFFFAOYSA-N,CC1(CC2=C(C3CCCC(C3)(O2)N)C(=O)C1)C,2751375.0,,,,unverified
+CNP0501175.2,Brasilicardin C aglycone,RPMUZTOMCMANNP-YDNHGFIYSA-N,CC1=CC[C@H]2[C@]([C@H]1C[C@@H]([C@@H](C(=O)O)N)OC)(CC[C@H]3[C@]2(C[C@@H]([C@H](C3(C)C)O)O)C)C,139052393.0,,,211654,exogenous
+CNP0177905.0,"7,9-Di-tert-butyl-1-oxaspiro(4.5)deca-6,9-diene-2,8-dione",ZTMZUYHXZPUDRF-UHFFFAOYSA-N,CC(C)(C)C1=CC2(CCC(=O)O2)C=C(C1=O)C(C)(C)C,545303.0,,,88174,endogenous
+CNP0026347.0,"2-(7-acetamido-1-hydroxy-4a,8-dimethyl-2,3,4,5,6,7,8,8a-octahydro-1H-naphthalen-2-yl)-N-cyclopentylpropanamide",LMRWIHKQDCBGIR-UHFFFAOYSA-N,CC1C(CCC2(C1C(C(CC2)C(C)C(=O)NC3CCCC3)O)C)NC(=O)C,74578512.0,,,,unverified
+CNP0109991.0,Glycerophosphorylethanolamine,JZNWSCPGTDBMEW-UHFFFAOYSA-N,NCCOP(O)(=O)OCC(O)CO,123874.0,,HMDB0000114,52330,endogenous
+CNP0355399.1,2-Amino-1-hydroxybutylphosphonic acid,,,,,,,exogenous
+CNP0549959.1,Agropine,HCWLJSDMOMMDRF-SZWOQXJISA-N,C1[C@@H](OC(=O)[C@@H](N1)CCC(=O)N)[C@H]([C@@H]([C@@H](CO)O)O)O,121936.0,,,,exogenous
+CNP0505643.1,"N,N,N-Trimethyl-2-aminoethylphosphonate",VCANKBLUHKRQLL-UHFFFAOYSA-N,C[N+](C)(C)CCP(=O)([O-])[O-],151926.0,,,149625,unverified
+CNP0605061.0,Cibarin,PUSAAHYGRLPDMQ-UHFFFAOYSA-N,C(C[N+](=O)[O-])C(=O)OCC1C(C(C(C(O1)OC(=O)CC[N+](=O)[O-])O)O)O,322363.0,C08473,,,unverified
+CNP0205492.0,"1-Hydroxy-4-oxo-2,5-cyclohexadiene-1-acetamide",CJJCCPNQRODTES-UHFFFAOYSA-N,C1=CC(C=CC1=O)(CC(=O)N)O,396469.0,,,,unverified
+CNP0192497.0,Triethanolamine,GSEJCLTVZPLZKY-UHFFFAOYSA-N,OCCN(CCO)CCO,7618.0,D00215,HMDB0032538,28621,endogenous
+CNP0137917.0,"3-Amino-4,5-dimethyl-2(5H)-furanone",AFXUOKDSKBJSRH-UHFFFAOYSA-N,CC1C(=C(C(=O)O1)N)C,6421106.0,,,,exogenous
+CNP0499675.0,Dimethyl Sulfoxide,IAZDPXIOMUYVGZ-UHFFFAOYSA-N,CS(=O)C,679.0,D01043,HMDB0002151,28262,exogenous
+CNP0026557.0,"Methyl 5-(but-3-en-1-yl)amino-1,3,4-oxadiazole-2-carboxylate",RYZCYLNZNIEFLI-UHFFFAOYSA-N,COC(=O)C1=NN=C(O1)NCCC=C,443733.0,C12245,,31833,unverified
+CNP0491849.0,3-(1H-imidazol-4-yl)propanoic acid,ZCKYOWGFRHAZIQ-UHFFFAOYSA-N,OC(=O)CCC1=CNC=N1,70630.0,C20522,HMDB0002271,73087,endogenous
+CNP0294511.0,"3-[1,2-Dihydroxy-4-(methylideneamino)cyclopent-3-en-1-yl]prop-2-enoic acid",YPKSIGANYKSZOH-UHFFFAOYSA-N,C=NC1=CC(C(C1)(C=CC(=O)O)O)O,163018424.0,,,,exogenous
+CNP0171296.1,N-Acetyl-g-hydroxyvaline lactone,ABNUGWRZSYVEEW-INEUFUBQSA-N,C[C@@H]1COC(=O)[C@@H]1NC(=O)C,10749443.0,,,216529,exogenous
+CNP0130167.0,2-(Hydroxymethyl)-4-(methylamino)-5-[(propan-2-ylamino)methyl]oxolan-3-ol,BPKAOSDOLKIPNK-UHFFFAOYSA-N,CC(C)NCC1C(C(C(O1)CO)O)NC,74578260.0,,,,unverified
+CNP0003821.0,"3-(2,4-Dioxopyrimidin-1-yl)-2-(oxan-4-ylamino)propanoic acid",MWTLRMGDQIVECJ-UHFFFAOYSA-N,C1COCCC1NC(CN2C=CC(=O)NC2=O)C(=O)O,162789609.0,,,,unverified
+CNP0112720.1,Myrothenone A,PGQRZOUYTNKEBE-QMMMGPOBSA-N,C=C[C@@]1(CC(=CC1=O)NC=O)O,11355692.0,,,66424,exogenous
+CNP0343480.0,"2-hydroxy-4-(3,4,5-trihydroxyoxan-2-yl)-2H-furan-5-one",QGZHMGMJCBWMLD-UHFFFAOYSA-N,C1C(C(C(C(O1)C2=CC(OC2=O)O)O)O)O,163056970.0,,,,exogenous
+CNP0181152.0,5-Oxo-2(5H)-isoxazolepropanenitrile,DNSSEQBYSHSUGR-UHFFFAOYSA-N,O=C1ON(CCC#N)C=C1,171055.0,,HMDB0031338,173579,endogenous
+CNP0101110.0,4-Amino-2-(morpholin-4-ylmethyl)oxolan-3-ol,XZGYTFGXECDMCE-UHFFFAOYSA-N,C1COCCN1CC2C(C(CO2)N)O,162840453.0,,,,unverified
+CNP0171897.0,(4-Acetyloxy-4-methyl-5-oxooxolan-3-yl) acetate,WFOCCZCFZZOAOM-UHFFFAOYSA-N,CC(=O)OC1COC(=O)C1(C)OC(=O)C,5231380.0,,,,exogenous
+CNP0547462.0,8-Methylsulfinyloctyl isothiocyanate,BCRXKWOQVFKZAG-UHFFFAOYSA-N,CS(=O)CCCCCCCCN=C=S,9794659.0,,HMDB0035923,91152,exogenous
+CNP0085021.1,4'-Phosphopantetheine,JDMUPRLRUUMCTL-VIFPVBQESA-N,CC(C)(COP(O)(O)=O)[C@@H](O)C(=O)NCCC(=O)NCCS,115254.0,C01134,HMDB0001416,4222,endogenous
+CNP0355424.0,Heptaminol,LREQLEBVOXIEOM-UHFFFAOYSA-N,CC(CCCC(C)(C)O)N,3590.0,D07158,HMDB0253104,94362,unverified
+CNP0264086.0,2-Acetamido-3-[2-(5-hydroxypentyl)-5-oxooxolan-3-yl]sulfanylpropanoic acid,GWNUOMGPRDRJEI-UHFFFAOYSA-N,CC(=O)NC(CSC1CC(=O)OC1CCCCCO)C(=O)O,162991137.0,,,,unverified
+CNP0472950.0,"2-[[5-(Hydroxymethyl)furan-2-yl]methylamino]-4-(2-methoxyethylamino)-6,8-dioxabicyclo[3.2.1]octan-3-ol",WOFKLANHJCRAQK-UHFFFAOYSA-N,COCCNC1C(C(C2COC1O2)NCC3=CC=C(O3)CO)O,74419521.0,,,,unverified
+CNP0198674.0,"5-(1,2-Dithiolan-3-yl)-n-(2-hydroxyethyl)pentanamide",UKKQRPFDGXMFAQ-UHFFFAOYSA-N,C1CSSC1CCCCC(=O)NCCO,18357975.0,,,,unverified
+CNP0505125.0,"1,2-Dimethyl-5-oxopyrrolidine-2-carboxylic acid",DAGWRHWPWBJGMA-UHFFFAOYSA-N,CC1(CCC(=O)N1C)C(=O)O,77223867.0,,,,unverified
+CNP0453119.0,"[3-(cyclobutanecarbonylamino)-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-6-yl] N-cyclohexylcarbamate",KHFRKWFKWKFIIB-UHFFFAOYSA-N,C1CCC(CC1)NC(=O)OC2COC3C2OCC3NC(=O)C4CCC4,74699966.0,,,,unverified
+CNP0213292.0,[5-(1-Aminoethyl)oxolan-2-yl]-morpholin-4-ylmethanone,ZDLIFNAOCJUWIZ-UHFFFAOYSA-N,CC(C1CCC(O1)C(=O)N2CCOCC2)N,139600796.0,,,,unverified
+CNP0071206.0,1-O-methyl 3-O-[4-[(2-methylpropan-2-yl)oxycarbonylamino]cyclopent-2-en-1-yl] propanedioate,NQLDLHAGFBEZDI-UHFFFAOYSA-N,CC(C)(C)OC(=O)NC1CC(C=C1)OC(=O)CC(=O)OC,75084301.0,,,,unverified
+CNP0059013.0,"N-[3-[(1-amino-4-methyl-1-oxopentan-2-yl)carbamoyl]-5,6-dihydroxycyclohex-2-en-1-yl]pyrrolidine-2-carboxamide",LKEXMGWXGLWPAK-UHFFFAOYSA-N,CC(C)CC(C(=O)N)NC(=O)C1=CC(C(C(C1)O)O)NC(=O)C2CCCN2,3507115.0,,,,unverified
+CNP0601573.0,"2-[3-[[3-(Dimethylamino)oxetan-3-yl]methyl]-1,2-oxazol-5-yl]propan-2-ol",OVUSCIFCPORHNW-UHFFFAOYSA-N,CC(C)(C1=CC(=NO1)CC2(COC2)N(C)C)O,75537150.0,,,,unverified
+CNP0089994.0,"1-[2,3-Dihydroxy-4-(hydroxymethyl)cyclopentyl]-3-phenylurea",NTBZSZLEECDYQJ-UHFFFAOYSA-N,C1C(C(C(C1NC(=O)NC2=CC=CC=C2)O)O)CO,162826681.0,,,,unverified
+CNP0182368.1,N-(5-Methyl-3-oxohexyl)alanine,VHHUMCJOXTZJOX-QMMMGPOBSA-N,C[C@@H](C(=O)O)NCCC(=O)CC(C)C,10631902.0,,,173550,exogenous
+CNP0163177.0,"6-(10-Bromo-17-hydroxy-6-methoxy-4,9,16,19-tetramethyl-13-oxo-8,12,22-trioxa-23-azatricyclo[18.2.1.07,11]tricosa-1(23),14,18,20-tetraen-9-yl)-2-hydroxy-2-methylhex-4-enoic acid",MTFNSTNGXZZZNU-UHFFFAOYSA-N,CC1CCC2=NC(=CO2)C(=CC(C(C=CC(=O)OC3C(C(C1)OC)OC(C3Br)(C)CC=CCC(C)(C(=O)O)O)C)O)C,73207407.0,,,,exogenous
+CNP0529366.0,"[3-[[3-(Cyclopropylmethylamino)oxetan-3-yl]methyl]-1,2-oxazol-5-yl]methanol",SKXMHOCGHUWNGE-UHFFFAOYSA-N,C1CC1CNC2(COC2)CC3=NOC(=C3)CO,56775611.0,,,,unverified
+CNP0514016.0,"1-[6-(2-{1,4-Dioxa-8-azaspiro[4.5]decan-8-YL}-2-oxoethoxy)pyridin-3-YL]-3-ethylurea",IRWDROXFCZFPBZ-UHFFFAOYSA-N,CCNC(=O)NC1=CN=C(C=C1)OCC(=O)N2CCC3(CC2)OCCO3,53175049.0,,,,unverified
+CNP0581044.1,Butyl beta-glucose,ZAQMJZVCEWHJNN-HOTMZDKISA-N,CCCC[C@@]1([C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O,129850975.0,,,,unverified
+CNP0219450.0,"N-[[3,4-dihydroxy-5-[2-(2-methoxyethylamino)-2-oxoethyl]oxolan-2-yl]methyl]-4-(dimethylamino)benzamide",TZQIZSLOVSUZBO-UHFFFAOYSA-N,CN(C)C1=CC=C(C=C1)C(=O)NCC2C(C(C(O2)CC(=O)NCCOC)O)O,74735197.0,,,,unverified
+CNP0436657.0,"7-hydroxy-6-oxo-2,5-dihydro-1H-isoquinoline-3-carboxylic acid",ZPZAOBSARYZTDT-UHFFFAOYSA-N,C1C2=C(CNC(=C2)C(=O)O)C=C(C1=O)O,163116296.0,,,,exogenous
+CNP0321409.0,[2-(Acetamidomethyl)-6-(2-hydroxyethyl)oxan-3-yl] acetate,KWEPZNBZOAGVNB-UHFFFAOYSA-N,CC(=O)NCC1C(CCC(O1)CCO)OC(=O)C,163040589.0,,,,unverified
+CNP0003808.0,"[3-[[3-(Cyclobutylamino)oxetan-3-yl]methyl]-1,2-oxazol-5-yl]methanol",LHNRFDVTURSCBB-UHFFFAOYSA-N,C1CC(C1)NC2(COC2)CC3=NOC(=C3)CO,56775589.0,,,,unverified
+CNP0370400.0,N-(6-methyl-2-oxooxan-3-yl)acetamide,MOSIEOKDQSGUKN-UHFFFAOYSA-N,CC1CCC(C(=O)O1)NC(=O)C,72960746.0,,,,exogenous
+CNP0398992.0,4-(4-hydroxy-6-methyl-2-oxopyridin-1(2H)-yl)butanoic acid,WGBSTJVDAMNUSH-UHFFFAOYSA-N,CC1=CC(=CC(=O)N1CCCC(=O)O)O,54692231.0,,,,unverified
+CNP0298342.2,Boc-N-ME-phg-OH,COABPHLHHQAKPL-NSHDSACASA-N,CC(C)(C)OC(=O)N(C)[C@@H](C1=CC=CC=C1)C(=O)O,7010620.0,,,,unverified
+CNP0333136.2,Prolinimine A,MAZAKMAWBQLBII-NSHDSACASA-N,COC(=O)[C@@H]1CCCN1N=CC2=CC=C(O2)CO,139591118.0,,,216845,exogenous
+CNP0228213.0,Perfragilin A,ODKVUEQLYLYTFC-UHFFFAOYSA-N,CN1C=C2C(=CC1=O)C(=O)C(=C(C2=O)N)SC,159507.0,,,,exogenous
+CNP0035825.0,7-((tert-Butoxycarbonyl)amino)heptanoic acid,HJENAZQPOGVAEK-UHFFFAOYSA-N,CC(C)(C)OC(=O)NCCCCCCC(=O)O,546122.0,,,,unverified
+CNP0478384.0,4-Carbamimidoylsulfanylbutyl acetate,ZTFWMAGCVHYQPE-UHFFFAOYSA-N,CC(=O)OCCCCSC(=N)N,3534948.0,,,,unverified
+CNP0166090.0,"N-[[3,4-dihydroxy-5-[2-oxo-2-(propan-2-ylamino)ethyl]oxolan-2-yl]methyl]cyclopropanecarboxamide",JZAGMCTVWGDPFY-UHFFFAOYSA-N,CC(C)NC(=O)CC1C(C(C(O1)CNC(=O)C2CC2)O)O,74451411.0,,,,unverified
+CNP0144289.0,"N-(3-amino-3-oxopropyl)-3-(3,3-dimethylbutanoylamino)-4,5-dihydroxycyclohexene-1-carboxamide",AGTKOCQYWJXVDN-UHFFFAOYSA-N,CC(C)(C)CC(=O)NC1C=C(CC(C1O)O)C(=O)NCCC(=O)N,3805327.0,,,,unverified
+CNP0409253.1,"(S)-3-(2,3-dihydrobenzofuran-5-yl)-N-(1-hydroxy-4-(methylthio)butan-2-yl)propanamide",ORLUDQBZHLUNIF-AWEZNQCLSA-N,CSCC[C@@H](CO)NC(=O)CCC1=CC2=C(C=C1)OCC2,110207498.0,,,,unverified
+CNP0125157.1,S-butyryl-4'-phosphopantetheine,PZIQDUSGQUZEBS-ZDUSSCGKSA-N,CCCC(=O)SCCNC(=O)CCNC(=O)[C@@H](C(C)(C)COP(=O)(O)O)O,119058164.0,,,132309,exogenous
+CNP0061060.0,"7-Methylbicyclo[4.2.0]octa-1,3,5-triene",DIIIHASDQIQOFX-UHFFFAOYSA-N,CC1CC2=CC=CC=C12,576092.0,,,,unverified
+CNP0299127.0,3-Methylindene,COOKKJGOGWACMY-UHFFFAOYSA-N,CC1=CCC2=CC=CC=C12,13025.0,C76459,,,unverified
+CNP0337423.0,"2-(3-Oxo-2-penta-2,4-dienylcyclopentyl)acetic acid",GZTJZQTVWWHUNH-UHFFFAOYSA-N,C=CC=CCC1C(CCC1=O)CC(=O)O,163052920.0,,,,unverified
+CNP0007479.0,"2-[5-(aminomethyl)-6-hydroxy-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-2-yl]-N-propan-2-ylacetamide",RZCKBZNISGMCDU-UHFFFAOYSA-N,CC(C)NC(=O)CC1CC2C(O1)C(C(O2)CN)O,162792855.0,,,,unverified
+CNP0183405.0,"1-Ethyl-2,3-dimethylbenzene",QUBBAXISAHIDNM-UHFFFAOYSA-N,CCC1=CC=CC(=C1C)C,13621.0,,,,exogenous
+CNP0218080.0,"Dimethyl 2,4,6-trimethyl-1,4-dihydropyridine-3,5-dicarboxylate",BYZKBWPZYGLLTA-UHFFFAOYSA-N,CC1C(=C(NC(=C1C(=O)OC)C)C)C(=O)OC,2818324.0,,,,unverified
+CNP0599984.0,2-((tert-Butoxycarbonyl)amino)-2-(2-methoxyphenyl)acetic acid,KRHZKJYHTQGZGS-UHFFFAOYSA-N,CC(C)(C)OC(=O)NC(C1=CC=CC=C1OC)C(=O)O,18931575.0,,,,unverified
+CNP0215482.0,"4-[(Cyclopropylmethylamino)methyl]-4-(2-methoxyethoxymethyl)cyclopentane-1,2-diol",XYHCAKGXENVIBM-UHFFFAOYSA-N,COCCOCC1(CC(C(C1)O)O)CNCC2CC2,162945051.0,,,,unverified
+CNP0110255.0,"1,2,4-Trimethylbenzene",GWHJZXXIDMPWGX-UHFFFAOYSA-N,CC1=CC(C)=C(C)C=C1,7247.0,C14533,HMDB0013733,34039,endogenous
+CNP0354060.1,1-hydroxyboivinianin A,HNFTTYIOFJPHQE-GFCCVEGCSA-N,CC1=CC(=C(C=C1)[C@]2(CCC(=O)O2)C)O,122177660.0,,,205939,exogenous
+CNP0255727.0,2-(4-Oxo-5-pent-2-enylcyclopent-2-en-1-yl)acetic acid,KJWUKJXAYNQYSS-UHFFFAOYSA-N,CCC=CCC1C(C=CC1=O)CC(=O)O,72729858.0,,,,exogenous
+CNP0530117.0,1-Hydroxyisoquinoline,VDBNYAPERZTOOF-UHFFFAOYSA-N,C1=CC=C2C(=C1)C=CNC2=O,10284.0,C06324,HMDB0243900,18350,exogenous
+CNP0015419.0,"3-Methyl-5-[1-[(2-phenylacetyl)amino]ethyl]-1,2-oxazole-4-carboxylic acid",NQQRWTSUIPWAMR-UHFFFAOYSA-N,CC1=NOC(=C1C(=O)O)C(C)NC(=O)CC2=CC=CC=C2,162798955.0,,,,unverified
+CNP0525299.0,Sulforaphane,SUVMJBTUFCVSAD-UHFFFAOYSA-N,CS(=O)CCCCN=C=S,5350.0,,HMDB0005792,47807,exogenous
+CNP0084516.0,"2-[5-[(cyclobutylcarbamoylamino)methyl]-6-hydroxy-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-2-yl]-N-cyclopropylacetamide",PGUYLXVRPHDCCA-UHFFFAOYSA-N,C1CC(C1)NC(=O)NCC2C(C3C(O2)CC(O3)CC(=O)NC4CC4)O,162822425.0,,,,unverified
+CNP0094964.0,"Dimethyl 4-(2-hydroxy-3-methoxyphenyl)-2,6-dimethyl-1,4-dihydro-3,5-pyridinedicarboxylate",MGIDSCTVZPOKAV-UHFFFAOYSA-N,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=C(C(=CC=C2)OC)O)C(=O)OC,2748275.0,,,,unverified
+CNP0050070.0,"1-Cyclohexyl-3-[[3,4-dihydroxy-5-(2-morpholin-4-yl-2-oxoethyl)oxolan-2-yl]methyl]urea",OAQJKFZAGPMIGC-UHFFFAOYSA-N,C1CCC(CC1)NC(=O)NCC2C(C(C(O2)CC(=O)N3CCOCC3)O)O,74451322.0,,,,unverified
+CNP0363939.0,"4-(3,4-Dimethoxyphenyl)tetrahydro-2H-pyran-4-carboxamide",NZLLKUHTKJUBFH-UHFFFAOYSA-N,COC1=C(C=C(C=C1)C2(CCOCC2)C(=O)N)OC,613495.0,,,,unverified
+CNP0478619.0,"[3-(cyclopropylmethylamino)-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-6-yl] N-ethylcarbamate",ZXBCXKSMYVGJKE-UHFFFAOYSA-N,CCNC(=O)OC1COC2C1OCC2NCC3CC3,73133680.0,,,,unverified
+CNP0533660.0,1-[[3-hydroxy-6-(2-hydroxyethyl)oxan-2-yl]methyl]-3-phenylurea,,,,,,,unverified
+CNP0543898.1,"(3R,6R)-3-benzyl-6-(hydroxymethyl)piperazine-2,5-dione",WIJKWEYCUNYTGY-NXEZZACHSA-N,C1=CC=C(C=C1)C[C@@H]2C(=O)N[C@@H](C(=O)N2)CO,124300464.0,,,,unverified
+CNP0071801.0,"5-[[1-[[Carboxy(hydroxy)methyl]amino]-3-[[11-(1-ethylcyclopentyl)-3-oxo-2-oxatricyclo[6.3.1.04,12]dodeca-1(12),5-dien-11-yl]sulfanyl]-1-oxopropan-2-yl]amino]-2-(methylaminomethylamino)-5-oxopentanoic acid",VFQQSAQDUDJNIJ-UHFFFAOYSA-N,CCC1(CCCC1)C2(CCC3CC=CC4C3=C2OC4=O)SCC(C(=O)NC(C(=O)O)O)NC(=O)CCC(C(=O)O)NCNC,162814537.0,,,,unverified
+CNP0237333.0,"N-[[3,4-dihydroxy-5-[2-oxo-2-(propan-2-ylamino)ethyl]oxolan-2-yl]methyl]-2-ethylbutanamide",OUMMUORTBYSLFO-UHFFFAOYSA-N,CCC(CC)C(=O)NCC1C(C(C(O1)CC(=O)NC(C)C)O)O,74735054.0,,,,unverified
+CNP0195791.0,"7,9b-Dimethyl-3,3a,4,5,5a,6,7,8,9,9a-decahydrobenzo[g][2]benzofuran-1-one",OESDLQGRHWDNBJ-UHFFFAOYSA-N,CC1CCC2C(C1)CCC3C2(C(=O)OC3)C,162926069.0,,,,unverified
+CNP0436138.1,6-acetyl-3-methyl-3-formamidocyclohexane,YIMYIHLJRZROLC-MGCOHNPYSA-N,CC(=O)C1CCC(CC1)(C)NC=O,11819704.0,,,,exogenous
+CNP0096741.0,(3-Methyl-2-butenyl)benzene,XGADZHWYGCKKJF-UHFFFAOYSA-N,CC(=CCC1=CC=CC=C1)C,20572.0,,HMDB0061808,88582,endogenous
+CNP0320663.0,3-[(2-amino-9H-purin-6-yl)amino]propanoic acid,SMNUIRULLQNCJA-UHFFFAOYSA-N,C1=NC2=C(N1)C(=NC(=N2)N)NCCC(=O)O,71825998.0,,,,unverified
+CNP0139858.0,5-Hexanoyl-5-hydroxy-1-(2-methylpropyl)pyrrolidin-2-one,ZJYUFDTTZVGZAW-UHFFFAOYSA-N,CCCCCC(=O)C1(CCC(=O)N1CC(C)C)O,11230587.0,,,,exogenous
+CNP0260698.0,"8-(propan-2-yloxymethoxy)-2,5,6,7-tetrahydro-1H-pyrrolizin-3-one",VOQBEDQJSMOPCQ-UHFFFAOYSA-N,CC(C)OCOC12CCCN1C(=O)CC2,162987953.0,,,,unverified
+CNP0414747.1,Caryophyllan,DPJADXJMXJQMMX-RTIOCKPSSA-N,CC1C(CC(C(O1)OC)O)([C@H](C[C@@H]([C@@H]([C@@H](C)O)O)OC)O)O,139583797.0,,,199721,exogenous
+CNP0580471.0,"4-Methyl-3-[(4,4,11,11-tetramethyl-3,5,7,10,12-pentaoxatricyclo[7.3.0.02,6]dodecane-8-carbonyl)amino]benzoic acid",GUFRKYXKZARZPK-UHFFFAOYSA-N,CC1=C(C=C(C=C1)C(=O)O)NC(=O)C2C3C(C4C(O2)OC(O4)(C)C)OC(O3)(C)C,5091169.0,,,,unverified
+CNP0334916.0,2-cyano-N-(diethylcarbamoyl)-2-ethylbutanamide,NNJXOCAAXVXUGC-UHFFFAOYSA-N,CCC(CC)(C#N)C(=O)NC(=O)N(CC)CC,35211272.0,,,,unverified
+CNP0011706.0,"[3-(cyclopropylmethylamino)-2,3,3a,5,6,6a-hexahydrofuro[3,2-b]furan-6-yl] N-(4-methoxyphenyl)carbamate",HNHRTCUSDTZWFF-UHFFFAOYSA-N,COC1=CC=C(C=C1)NC(=O)OC2COC3C2OCC3NCC4CC4,73133654.0,,,,unverified
+CNP0033076.0,4-[[4-Hydroxy-3-[[4-(2-methoxyethoxy)benzoyl]amino]azepan-1-yl]methyl]benzoic acid,VLSKUVITVGRLCT-UHFFFAOYSA-N,COCCOC1=CC=C(C=C1)C(=O)NC2C[NH+](CCCC2O)CC3=CC=C(C=C3)C(=O)[O-],74505472.0,,,,unverified
+CNP0005573.0,N-[[4-(benzylamino)-3-hydroxyoxolan-2-yl]methyl]cyclopropanecarboxamide,SFZPWQAYUJGCMD-UHFFFAOYSA-N,C1CC1C(=O)NCC2C(C(CO2)NCC3=CC=CC=C3)O,162790299.0,,,,unverified
+CNP0436571.1,Spiculisporic acid F,ZKFSQPMUJFDTGN-KDOFPFPSSA-N,C=CCCCCCCCCC[C@H](C(=O)O)[C@@]1(CCC(=O)O1)C(=O)O,156581156.0,,,227124,exogenous
+CNP0011470.0,"N-[[3,4-dihydroxy-1-(2-methoxyethoxymethyl)cyclopentyl]methyl]cyclopentanecarboxamide",LLMHHTKQXBQMLZ-UHFFFAOYSA-N,COCCOCC1(CC(C(C1)O)O)CNC(=O)C2CCCC2,162796190.0,,,,unverified
+CNP0552159.0,6-Methylsulfinylhexyl isothiocyanate,XQZVZULJKVALRI-UHFFFAOYSA-N,CS(=O)CCCCCCN=C=S,9815648.0,,HMDB0038461,138799,exogenous
+CNP0294175.2,N-(4-ethoxyphenyl)-Nalpha-{[1-(L-prolyl)piperidin-4-yl]carbonyl}-L-phenylalaninamide,DYSGQTLRJDBXLQ-DQEYMECFSA-N,CCOC1=CC=C(C=C1)NC(=O)[C@H](CC2=CC=CC=C2)NC(=O)C3CCN(CC3)C(=O)[C@@H]4CCCN4,16402999.0,,,,unverified
+CNP0195729.0,"4,5-dihydroxy-N-(2-methylpropyl)dec-2-enamide",GKAGMQMUZOEEEM-UHFFFAOYSA-N,CCCCCC(C(C=CC(=O)NCC(C)C)O)O,73804405.0,,,,unverified
+CNP0112821.0,"31-Hydroxy-35-(2-hydroxyethyl)-17-[2-(4-hydroxy-3-methoxyphenyl)ethyl]-32-methoxy-16-oxa-3-azaheptacyclo[19.7.6.222,25.02,10.04,9.023,28.029,34]hexatriaconta-1(28),2(10),4,6,8,26,29,31,33-nonaen-12-yne-15,19-dione",YIKKXDCWDPXHAT-UHFFFAOYSA-N,COC1=C(C=CC(=C1)CCC2CC(=O)CC3C4CC(C5CC4C(=C(C6=CC(=C(C=C36)OC)O)C7=C(CC#CCC(=O)O2)C8=CC=CC=C8N7)C=C5)CCO)O,162850622.0,,,,unverified
+CNP0319327.0,4-[2-(5-Butylfuran-2-yl)ethyl]-2-[2-(methylamino)ethoxy]phenol,JGIRYJWIVVTPIM-UHFFFAOYSA-N,CCCCC1=CC=C(O1)CCC2=CC(=C(C=C2)O)OCCNC,163038966.0,,,,unverified
+CNP0390327.0,5-Pentylcyclohex-2-en-1-one,AAYGZLFJIHFZMY-UHFFFAOYSA-N,CCCCCC1CC=CC(=O)C1,53633263.0,,,,unverified
+CNP0102085.0,[5-Hydroxy-1-[4-hydroxy-3-methoxy-5-[[2-(3-methylbutyl)-5-oxopyrrolidin-1-yl]methyl]phenyl]decan-3-yl] acetate,LMHOPXNJLHEMNW-UHFFFAOYSA-N,CCCCCC(CC(CCC1=CC(=C(C(=C1)OC)O)CN2C(CCC2=O)CCC(C)C)OC(=O)C)O,162841633.0,,,,unverified
+CNP0168305.0,7-(2-Phenylethenyl)pentadec-2-enoic acid,MDZPUPBYIOGHHK-UHFFFAOYSA-N,CCCCCCCCC(CCCC=CC(=O)O)C=CC1=CC=CC=C1,162900314.0,,,,unverified
+CNP0101713.0,[1-[1-[Acetyloxy-[4-[(4-hydroxy-3-methoxyphenyl)methyl]piperidin-4-yl]methyl]cyclopentyl]-5-hydroxyhexyl] acetate,URYWTLYRMZJKRI-UHFFFAOYSA-N,CC(CCCC(C1(CCCC1)C(C2(CCNCC2)CC3=CC(=C(C=C3)O)OC)OC(=O)C)OC(=O)C)O,162841149.0,,,,unverified
+CNP0160988.0,"4-[2-[2-(2,6-Dimethylhepta-1,5-dienyl)-6-pentyl-1,3-dioxan-4-yl]ethyl]-2-methoxyphenol",MJGVDELZBZAFOX-UHFFFAOYSA-N,CCCCCC1CC(OC(O1)C=C(C)CCC=C(C)C)CCC2=CC(=C(C=C2)O)OC,72997129.0,,,,exogenous
+CNP0259224.0,"9-(2,3-Dihydroxypropyl)-4-(ethylamino)-13-hydroxy-10-(2-phenylethyl)octadeca-9,11-dienoic acid",BFAHLCVTQVYMRJ-UHFFFAOYSA-N,CCCCCC(C=CC(=C(CCCCC(CCC(=O)O)NCC)CC(CO)O)CCC1=CC=CC=C1)O,162986638.0,,,,unverified
+CNP0292047.0,"1-(2,4-Dihydroxy-6-methylphenyl)-2-(2-phenyl-1,3-thiazol-4-yl)ethanone",POJUUAPLONYHKX-UHFFFAOYSA-N,CC1=CC(=CC(=C1C(=O)CC2=CSC(=N2)C3=CC=CC=C3)O)O,854584.0,,,,unverified
+CNP0496838.0,Benzyl N-[1-(cyclohexylcarbamoyl)-2-(1H-indol-3-YL)ethyl]carbamate,CFKFHKYYKXBFJG-UHFFFAOYSA-N,C1CCC(CC1)NC(=O)C(CC2=CNC3=CC=CC=C32)NC(=O)OCC4=CC=CC=C4,3806544.0,,,,unverified
+CNP0387801.0,13-[3-(2-Aminoethyl)cyclopent-2-en-1-yl]-2-(3-hydroxypropyl)-14-oxotetradec-4-enoic acid,KDYZCXJAKKEXLH-UHFFFAOYSA-N,C1CC(=CC1C(CCCCCCCC=CCC(CCCO)C(=O)O)C=O)CCN,163081169.0,,,,unverified
