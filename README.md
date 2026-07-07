@@ -27,8 +27,8 @@ stage1_rag_basics/
     step7_question_framing.py    질문 일반화 수준 가설 검증 (가설 반박, 원인 미확정으로 이월)
   data/                         PDF 원본 (gitignore 처리, 커밋 안 됨)
 stage2_graphrag/
-  step1_load_to_neo4j.py     CSV -> Neo4j Aura 적재 (Metabolite, Enzyme 노드 + INTERACTS_TO 관계)
-  .env.example                Aura 접속 정보 템플릿 (.env는 gitignore 처리, 커밋 안 됨)
+  step1_load_to_neo4j.py     CSV -> Neo4j Aura 적재 (Metabolite, Enzyme 노드 + INTERACTS_WITH 관계)
+  step4_graphrag.py           Neo4j 조회 결과 -> LLM 컨텍스트 -> 그라운딩 질의응답 (GraphRAG)
 stage3_agentic/
 stage4_phd_research/
 ```
@@ -76,9 +76,16 @@ stage4_phd_research/
   - 발견: 현재 그래프는 Metabolite-Enzyme 이분 그래프(bipartite graph) 구조라서, 
     대사체 간에는 항상 짝수 홉으로만 연결됨 (홀수 홉 조회 시 결과 0건으로 확인)
   - 4홉에서는 서로 다른 대사 경로의 대사체가 공통 효소(NAD+ 등)를 통해 간접 연결됨을 확인
-- [ ] step4: GraphRAG 실전 (그래프 정보를 LLM 답변에 활용하는 구조)
+- [x] step4: GraphRAG 실전 (step4_graphrag.py)
+  - Neo4j 조회 결과(Kynurenic acid 연결 효소 7개)를 컨텍스트로 삼아 LLM 질의응답
+  - 그라운딩 프롬프트로 그래프 밖 정보 없이 정상 답변 확인
+  - 중요 발견: LLM이 미정규화된 식별자(ec:1.14.99.2 vs 1.14.99.2)를 답변에서 임의로 통합
+    -> 그래프 구조는 그대로인데 모델이 텍스트 유사성만으로 같은 것으로 판단, 검증 없이 신뢰하면 안 되는 사례
+    -> PhD Gap A(DB 통합/Grounding) 후보 주제와 직접 연결
+- [x] 2단계 마무리: Neo4j 적재, Cypher 기초, 경로 탐색, GraphRAG 파이프라인까지 확인 완료
 - [ ] 엑셀 파워쿼리로 CSV -> 그래프 구조 변환 직접 연습 (선택)
-- [ ] 식별자 불일치 문제 정규화 (예: "ec:1.14.99.2" vs "1.14.99.2")
+- [ ] 식별자 불일치 정규화 (ec: 접두어 통일)
+- [ ] LLM의 임의 통합 현상 추가 검증 (3단계 Agentic/QC ML에서 다룰 후보)
 
 ## 참고 논문
 
