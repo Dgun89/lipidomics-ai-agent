@@ -29,6 +29,7 @@ stage1_rag_basics/
 stage2_graphrag/
   step1_load_to_neo4j.py     CSV -> Neo4j Aura 적재 (Metabolite, Enzyme 노드 + INTERACTS_WITH 관계)
   step4_graphrag.py           Neo4j 조회 결과 -> LLM 컨텍스트 -> 그라운딩 질의응답 (GraphRAG)
+  step5_normalize_enzyme_ids.py KEGG/BRENDA 식별자 정규화
 stage3_agentic/
 stage4_phd_research/
 ```
@@ -83,8 +84,14 @@ stage4_phd_research/
     -> 그래프 구조는 그대로인데 모델이 텍스트 유사성만으로 같은 것으로 판단, 검증 없이 신뢰하면 안 되는 사례
     -> PhD Gap A(DB 통합/Grounding) 후보 주제와 직접 연결
 - [x] 2단계 마무리: Neo4j 적재, Cypher 기초, 경로 탐색, GraphRAG 파이프라인까지 확인 완료
+- [x] step5: 효소 식별자 정규화 (step5_normalize_enzyme_ids.py)
+  - KEGG 'ec:' 접두어 제거 -> BRENDA 표기와 통일, 977건 정규화
+  - 기존 Enzyme 노드/관계 삭제 후 재적재, MERGE로 KEGG-BRENDA 자동 병합 확인
+  - step4 재실행으로 검증: LLM이 더 이상 임의로 노드를 통합하지 않고, 
+    이미 통합된 그래프 사실을 그대로 반환함을 확인
+  - 남은 과제: HMDB(유전자 기호), Reactome(설명문)은 EC 번호 체계가 아니므로 
+    별도 매핑 테이블 필요 (3단계 이후로 이월)
 - [ ] 엑셀 파워쿼리로 CSV -> 그래프 구조 변환 직접 연습 (선택)
-- [ ] 식별자 불일치 정규화 (ec: 접두어 통일)
 - [ ] LLM의 임의 통합 현상 추가 검증 (3단계 Agentic/QC ML에서 다룰 후보)
 
 ## 참고 논문
