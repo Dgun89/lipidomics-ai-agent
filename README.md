@@ -67,7 +67,9 @@ stage4_phd_research/
   - 접속 정보는 .env로 분리 관리(python-dotenv)하여 git 노출 방지
 - [x] 트러블슈팅: DNS 미해결(.env 값 미반영, override=True로 해결), 인증 실패(비밀번호 분실 -> 인스턴스 재생성으로 해결)
 - [x] 적재 검증: MATCH (m:Metabolite) RETURN count(m) -> 902, MATCH ()-[r:INTERACTS_WITH]->() RETURN count(r) -> 3491 확인
-- [ ] step2: Cypher 쿼리 실습 (그래프 탐색, 경로 탐색 등 GraphRAG 기초)
+- [x] step2: Cypher 기초 문법 실습 (MATCH, 관계 패턴, RETURN, 집계·정렬)
+  - 단일 노드 조회, 관계 조회(효소 7개), 집계 쿼리(NAD+ 1215개 연결, 허브 노드 확인)로 기초 문법 익힘
+  - 발견 사항: 같은 효소(EC 1.14.99.2)가 KEGG("ec:1.14.99.2")와 BRENDA("1.14.99.2") 표기 차이로 서로 다른 노드로 분리되는 식별자 불일치 확인 (추후 정규화 필요)
 - [ ] 엑셀 파워쿼리로 CSV -> 그래프 구조 변환 직접 연습 (선택)
 - [ ] Stage1에서 미해결로 남은 "지질 클래스" 질문, 그래프 구조 활용해 재검토
 
