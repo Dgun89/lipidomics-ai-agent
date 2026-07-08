@@ -31,6 +31,7 @@ stage2_graphrag/
   step4_graphrag.py           Neo4j 조회 결과 -> LLM 컨텍스트 -> 그라운딩 질의응답 (GraphRAG)
   step5_normalize_enzyme_ids.py KEGG/BRENDA 식별자 정규화
 stage3_agentic/
+  step1_simple_agent.py    도구 1개짜리 단순 에이전트 (판단->실행->답변)
 stage4_phd_research/
 ```
 
@@ -93,6 +94,18 @@ stage4_phd_research/
     별도 매핑 테이블 필요 (3단계 이후로 이월)
 - [ ] 엑셀 파워쿼리로 CSV -> 그래프 구조 변환 직접 연습 (선택)
 - [ ] LLM의 임의 통합 현상 추가 검증 (3단계 Agentic/QC ML에서 다룰 후보)
+
+## 3단계 진행 로그
+- [x] step1: 단일 도구 에이전트 (step1_simple_agent.py)
+  - 프레임워크(LangChain 등) 없이 프롬프트 설계 + 문자열 파싱으로 ReAct 패턴(판단->도구 실행->답변) 직접 구현
+  - Neo4j 조회 도구 1개(get_enzymes_for_metabolite) 정의
+  - LLM이 질문 유형에 따라 도구 호출 필요 여부를 스스로 판단하는 것을 확인
+    - 그래프 데이터 필요 질문 -> 도구 호출 -> 근거 기반 답변
+    - 일반 상식 질문 -> 도구 없이 즉답
+  - 트러블슈팅: TOOL_CALL 형식 인식 실패
+    - 원인: decide_tool_call() 프롬프트 지시문의 형식 표기 오류(Tool_call: vs TOOL_CALL:)
+    - 해결: 프롬프트 지시문을 정확한 대문자(TOOL_CALL:)로 수정
+    - 교훈: LLM에게 특정 형식으로 답하라고 지시할 때, 그 형식 문자열(대소문자 포함)을 정확히 작성하는 것이 중요함
 
 ## 참고 논문
 
