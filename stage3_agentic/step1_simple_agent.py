@@ -62,7 +62,7 @@ def decide_tool_call(question: str) -> str | None:
     """
     prompt = f"""You have access to one tool:
     
-    get_enzyme_for_metabolite(metabolite_name): returns the list of enzymes connected to a given metabolite in a graph database.
+    get_enzymes_for_metabolite(metabolite_name): returns the list of enzymes connected to a given metabolite in a graph database.
 
     Decide whether answering the following question requires calling this tool.
     - If it does, respond with EXACTLY this format and nothing else:
