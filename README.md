@@ -2,6 +2,8 @@
 
 화학·리피도믹스 지식에 대한 **LLM 그라운딩·식별자 신뢰성** 문제를 개인적으로 학습·프로토타이핑하는 저장소입니다. RAG → GraphRAG → 도구 사용 에이전트로 발전시킵니다.
 
+그래프·RAG 실험에 쓰는 대사체 DB(902개 화합물, 3,491개 효소 관계)는 [metabolite-study](https://github.com/dgun89/metabolite-study)에서 구축한 것이며, LLM 그라운딩·식별자 신뢰성 문제의식은 [DarkMet](https://github.com/dgun89/DarkMet)와 같은 축을 공유합니다.
+
 ## 로드맵
 
 | 단계 | 시기 | 내용 | 진행 |
