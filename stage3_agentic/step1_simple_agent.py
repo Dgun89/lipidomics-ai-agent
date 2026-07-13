@@ -46,7 +46,7 @@ def get_enzymes_for_metabolite(driver, metabolite_name: str) -> str:
         rows = [dict(record) for record in result]
 
     if not rows:
-        return f"No graph data found for '{metabolite_name}"
+        return f"No graph data found for '{metabolite_name}'"
     
     lines = [f"Metabolite: {metabolite_name}", "Connected enzymes:"]
     for row in rows:
@@ -54,14 +54,15 @@ def get_enzymes_for_metabolite(driver, metabolite_name: str) -> str:
     return "\n".join(lines)
 
 ### 에이전트 판단 단계 ###
-def decide_tool_call(question: str) -> str | None:
+def decide_tool_call(question: str) -> tuple[str | None, str | None]:
     """
     LLM에게 도구 호출 필요 여부를 판단시킨다.
-    필요하면, 'TOOL_CALL: <metabolite_name>' 형식으로 답하도록 지시하고,
-    그 형식이면 대사체 이름을 추출해서 반환, 아니면 None 반환
+    반환: (tool_arg, direct_answer) — 정확히 하나만 non-None.
+      - 도구 필요: (metabolite_name, None)
+      - 도구 불필요: (None, 직접 답변 텍스트)
     """
     prompt = f"""You have access to one tool:
-    
+
     get_enzymes_for_metabolite(metabolite_name): returns the list of enzymes connected to a given metabolite in a graph database.
 
     Decide whether answering the following question requires calling this tool.
@@ -80,14 +81,14 @@ def decide_tool_call(question: str) -> str | None:
 
     match = re.match(r"TOOL_CALL:\s*(.+)", text)
     if match:
-        return match.group(1).strip()
-    return None, text # 도구 불필요: (None, 직접 답변)
+        return match.group(1).strip(), None   # 도구 필요
+    return None, text                          # 도구 불필요 + 직접 답변
 
 def answer_with_context(question: str, context: str) -> str:
     """도구 실행 결과(컨텍스트)를 근거로 최종 답변을 생성한다."""
     prompt = f"""The following is information retrieved from a graph database. 
     If the answer is not contained in this information, respond only with "Not found in the provided data."
-    Do not guess or use general knowledge.NotADirectoryError
+    Do not guess or use general knowledge.
     
     [Graph Data]
     {context}
@@ -107,19 +108,15 @@ def answer_with_context(question: str, context: str) -> str:
 def run_agent(driver, question: str):
     print(f"[질문] {question}")
 
-    decision = decide_tool_call(question)
+    tool_arg, direct_answer = decide_tool_call(question)
 
-    if isinstance(decision, tuple):
-        #도구 불필요 -> 직접 답변
-        _, direct_answer = decision
+    if tool_arg is None:
         print("[판단] 도구 호출 불필요 -> 직접 답변")
         print(f"[답변] {direct_answer}")
         return
     
-    metabolite_name = decision
-    print(f"[판단] 도구 호출 필요 -> get_enzymes_for_metabolite('{metabolite_name}')")
-
-    context = get_enzymes_for_metabolite(driver, metabolite_name)
+    print(f"[판단] 도구 호출 필요 -> get_enzymes_for_metabolite('{tool_arg}')")
+    context = get_enzymes_for_metabolite(driver, tool_arg)
     print(f"[도구 실행 결과]\n{context}")
 
     final_answer = answer_with_context(question, context)
