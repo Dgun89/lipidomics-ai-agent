@@ -9,7 +9,7 @@
 | 단계 | 시기 | 내용 | 진행 |
 |---|---|---|---|
 | 1 | 0~3개월 | RAG 기초 (LlamaIndex/LangChain) + 도메인 기초 (LIPID MAPS, mzTab-M) | 진행중 |
-| 2 | 3~6개월 | GraphRAG·지식그래프 (Neo4j, text-to-Cypher) | 예정 |
+| 2 | 3~6개월 | GraphRAG·지식그래프 (Neo4j, text-to-Cypher) | 진행중 |
 | 3 | 6~12개월 | Agentic 통합 (LangGraph, MCP) + QC 이상탐지 ML | 예정 |
 | 4 | 박사 연구 | 다크 리피돔 자율주석 + 실시간 온라인 QC 에이전트 심화 (개인 연구주제 후보) | 예정 |
 
@@ -32,6 +32,7 @@ stage2_graphrag/
   step5_normalize_enzyme_ids.py KEGG/BRENDA 식별자 정규화
 stage3_agentic/
   step1_simple_agent.py    도구 1개짜리 단순 에이전트 (판단->실행->답변)
+  step2_multi_tool_agent.py 도구 여러 개 + 레지스트리, LLM이 도구 선택 (판단->도구 선택->실행->답변)
 stage4_phd_research/
 ```
 
@@ -106,6 +107,15 @@ stage4_phd_research/
     - 원인: decide_tool_call() 프롬프트 지시문의 형식 표기 오류(Tool_call: vs TOOL_CALL:)
     - 해결: 프롬프트 지시문을 정확한 대문자(TOOL_CALL:)로 수정
     - 교훈: LLM에게 특정 형식으로 답하라고 지시할 때, 그 형식 문자열(대소문자 포함)을 정확히 작성하는 것이 중요함
+- [x] step2: 다중 도구 에이전트 (step2_multi_tool_agent.py)
+  - 도구 레지스트리(TOOLS: 이름 -> (함수, 설명)) 패턴 — 도구 N개 등록, 추가는 딕셔너리 한 줄
+  - LLM이 "어떤 도구를 어떤 인자로" 판단 -> 'TOOL_CALL: <도구명> | <인자>' 형식 파싱·디스패치
+  - 도구 3개: 효소 조회(정방향), 대사체 조회(역방향), 분류·식별자 조회
+  - 대사체 이름 대소문자 무시 매칭(toLower), 그래프 불필요 질문은 직접 답변 — 4개 경로 모두 확인
+  - 트러블슈팅: 직접답변 분기 return 누락으로 도구 재호출, Enzyme {di->id} 오타, 반환형 튜플 통일
+- [x] LLM 백엔드 전환: HuggingFace Inference API -> Groq (무료 한도 소진 대응)
+  - client = Groq(...), chat.completions.create(model="llama-3.1-8b-instant")로 교체
+  - 추론 계층(LLM)만 교체, Neo4j/Cypher(데이터 계층)는 변경 없음
 
 ## 참고 논문
 
